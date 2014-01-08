@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<faction aggressiveness="0.25" color="Green" sex="Female"
+		icon="Factions/GaiansIcon">
+	<modifiers>
+		<modifier>
+			<conditions>
+				<faction name="Industrious"/>
+			</conditions>
+			<effects>
+				<standing sub="0.2"/>
+			</effects>
+		</modifier>
+		<modifier>
+			<conditions>
+				<faction name="Militaristic"/>
+			</conditions>
+			<effects>
+				<standing sub="0.2"/>
+			</effects>
+		</modifier>
+		<modifier>
+			<conditions>
+				<territory>
+					<features>
+						<feature name="Fungus"/>
+					</features>
+				</territory>
+			</conditions>
+			<effects>
+				<foodPerTurn add="1"/>
+			</effects>
+		</modifier>
+		<modifier>
+			<effects>
+				<powerMultiplier sub="0.1"/>
+				<pollutionMultiplier sub="0.1"/>
+				<alienAggression sub="0.1"/>
+				<creditsPerTurnMultiplier add="0.2"/>
+				<units type="Trooper0" weaponType="Automatic0" deviceType="None" armorType="None"/>
+				<units type="Colonizer" weaponType="None" deviceType="None" armorType="None"/>
+			</effects>
+		</modifier>
+	</modifiers>
+</faction>

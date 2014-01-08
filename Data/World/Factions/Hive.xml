@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<faction aggressiveness="0.55" color="Blue" sex="Male"
+		icon="Factions/HiveIcon">
+	<modifiers>
+		<modifier>
+			<conditions>
+				<faction name="Ecologic"/>
+			</conditions>
+			<effects>
+				<standing sub="0.1"/>
+			</effects>
+		</modifier>
+		<modifier>
+			<conditions>
+				<faction name="Economic"/>
+			</conditions>
+			<effects>
+				<standing add="0.1"/>
+			</effects>
+		</modifier>
+		<modifier>
+			<conditions>
+				<faction name="Scientific"/>
+			</conditions>
+			<effects>
+				<standing add="0.1"/>
+			</effects>
+		</modifier>
+		<modifier>
+			<effects>
+				<habitatMultiplier add="0.1"/>
+				<growthPerTurnMultiplier add="0.1"/>
+				<productionPerTurnMultiplier add="0.10"/>
+				<creditsPerTurnMultiplier sub="0.2"/>
+				<purchaseCostMultiplier add="0.2"/>
+				<units type="Trooper0" weaponType="Automatic0" deviceType="None" armorType="None"/>
+				<units type="Colonizer" weaponType="None" deviceType="None" armorType="None"/>
+			</effects>
+		</modifier>
+	</modifiers>
+</faction>
