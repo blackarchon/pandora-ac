@@ -685,4 +685,28 @@
 	<entry name="Believe35" value="Godwinsons Hoffnung"/>
 	<entry name="Believe36" value="Haus der Märtyrer"/>
 	<entry name="BelieveCount" value="37"/>
+	<entry name="Peace0" value="UN-Hauptquartier"/>
+	<entry name="Peace1" value="UN-Hochkommission"/>
+	<entry name="Peace2" value="UN-Soltempel"/>
+	<entry name="Peace3" value="UN-Schutzzonenstadt"/>
+	<entry name="Peace4" value="UN-Große Zuflucht"/>
+	<entry name="Peace5" value="UN-Amnestiestadt"/>
+	<entry name="Peace6" value="UN-Säule der Rechte"/>
+	<entry name="Peace7" value="UN-Menschheitsbasis"/>
+	<entry name="Peace8" value="UN-Hilfsstation"/>
+	<entry name="Peace9" value="UN-Gleichheitsdorf"/>
+	<entry name="Peace10" value="UN-Siedlungsbehörde"/>
+	<entry name="Peace11" value="UN-Polizeibasis"/>
+	<entry name="Peace12" value="UN-Gesundheitsbehörde"/>
+	<entry name="Peace13" value="UN-Planungsbehörde"/>
+	<entry name="Peace14" value="UN-Bildungsbehörde"/>
+	<entry name="Peace15" value="UN-Sozialrat"/>
+	<entry name="Peace16" value="UN-Handelsausschuss"/>
+	<entry name="Peace17" value="UN-Gerichtshof"/>
+	<entry name="Peace18" value="UN-Informationsbehörde"/>
+	<entry name="Peace19" value="UN-Planeten-Trust"/>
+	<entry name="Peace20" value="UN-Datenbeschaffung"/>
+	<entry name="Peace21" value="UN-Katastrophenschutz"/>
+	<entry name="Peace22" value="UN-Strafgericht"/>
+	<entry name="PeaceCount" value="23"/>
 </language>

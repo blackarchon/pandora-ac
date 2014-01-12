@@ -685,4 +685,28 @@
 	<entry name="Believe35" value="Godwinson's Hope"/>
 	<entry name="Believe36" value="House of Martyrs"/>
 	<entry name="BelieveCount" value="37"/>
+	<entry name="Peace0" value="U.N. Headquarters"/>
+	<entry name="Peace1" value="U.N. High Commission"/>
+	<entry name="Peace2" value="U.N. Temple of Sol"/>
+	<entry name="Peace3" value="U.N. Haven City"/>
+	<entry name="Peace4" value="U.N. Great Refuge"/>
+	<entry name="Peace5" value="U.N. Amnesty Town"/>
+	<entry name="Peace6" value="U.N. Pillar of Rights"/>
+	<entry name="Peace7" value="U.N. Humanity Base"/>
+	<entry name="Peace8" value="U.N. Aid Station"/>
+	<entry name="Peace9" value="U.N. Equality Village"/>
+	<entry name="Peace10" value="U.N. Settlement Agency"/>
+	<entry name="Peace11" value="U.N. Enforcement Base"/>
+	<entry name="Peace12" value="U.N. Health Authority"/>
+	<entry name="Peace13" value="U.N. Planning Authority"/>
+	<entry name="Peace14" value="U.N. Education Agency"/>
+	<entry name="Peace15" value="U.N. Social Council"/>
+	<entry name="Peace16" value="U.N. Commerce Committee"/>
+	<entry name="Peace17" value="U.N. Court of Justice"/>
+	<entry name="Peace18" value="U.N. Information Agency"/>
+	<entry name="Peace19" value="U.N. Planetary Trust"/>
+	<entry name="Peace20" value="U.N. Data Aquisition"/>
+	<entry name="Peace21" value="U.N. Disaster Relief"/>
+	<entry name="Peace22" value="U.N. Criminal Tribunal"/>
+	<entry name="PeaceCount" value="23"/>
 </language>

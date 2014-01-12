@@ -1,31 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<faction aggressiveness="0.35" color="Yellow" sex="Male"
-		icon="Factions/MorganIcon">
+<faction aggressiveness="0.25" color="LightBlue" sex="Male"
+		icon="Factions/PeaceIcon">
 	<modifiers>
 		<modifier>
 			<conditions>
 				<faction name="Industrious"/>
 			</conditions>
 			<effects>
-				<standing add="0.1"/>
+				<standing sub="0.2"/>
 			</effects>
 		</modifier>
 		<modifier>
 			<conditions>
-				<faction name="Scientific"/>
+				<faction name="Militaristic"/>
 			</conditions>
 			<effects>
-				<standing add="0.1"/>
+				<standing sub="0.2"/>
 			</effects>
 		</modifier>
 		<modifier>
 			<effects>
-				<credits add="100"/>
-				<unitUpkeepMultiplier add="0.1"/>
-				<creditsPerTurnMultiplier add="0.25"/>
-				<habitat sub="2"/>
-				<purchaseCostMultiplier sub="0.1"/>
-				<sellPriceFactor add="0.1"/>
+				<creditsPerTurnMultiplier sub="0.1"/>
+				<habitat add="2"/>
 				<units type="Trooper0" weaponType="Automatic0" deviceType="None" armorType="None"/>
 				<units type="Colonizer" weaponType="None" deviceType="None" armorType="None"/>
 			</effects>
