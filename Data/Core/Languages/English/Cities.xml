@@ -624,4 +624,27 @@
 	<entry name="Morgan22" value="Morgan Studios"/>
 	<entry name="Morgan23" value="Morgan Gravitonics"/>
 	<entry name="MorganCount" value="24"/>
+	<entry name="Spartans0" value="Sparta Command"/>
+	<entry name="Spartans1" value="Survival Base"/>
+	<entry name="Spartans2" value="Commander's Keep"/>
+	<entry name="Spartans3" value="War Outpost"/>
+	<entry name="Spartans4" value="Militia Station"/>
+	<entry name="Spartans5" value="Fort Legion"/>
+	<entry name="Spartans6" value="Janissary Rock"/>
+	<entry name="Spartans7" value="Blast Rifle Crag"/>
+	<entry name="Spartans8" value="Hawk of Chiron"/>
+	<entry name="Spartans9" value="Assassin's Redoubt"/>
+	<entry name="Spartans10" value="Centurion Cave"/>
+	<entry name="Spartans11" value="Bunker 118"/>
+	<entry name="Spartans12" value="Hommel's Citadel"/>
+	<entry name="Spartans13" value="Training Camp"/>
+	<entry name="Spartans14" value="Defiance Freehold"/>
+	<entry name="Spartans15" value="Hero's Waypoint"/>
+	<entry name="Spartans16" value="Fort Liberty"/>
+	<entry name="Spartans17" value="Ironholm"/>
+	<entry name="Spartans18" value="Fort Survivalist"/>
+	<entry name="Spartans19" value="Fort Superiority"/>
+	<entry name="Spartans20" value="Halls of Discipline"/>
+	<entry name="Spartans21" value="Parade Ground"/>
+	<entry name="SpartansCount" value="22"/>
 </language>

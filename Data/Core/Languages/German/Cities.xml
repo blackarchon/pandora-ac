@@ -624,4 +624,27 @@
 	<entry name="Morgan22" value="Morgan-Studios"/>
 	<entry name="Morgan23" value="Morgan-Gravitonik"/>
 	<entry name="MorganCount" value="24"/>
+	<entry name="Spartans0" value="Sparta-Kommandozentrale"/>
+	<entry name="Spartans1" value="Überlebensbasis"/>
+	<entry name="Spartans2" value="Kommandantenlager"/>
+	<entry name="Spartans3" value="Militärvorposten"/>
+	<entry name="Spartans4" value="Milizstation"/>
+	<entry name="Spartans5" value="Fort Legion"/>
+	<entry name="Spartans6" value="Janitscharenfelsen"/>
+	<entry name="Spartans7" value="Impulsgewehr-Berg"/>
+	<entry name="Spartans8" value="Falke von Chiron"/>
+	<entry name="Spartans9" value="Mörderredoute"/>
+	<entry name="Spartans10" value="Zenturionenhöhle"/>
+	<entry name="Spartans11" value="Bunker 118"/>
+	<entry name="Spartans12" value="Hommels Zitadelle"/>
+	<entry name="Spartans13" value="Trainingslager"/>
+	<entry name="Spartans14" value="Widerstandsfestung"/>
+	<entry name="Spartans15" value="Heldenwegpunkt"/>
+	<entry name="Spartans16" value="Fort Freiheit"/>
+	<entry name="Spartans17" value="Eisenholm"/>
+	<entry name="Spartans18" value="Fort Überlebenskämpfer"/>
+	<entry name="Spartans19" value="Fort Überlegenheit"/>
+	<entry name="Spartans20" value="Hallen der Disziplin"/>
+	<entry name="Spartans21" value="Paradeplatz"/>
+	<entry name="SpartansCount" value="22"/>
 </language>

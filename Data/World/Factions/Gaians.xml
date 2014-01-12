@@ -36,6 +36,7 @@
 				<pollutionMultiplier sub="0.1"/>
 				<alienAggression sub="0.1"/>
 				<creditsPerTurnMultiplier add="0.2"/>
+				<moraleMultiplier sub="0.1"/>
 				<units type="Trooper0" weaponType="Automatic0" deviceType="None" armorType="None"/>
 				<units type="Colonizer" weaponType="None" deviceType="None" armorType="None"/>
 			</effects>
