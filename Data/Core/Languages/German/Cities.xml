@@ -599,4 +599,29 @@
 	<entry name="Univ29" value="Zoloto Gold"/>
 	<entry name="Univ30" value="Edinstvo Unity"/>
 	<entry name="UnivCount" value="31"/>
+	<entry name="Morgan0" value="Morgan Industries"/>
+	<entry name="Morgan1" value="Morgan-Metagenics"/>
+	<entry name="Morgan2" value="Morgan-Bank"/>
+	<entry name="Morgan3" value="Morgan-Handelszentrum"/>
+	<entry name="Morgan4" value="Morgan-Biochemie"/>
+	<entry name="Morgan5" value="Morgan-Datensysteme"/>
+	<entry name="Morgan6" value="Morgan-Hydrokultur"/>
+	<entry name="Morgan7" value="Morgan-Minen"/>
+	<entry name="Morgan8" value="Morgan-Verarbeitung"/>
+	<entry name="Morgan9" value="Morgan-Solarfex"/>
+	<entry name="Morgan10" value="Morgan-Unterhaltung"/>
+	<entry name="Morgan11" value="Morgan-Vertrieb"/>
+	<entry name="Morgan12" value="Morgan-Pharmazie"/>
+	<entry name="Morgan13" value="Morgan-Metallurgie"/>
+	<entry name="Morgan14" value="Morgan-Transport"/>
+	<entry name="Morgan15" value="Morgan-Antimaterie"/>
+	<entry name="Morgan16" value="Morgan-Energiemonopol"/>
+	<entry name="Morgan17" value="Morgan-Buchhaltung"/>
+	<entry name="Morgan18" value="Morgan-Bau"/>
+	<entry name="Morgan19" value="Morgan-Interstellar"/>
+	<entry name="Morgan20" value="Morgan-Aerodynamik"/>
+	<entry name="Morgan21" value="Morgan-Roboter"/>
+	<entry name="Morgan22" value="Morgan-Studios"/>
+	<entry name="Morgan23" value="Morgan-Gravitonik"/>
+	<entry name="MorganCount" value="24"/>
 </language>
