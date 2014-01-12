@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<faction aggressiveness="0.75" color="Orange" sex="Female"
+		icon="Factions/BelieveIcon">
+	<modifiers>
+		<modifier>
+			<conditions>
+				<unit>
+					<self>
+						<attacker/>
+					</self>
+				</unit>
+			</conditions>
+			<effects>
+				<powerMultiplier add="0.25"/>
+			</effects>
+		</modifier>
+		<modifier>
+			<effects>
+				<unitUpkeepMultiplier sub="0.2"/>
+				<researchPerTurnMultiplier sub="0.2"/>
+				<pollutionMultiplier add="0.1"/>
+				<alienAggression add="0.1"/>
+				<units type="Trooper0" weaponType="Automatic0" deviceType="None" armorType="None"/>
+				<units type="Colonizer" weaponType="None" deviceType="None" armorType="None"/>
+			</effects>
+		</modifier>
+	</modifiers>
+</faction>

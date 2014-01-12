@@ -647,4 +647,42 @@
 	<entry name="Spartans20" value="Halls of Discipline"/>
 	<entry name="Spartans21" value="Parade Ground"/>
 	<entry name="SpartansCount" value="22"/>
+	<entry name="Believe0" value="New Jerusalem"/>
+	<entry name="Believe1" value="Great Conclave"/>
+	<entry name="Believe2" value="Great Zion"/>
+	<entry name="Believe3" value="Far Jericho"/>
+	<entry name="Believe4" value="Redemption Base"/>
+	<entry name="Believe5" value="Children of God"/>
+	<entry name="Believe6" value="Noah's Rainbow"/>
+	<entry name="Believe7" value="The Voice of God"/>
+	<entry name="Believe8" value="Judgement Seat"/>
+	<entry name="Believe9" value="Valley of the Faithful"/>
+	<entry name="Believe10" value="Blessed Redeemer"/>
+	<entry name="Believe11" value="The Glory of God"/>
+	<entry name="Believe12" value="New Eden"/>
+	<entry name="Believe13" value="Terrible Swift Sword"/>
+	<entry name="Believe14" value="Time of Salvation"/>
+	<entry name="Believe15" value="Eternal Reward"/>
+	<entry name="Believe16" value="The Lord's Mercy"/>
+	<entry name="Believe17" value="Righteous Sentence"/>
+	<entry name="Believe18" value="Throne of God"/>
+	<entry name="Believe19" value="The Rapture"/>
+	<entry name="Believe20" value="The Lord's Wrath"/>
+	<entry name="Believe21" value="The Lord's Grace"/>
+	<entry name="Believe22" value="The Hand of God"/>
+	<entry name="Believe23" value="The Coming of the Lord"/>
+	<entry name="Believe24" value="Sanctity Base"/>
+	<entry name="Believe25" value="The Lord's Chosen"/>
+	<entry name="Believe26" value="Hallowed Ground"/>
+	<entry name="Believe27" value="The Lord's Gift"/>
+	<entry name="Believe28" value="Divinity Base"/>
+	<entry name="Believe29" value="The Word of God"/>
+	<entry name="Believe30" value="Revelation Base"/>
+	<entry name="Believe31" value="The Holy Fire"/>
+	<entry name="Believe32" value="The Lord's Truth"/>
+	<entry name="Believe33" value="Blessed Saviour"/>
+	<entry name="Believe34" value="From On High"/>
+	<entry name="Believe35" value="Godwinson's Hope"/>
+	<entry name="Believe36" value="House of Martyrs"/>
+	<entry name="BelieveCount" value="37"/>
 </language>

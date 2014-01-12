@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<faction aggressiveness="0.65" color="DarkGray" sex="Female"
+		icon="Factions/SpartansIcon">
+	<modifiers>
+		<modifier>
+			<conditions>
+				<faction name="Fanatic"/>
+			</conditions>
+			<effects>
+				<standing add="0.1"/>
+			</effects>
+		</modifier>
+		<modifier>
+			<effects>
+				<powerMultiplier add="0.2"/>
+				<productionPerTurnMultiplier sub="0.10"/>
+				<moraleMultiplier add="0.1"/>
+				<units type="Trooper0" weaponType="Automatic0" deviceType="None" armorType="None"/>
+				<units type="Colonizer" weaponType="None" deviceType="None" armorType="None"/>
+			</effects>
+		</modifier>
+	</modifiers>
+</faction>

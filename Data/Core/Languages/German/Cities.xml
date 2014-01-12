@@ -647,4 +647,42 @@
 	<entry name="Spartans20" value="Hallen der Disziplin"/>
 	<entry name="Spartans21" value="Paradeplatz"/>
 	<entry name="SpartansCount" value="22"/>
+	<entry name="Believe0" value="Neues Jerusalem"/>
+	<entry name="Believe1" value="Große Konklave"/>
+	<entry name="Believe2" value="Großzion"/>
+	<entry name="Believe3" value="Fernes Jericho"/>
+	<entry name="Believe4" value="Erlösungsbasis"/>
+	<entry name="Believe5" value="Kinder Gottes"/>
+	<entry name="Believe6" value="Noahs Regenbogen"/>
+	<entry name="Believe7" value="Die Stimme Gottes"/>
+	<entry name="Believe8" value="Gerichtssitz"/>
+	<entry name="Believe9" value="Tal der Gläubigen"/>
+	<entry name="Believe10" value="Gesegneter Erlöser"/>
+	<entry name="Believe11" value="Die Ehre Gottes"/>
+	<entry name="Believe12" value="Neues Eden"/>
+	<entry name="Believe13" value="Das Schwert des Herrn"/>
+	<entry name="Believe14" value="Zeit der Erlösung"/>
+	<entry name="Believe15" value="Ewige Belohnung"/>
+	<entry name="Believe16" value="Die Gnade des Herrn"/>
+	<entry name="Believe17" value="Gerechte Bestrafung"/>
+	<entry name="Believe18" value="Thron Gottes"/>
+	<entry name="Believe19" value="Die Verzückung"/>
+	<entry name="Believe20" value="Der Zorn des Herrn"/>
+	<entry name="Believe21" value="Die Gnade des Herrn"/>
+	<entry name="Believe22" value="Die Hand Gottes"/>
+	<entry name="Believe23" value="Das Kommen des Herrn"/>
+	<entry name="Believe24" value="Geheiligte Basis"/>
+	<entry name="Believe25" value="Auserwählte des Herrn"/>
+	<entry name="Believe26" value="Geweihter Grund"/>
+	<entry name="Believe27" value="Das Geschenk des Herrn"/>
+	<entry name="Believe28" value="Basis der Frommen"/>
+	<entry name="Believe29" value="Das Wort Gottes"/>
+	<entry name="Believe30" value="Offenbarungsbasis"/>
+	<entry name="Believe31" value="Das heilige Feuer"/>
+	<entry name="Believe32" value="Die Wahrheit des Herrn"/>
+	<entry name="Believe33" value="Geheiligter Retter"/>
+	<entry name="Believe34" value="Botschaft des Himmels"/>
+	<entry name="Believe35" value="Godwinsons Hoffnung"/>
+	<entry name="Believe36" value="Haus der Märtyrer"/>
+	<entry name="BelieveCount" value="37"/>
 </language>
