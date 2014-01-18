@@ -1,21 +1,109 @@
 <?xml version="1.0" encoding="utf-8"?>
-<faction aggressiveness="0.25" color="Green" sex="Female"
+<faction aggressiveness="0.25" color="rgba(0 0.984375 0 1.0)" sex="Female"
 		icon="Factions/GaiansIcon">
 	<modifiers>
 		<modifier>
 			<conditions>
-				<faction name="Industrious"/>
+				<faction name="Aspidochs"/>
+				<unit>
+					<self>
+						<attacker/>
+					</self>
+				</unit>
 			</conditions>
 			<effects>
-				<standing sub="0.2"/>
+				<powerMultiplier add="0.4"/>
 			</effects>
 		</modifier>
 		<modifier>
 			<conditions>
-				<faction name="Militaristic"/>
+				<faction name="Bugs"/>
+				<unit>
+					<self>
+						<attacker/>
+					</self>
+				</unit>
 			</conditions>
 			<effects>
-				<standing sub="0.2"/>
+				<powerMultiplier add="0.4"/>
+			</effects>
+		</modifier>
+		<modifier>
+			<conditions>
+				<faction name="Flyers"/>
+				<unit>
+					<self>
+						<attacker/>
+					</self>
+				</unit>
+			</conditions>
+			<effects>
+				<powerMultiplier add="0.4"/>
+			</effects>
+		</modifier>
+		<modifier>
+			<conditions>
+				<faction name="Giants"/>
+				<unit>
+					<self>
+						<attacker/>
+					</self>
+				</unit>
+			</conditions>
+			<effects>
+				<powerMultiplier add="0.4"/>
+			</effects>
+		</modifier>
+		<modifier>
+			<conditions>
+				<faction name="Invaders"/>
+				<unit>
+					<self>
+						<attacker/>
+					</self>
+				</unit>
+			</conditions>
+			<effects>
+				<powerMultiplier add="0.4"/>
+			</effects>
+		</modifier>
+		<modifier>
+			<conditions>
+				<faction name="Leviathans"/>
+				<unit>
+					<self>
+						<attacker/>
+					</self>
+				</unit>
+			</conditions>
+			<effects>
+				<powerMultiplier add="0.4"/>
+			</effects>
+		</modifier>
+		<modifier>
+			<conditions>
+				<faction name="QueenFlyers"/>
+				<unit>
+					<self>
+						<attacker/>
+					</self>
+				</unit>
+			</conditions>
+			<effects>
+				<powerMultiplier add="0.4"/>
+			</effects>
+		</modifier>
+		<modifier>
+			<conditions>
+				<faction name="Sharks"/>
+				<unit>
+					<self>
+						<attacker/>
+					</self>
+				</unit>
+			</conditions>
+			<effects>
+				<powerMultiplier add="0.4"/>
 			</effects>
 		</modifier>
 		<modifier>

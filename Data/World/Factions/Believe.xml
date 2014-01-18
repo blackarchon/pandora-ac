@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<faction aggressiveness="0.75" color="Orange" sex="Female"
+<faction aggressiveness="0.75" color="rgba(0.921875 0.359375 0 1)" sex="Female"
 		icon="Factions/BelieveIcon">
 	<modifiers>
 		<modifier>
