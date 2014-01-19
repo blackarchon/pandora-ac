@@ -807,4 +807,28 @@
 	<entry name="Angels20" value="Alphaville"/>
 	<entry name="Angels21" value="Applet Way"/>
 	<entry name="AngelsCount" value="22"/>
+	<entry name="Fungboy0" value="Dawn of Planet"/>
+	<entry name="Fungboy1" value="Worm's Lair"/>
+	<entry name="Fungboy2" value="The Edicts"/>
+	<entry name="Fungboy3" value="Terror's Delight"/>
+	<entry name="Fungboy4" value="Seers of Chiron"/>
+	<entry name="Fungboy5" value="Sword of Planet"/>
+	<entry name="Fungboy6" value="Wormfang Shrine"/>
+	<entry name="Fungboy7" value="Consecration Pit"/>
+	<entry name="Fungboy8" value="Planetvision Gate"/>
+	<entry name="Fungboy9" value="Trance of Purity"/>
+	<entry name="Fungboy10" value="Virgin Planet"/>
+	<entry name="Fungboy11" value="Chiron Stigmata"/>
+	<entry name="Fungboy12" value="Locust Haven"/>
+	<entry name="Fungboy13" value="Well of Souls"/>
+	<entry name="Fungboy14" value="Remain in Light"/>
+	<entry name="Fungboy15" value="Sporerunner Sanctum"/>
+	<entry name="Fungboy16" value="Childhood's End"/>
+	<entry name="Fungboy17" value="Trial By Fire"/>
+	<entry name="Fungboy18" value="Dawn's Chancel"/>
+	<entry name="Fungboy19" value="Concordat of Worms"/>
+	<entry name="Fungboy20" value="Misericordia"/>
+	<entry name="Fungboy21" value="The Hermitage"/>
+	<entry name="Fungboy22" value="Invictus"/>
+	<entry name="FungboyCount" value="23"/>
 </language>

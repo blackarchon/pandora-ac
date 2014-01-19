@@ -5,7 +5,7 @@
 	<entry name="Gaians" value="Gaia's Stepdaughters"/>
 	<entry name="GaiansDescription" value="placeholder"/>
 	<entry name="GaiansLeaderPrename" value="Deidre"/>
-	<entry name="GaiansLeaderSurname" value="Skye"/>  
+	<entry name="GaiansLeaderSurname" value="Skye"/>
 	<entry name="GaiansLeaderTitle" value="Lady"/>
 	<entry name="GaiansProperties" value="<icon texture='GUI/Bullet'/>Environmental safeguards: -10% <icon texture='Resources/Pollution'/> pollution and -10% <icon texture='Factions/NativeIcon' width='16'/> alien aggression<br/><icon texture='GUI/Bullet'/>Experience with life systems &amp; recycling: +20% <icon texture='Resources/Credits'/> credits from taxes<br/><icon texture='GUI/Bullet'/>Pacifist tendencies: -10% <icon texture='Attributes/Power'/> power<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/Food'/> Nutrients in fungus squares<br/><icon texture='GUI/Bullet'/>Freedom loving: -10% <icon texture='Resources/Morale'/> morale"/>
 	<entry name="GaiansQuote" value="<style name='Italic'/>&quot;In the great commons at Gaia's Landing we have a tall and particularly beautiful stand of white pine, planted at the time of the first colonies. It represents our promise to the people, and to Planet itself, never to repeat the tragedy of Earth.&quot;<style name='Default'/><br/>   -- %1%,<style name='Italic'/> Planet Dreams<style name='Default'/>"/>
@@ -53,7 +53,7 @@
 	<entry name="Leviathans" value="Leviathans"/>
 	<entry name="Spartans" value="Spartan Federation"/>
 	<entry name="SpartansDescription" value="placeholder"/>
-	<entry name="SpartansLeaderPrename" value="Corazon"/>  
+	<entry name="SpartansLeaderPrename" value="Corazon"/>
 	<entry name="SpartansLeaderSurname" value="Santiago"/>
 	<entry name="SpartansLeaderTitle" value="Colonel"/>
 	<entry name="SpartansProperties" value="<icon texture='GUI/Bullet'/>Well-armed survivalist movement: +20% <icon texture='Attributes/Power'/> power<br/><icon texture='GUI/Bullet'/>Highly disciplined followers: +10% <icon texture='Resources/Morale'/> morale<br/><icon texture='GUI/Bullet'/>Extravagant weapons are costly: -10% <icon texture='Resources/Production'/> production from workers"/>
@@ -82,7 +82,7 @@
 	<entry name="CyborgWelcome" value="You are %1% of the scientific %2%. Your faction values the human intellect, personal freedom and the academic virtues above all else. While this freedom might result in a lack of discipline or motivation at times, your scientists show unrivaled creativity in their research."/>
 	<entry name="Pirates" value="Nautilus Pirates"/>
 	<entry name="PiratesDescription" value="placeholder"/>
-	<entry name="PiratesLeaderPrename" value="Ulrik"/>  
+	<entry name="PiratesLeaderPrename" value="Ulrik"/>
 	<entry name="PiratesLeaderSurname" value="Svensgaard"/>
 	<entry name="PiratesLeaderTitle" value="Captain"/>
 	<entry name="PiratesProperties" value="<icon texture='GUI/Bullet'/>Individualistic mentality opposed to central organization: -10% <icon texture='Resources/Credits'/> credits from taxes<br/><icon texture='GUI/Bullet'/>Culture does not place high emphasis on family: -10% <icon texture='Resources/PositiveGrowth'/> growth<br/><icon texture='GUI/Bullet'/>Culture and technology adapted for the ocean: +1 <icon texture='Resources/Minerals'/> minerals from coast and ocean tiles"/>
@@ -107,5 +107,14 @@
 	<entry name="AngelsQuote" value="<style name='Italic'/>&quot;What's more important, the data or the jazz? Sure, sure, 'Information should be free' and all that--but anyone can set information free. The jazz is in how you do it, what you do it to, and in almost getting caught without getting caught. The data is 1's and 0's. Life is the jazz.&quot;<style name='Default'/><br/>   -- %1%,<style name='Italic'/> Infobop<style name='Default'/>"/>
 	<entry name="AngelsTheme" value="Angels"/>
 	<entry name="AngelsWelcome" value="You are %1% of the industrious %2%. Your followers are large in numbers and you control them with absolute authority by suppression and censorship. It is your doctrine that planetary sovereignty is achieved on the back of a strong industry, and if the populace or the planet have to suffer for the greater good, so be it."/>
+	<entry name="Fungboy" value="The Cult of Planet"/>
+	<entry name="FungboyDescription" value="placeholder"/>
+	<entry name="FungboyLeaderPrename" value="Cha"/>
+	<entry name="FungboyLeaderSurname" value="Dawn"/>
+	<entry name="FungboyLeaderTitle" value="Prophet"/>
+	<entry name="FungboyProperties" value="<icon texture='GUI/Bullet'/>Devoted to promoting native growth: -20% <icon texture='Resources/Pollution'/> pollution and -20% <icon texture='Factions/NativeIcon' width='16'/> alien aggression<br/><icon texture='GUI/Bullet'/>Reluctant to pollute environment: -10% <icon texture='Resources/Production'/> production from workers<br/><icon texture='GUI/Bullet'/>Disinterested in wealth and its trappings: 10% <icon texture='Resources/Credits'/> worse prices"/>
+	<entry name="FungboyQuote" value="<style name='Italic'/>&quot;Mankind has been blind for thousands of years-for all of its history. We have come to a place whose wonders are a hundred-fold more amazing than anything on Earth. Around us is clear evidence of the will of a higher power. I bring the Vision to the blind eyes of men. I bring the Word to the deaf ears of men. I will make them see it. I will make them hear it.&quot;<style name='Default'/><br/>   -- %1%,<style name='Italic'/> Planet Rising<style name='Default'/>"/>
+	<entry name="FungboyTheme" value="Fungboy"/>
+	<entry name="FungboyWelcome" value="You are %1%, leader of the ecologic %2%. Reckless industries and the war for natural resources bled old Earth white. Our once rich and abundant home world is nothing but a shadow of its former self. While other factions might be on a path to repeat those mistakes, you and your followers have respect for the environment and humanity, treating the planet and its children with the respect they deserve."/>
 	<entry name="Sharks" value="Sharks"/>
 </language>

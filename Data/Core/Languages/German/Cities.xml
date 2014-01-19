@@ -807,4 +807,28 @@
 	<entry name="Angels20" value="Alphaburg"/>
 	<entry name="Angels21" value="Appletgasse"/>
 	<entry name="AngelsCount" value="22"/>
+	<entry name="Fungboy0" value="Dawns Planet"/>
+	<entry name="Fungboy1" value="Wurmlager"/>
+	<entry name="Fungboy2" value="Die Edikte"/>
+	<entry name="Fungboy3" value="Vergnügen des Terrors"/>
+	<entry name="Fungboy4" value="Seher von Chiron"/>
+	<entry name="Fungboy5" value="Schwert des Planeten"/>
+	<entry name="Fungboy6" value="Wurmrachens Schrein"/>
+	<entry name="Fungboy7" value="Weihegrube"/>
+	<entry name="Fungboy8" value="Tor der Planetenvision"/>
+	<entry name="Fungboy9" value="Trance der Reinheit"/>
+	<entry name="Fungboy10" value="Jungfräulicher Planet"/>
+	<entry name="Fungboy11" value="Chiron Stigmas"/>
+	<entry name="Fungboy12" value="Heuschreckenzuflucht"/>
+	<entry name="Fungboy13" value="Seelenbrunn"/>
+	<entry name="Fungboy14" value="Bleibe im Lichte"/>
+	<entry name="Fungboy15" value="Sporenläufers Heiligtum"/>
+	<entry name="Fungboy16" value="Kindheitsende"/>
+	<entry name="Fungboy17" value="Feuertaufe"/>
+	<entry name="Fungboy18" value="Dawns Altarraum"/>
+	<entry name="Fungboy19" value="Würmerkonkordat"/>
+	<entry name="Fungboy20" value="Miserikordia"/>
+	<entry name="Fungboy21" value="Die Einsiedelei"/>
+	<entry name="Fungboy22" value="Inviktus"/>
+	<entry name="FungboyCount" value="23"/>
 </language>

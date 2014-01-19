@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<faction aggressiveness="0.25" color="rgba(0.90625 0.328125 0.328125 1)" sex="Male"
+		icon="Factions/FungboyIcon">
+	<modifiers>
+		<modifier>
+			<effects>
+				<pollutionMultiplier sub="0.2"/>
+				<alienAggression sub="0.2"/>
+				<productionPerTurnMultiplier sub="0.10"/>
+				<purchaseCostMultiplier add="0.1"/>
+				<sellPriceFactor sub="0.1"/>
+				<units type="Trooper0" weaponType="Automatic0" deviceType="None" armorType="None"/>
+				<units type="Colonizer" weaponType="None" deviceType="None" armorType="None"/>
+			</effects>
+		</modifier>
+	</modifiers>
+</faction>
