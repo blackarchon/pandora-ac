@@ -831,4 +831,31 @@
 	<entry name="Fungboy21" value="The Hermitage"/>
 	<entry name="Fungboy22" value="Invictus"/>
 	<entry name="FungboyCount" value="23"/>
+	<entry name="Caretake0" value="Decision : Manifold"/>
+	<entry name="Caretake1" value="Tau Ceti Memory"/>
+	<entry name="Caretake2" value="Manifold : Sixth"/>
+	<entry name="Caretake3" value="Resonance : Power"/>
+	<entry name="Caretake4" value="Resonant Node"/>
+	<entry name="Caretake5" value="Hymn : Modulation"/>
+	<entry name="Caretake6" value="Adapt to Live"/>
+	<entry name="Caretake7" value="M'dar Holding"/>
+	<entry name="Caretake8" value="Tower Preserve"/>
+	<entry name="Caretake9" value="Phantom Forces"/>
+	<entry name="Caretake10" value="Balance of Nature"/>
+	<entry name="Caretake11" value="Star Harmony"/>
+	<entry name="Caretake12" value="Energy Nexus"/>
+	<entry name="Caretake13" value="Vinculum"/>
+	<entry name="Caretake14" value="Melody of Souls"/>
+	<entry name="Caretake15" value="Greater Harmonic"/>
+	<entry name="Caretake16" value="Worlds : Within Worlds"/>
+	<entry name="Caretake17" value="Home : Hearth"/>
+	<entry name="Caretake18" value="Vision : Sound"/>
+	<entry name="Caretake19" value="Great Intertwining"/>
+	<entry name="Caretake20" value="Caretaker Reverence"/>
+	<entry name="Caretake21" value="Thought : Seed"/>
+	<entry name="Caretake22" value="Consonance"/>
+	<entry name="Caretake23" value="Overtone Song"/>
+	<entry name="Caretake24" value="Conservator's Mantle"/>
+	<entry name="Caretake25" value="Harmonic Acolyte"/>
+	<entry name="CaretakeCount" value="26"/>
 </language>

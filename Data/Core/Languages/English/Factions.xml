@@ -116,5 +116,14 @@
 	<entry name="FungboyQuote" value="<style name='Italic'/>&quot;Mankind has been blind for thousands of years-for all of its history. We have come to a place whose wonders are a hundred-fold more amazing than anything on Earth. Around us is clear evidence of the will of a higher power. I bring the Vision to the blind eyes of men. I bring the Word to the deaf ears of men. I will make them see it. I will make them hear it.&quot;<style name='Default'/><br/>   -- %1%,<style name='Italic'/> Planet Rising<style name='Default'/>"/>
 	<entry name="FungboyTheme" value="Fungboy"/>
 	<entry name="FungboyWelcome" value="You are %1%, leader of the ecologic %2%. Reckless industries and the war for natural resources bled old Earth white. Our once rich and abundant home world is nothing but a shadow of its former self. While other factions might be on a path to repeat those mistakes, you and your followers have respect for the environment and humanity, treating the planet and its children with the respect they deserve."/>
+	<entry name="Caretake" value="Manifold Caretakers"/>
+	<entry name="CaretakeDescription" value="placeholder"/>
+	<entry name="CaretakeLeaderPrename" value="Lular"/>
+	<entry name="CaretakeLeaderSurname" value="H'minee"/>
+	<entry name="CaretakeLeaderTitle" value="Caretaker"/>
+	<entry name="CaretakeProperties" value="<icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> Defensive combat: Can sense and manipulate &quot;Resonance&quot; fields<br/><icon texture='GUI/Bullet'/>Understand workings of Planet, the Sixth Manifold: -10% <icon texture='Resources/Pollution'/> pollution and -10% <icon texture='Factions/NativeIcon' width='16'/> alien aggression<br/><icon texture='GUI/Bullet'/>Make Planetfall with a Mk I Battle Ogre and extra Colony Pod<br/><icon texture='GUI/Bullet'/>All combat units have 2-square sighting radius (&quot;Resonance&quot; sensitivity)"/>
+	<entry name="CaretakeQuote" value="<style name='Italic'/>&quot;Tau Ceti Flowering: Horrors visited upon neighboring systems must never be repeated. Therefore: if it means the end of our evolution as a species, so be it.&quot;<style name='Default'/><br/>   -- %1%,<style name='Italic'/> Sacrifice : Life<style name='Default'/>"/>
+	<entry name="CaretakeTheme" value="Caretake"/>
+	<entry name="CaretakeWelcome" value="You are %1%, leader of the ecologic %2%. Reckless industries and the war for natural resources bled old Earth white. Our once rich and abundant home world is nothing but a shadow of its former self. While other factions might be on a path to repeat those mistakes, you and your followers have respect for the environment and humanity, treating the planet and its children with the respect they deserve."/>
 	<entry name="Sharks" value="Sharks"/>
 </language>

@@ -831,4 +831,31 @@
 	<entry name="Fungboy21" value="Die Einsiedelei"/>
 	<entry name="Fungboy22" value="Inviktus"/>
 	<entry name="FungboyCount" value="23"/>
+	<entry name="Caretake0" value="Entscheidung: Manifold"/>
+	<entry name="Caretake1" value="Tau Ceti-Gedächtnis"/>
+	<entry name="Caretake2" value="Manifold: Sechstes"/>
+	<entry name="Caretake3" value="Resonanz: Macht"/>
+	<entry name="Caretake4" value="Resonanzknoten"/>
+	<entry name="Caretake5" value="Hymne: Modulation"/>
+	<entry name="Caretake6" value="Lebensadaption"/>
+	<entry name="Caretake7" value="M'dar Holding"/>
+	<entry name="Caretake8" value="Turmreservat"/>
+	<entry name="Caretake9" value="Phantomkräfte"/>
+	<entry name="Caretake10" value="Natur-Gleichgewicht"/>
+	<entry name="Caretake11" value="Sternenharmonie"/>
+	<entry name="Caretake12" value="Energienexus"/>
+	<entry name="Caretake13" value="Vinculum"/>
+	<entry name="Caretake14" value="Seelenmelodie"/>
+	<entry name="Caretake15" value="Große Harmonie"/>
+	<entry name="Caretake16" value="Welten: In Welten"/>
+	<entry name="Caretake17" value="Heimat: Herd"/>
+	<entry name="Caretake18" value="Vision: Klang"/>
+	<entry name="Caretake19" value="Das große Gewebe"/>
+	<entry name="Caretake20" value="Respekt für Verwalter"/>
+	<entry name="Caretake21" value="Gedanke: Saat"/>
+	<entry name="Caretake22" value="Konsonanz"/>
+	<entry name="Caretake23" value="Lied der Untertöne"/>
+	<entry name="Caretake24" value="Des Schützers Mantel"/>
+	<entry name="Caretake25" value="Harmonieschüler"/>
+	<entry name="CaretakeCount" value="26"/>
 </language>
