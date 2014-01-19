@@ -16,7 +16,7 @@
 	<entry name="HiveLeaderPrename" value="Sheng-Ji"/>
 	<entry name="HiveLeaderSurname" value="Yang"/>
 	<entry name="HiveLeaderTitle" value="Vorsitzender"/>
-	<entry name="HiveProperties" value="<icon texture='GUI/Bullet'/>Rapides Bevölkerungswachstum: +10% <icon texture='Resources/Habitat'/> Wohnraum und +10% <icon texture='Resources/PositiveGrowth'/> Wachstum<br/><icon texture='GUI/Bullet'/>Brutale Knechtschaft: +10% <icon texture='Resources/Production'/> Produktion durch Arbeiter<br/><icon texture='GUI/Bullet'/>Wenig politische Freiheit: -20% <icon texture='Resources/Credits'/> Credits durch Steuern"/>
+	<entry name="HiveProperties" value="<icon texture='GUI/Bullet'/>Rapides Bevölkerungswachstum: +10% <icon texture='Resources/PositiveGrowth'/> Wachstum<br/><icon texture='GUI/Bullet'/>Brutale Knechtschaft: +10% <icon texture='Resources/Production'/> Produktion durch Arbeiter<br/><icon texture='GUI/Bullet'/>Wenig politische Freiheit: -20% <icon texture='Resources/Credits'/> Credits durch Steuern"/>
 	<entry name="HiveQuote" value="<style name='Italic'/>&quot;Lernt, die niederen Bedürfnisse von Fleisch und Knochen zu überwinden, da sie all das verzerren, womit wir die Welt erfahren. Erweitert Eure Wahrnehmung nach außen, über den Körper selbst hinaus, um das Eigentliche der Gruppe, das Eigentliche des Menschseins zu erkennen. Die Ziele der Gruppe und der höheren Rasse sind transzendental, und das zu erkennen heißt, Erleuchtung zu erlangen.&quot;<style name='Default'/><br/>   -- %1%,<style name='Italic'/> Essays über Geist und Materie<style name='Default'/>"/>
 	<entry name="HiveTheme" value="Hive"/>
 	<entry name="HiveWelcome" value="You are %1% of the industrious %2%. Your followers are large in numbers and you control them with absolute authority by suppression and censorship. It is your doctrine that planetary sovereignty is achieved on the back of a strong industry, and if the populace or the planet have to suffer for the greater good, so be it."/>
@@ -71,5 +71,14 @@
 	<entry name="UnivQuote" value="<style name='Italic'/>&quot;Das Fundament des Universums lässt sich unendlich in immer kleinere Komponenten zergliedern. Nach den Atomen haben wir die Elektronen und nach den Elektronen haben wir die Quarks. Jede Ebene enthüllt neue Geheimnisse, bringt aber auch neue Mysterien.&quot;<style name='Default'/><br/>   -- %1%,<style name='Italic'/> Ich aß von der verbotenen Frucht<style name='Default'/>"/>
 	<entry name="UnivTheme" value="Univ"/>
 	<entry name="UnivWelcome" value="You are %1% of the scientific %2%. Your faction values the human intellect, personal freedom and the academic virtues above all else. While this freedom might result in a lack of discipline or motivation at times, your scientists show unrivaled creativity in their research."/>
+	<entry name="Cyborg" value="Das kybernetische Bewusstsein"/>
+	<entry name="CyborgDescription" value="placeholder"/>
+	<entry name="CyborgLeaderPrename" value="Aki"/>
+	<entry name="CyborgLeaderSurname" value="Zeta-5"/>
+	<entry name="CyborgLeaderTitle" value="Primärfunktion"/>
+	<entry name="CyborgProperties" value="<icon texture='GUI/Bullet'/>Menschliches Forschungsvermögen durch algorithmische Kontrolle gesteigert: +20% <icon texture='Resources/Research'/> Forschung durch Wissenschaftler<br/><icon texture='GUI/Bullet'/>Kybernetische Wesen extrem effizient: +20% <icon texture='Resources/Credits'/> Credits durch Steuern<br/><icon texture='GUI/Bullet'/>'von einem Algorithmus besetzte' Menschen reproduzieren ungern: -10% <icon texture='Resources/PositiveGrowth'/> Wachstum"/>
+	<entry name="CyborgQuote" value="<style name='Italic'/>&quot;Wer uns beitreten will, muss nur die Hälfte seiner Menschlichkeit aufgeben - die unlogische, launische und unordentliche Hälfte, die im allgemeinen als Funktionen der rechten Gehirnhälfte gelten. Im Austausch dafür werden die Funktionen der linken Gehirnhälfte auf eine unglaubliche Weise gesteigert. Die Tendenz der biologischen Wesen, statt dessen an ihrer individuellen Persönlichkeit festzuhalten, kann nur archaischen Evolutionstendenzen zugeschrieben werden.&quot;<style name='Default'/><br/>   -- %1%,<style name='Italic'/> Konvergenz<style name='Default'/>"/>
+	<entry name="CyborgTheme" value="Cyborg"/>
+	<entry name="CyborgWelcome" value="You are %1% of the scientific %2%. Your faction values the human intellect, personal freedom and the academic virtues above all else. While this freedom might result in a lack of discipline or motivation at times, your scientists show unrivaled creativity in their research."/>
 	<entry name="Sharks" value="Sharks"/>
 </language>

@@ -709,4 +709,28 @@
 	<entry name="Peace21" value="U.N. Disaster Relief"/>
 	<entry name="Peace22" value="U.N. Criminal Tribunal"/>
 	<entry name="PeaceCount" value="23"/>
+	<entry name="Cyborg0" value="Alpha Prime"/>
+	<entry name="Cyborg1" value="Beta Crossing"/>
+	<entry name="Cyborg2" value="Gamma Flats"/>
+	<entry name="Cyborg3" value="Delta Marsh"/>
+	<entry name="Cyborg4" value="Epsilon Center"/>
+	<entry name="Cyborg5" value="Eta Crossroads"/>
+	<entry name="Cyborg6" value="Theta Banks"/>
+	<entry name="Cyborg7" value="Iota Station"/>
+	<entry name="Cyborg8" value="Kappa Hills"/>
+	<entry name="Cyborg9" value="Lambda Farms"/>
+	<entry name="Cyborg10" value="Mu Crescent"/>
+	<entry name="Cyborg11" value="Nu Square"/>
+	<entry name="Cyborg12" value="Xi Ellipse"/>
+	<entry name="Cyborg13" value="Omicron Quadrangle"/>
+	<entry name="Cyborg14" value="Pi Complex"/>
+	<entry name="Cyborg15" value="Rho Yards"/>
+	<entry name="Cyborg16" value="Sigma Complex"/>
+	<entry name="Cyborg17" value="Tau Collective"/>
+	<entry name="Cyborg18" value="Upsilon Depot"/>
+	<entry name="Cyborg19" value="Psi Consensus"/>
+	<entry name="Cyborg20" value="Chi Plains"/>
+	<entry name="Cyborg21" value="Phi Lumiere"/>
+	<entry name="Cyborg22" value="Omega Terminus"/>
+	<entry name="CyborgCount" value="23"/>
 </language>

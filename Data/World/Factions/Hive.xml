@@ -28,7 +28,6 @@
 		</modifier>
 		<modifier>
 			<effects>
-				<habitatMultiplier add="0.1"/>
 				<growthPerTurnMultiplier add="0.1"/>
 				<productionPerTurnMultiplier add="0.10"/>
 				<creditsPerTurnMultiplier sub="0.2"/>

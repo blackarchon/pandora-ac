@@ -16,7 +16,7 @@
 	<entry name="HiveLeaderPrename" value="Sheng-Ji"/>
 	<entry name="HiveLeaderSurname" value="Yang"/>
 	<entry name="HiveLeaderTitle" value="Chairman"/>
-	<entry name="HiveProperties" value="<icon texture='GUI/Bullet'/>Rapid population growth: +10% <icon texture='Resources/Habitat'/> habitat and +10% <icon texture='Resources/PositiveGrowth'/> growth<br/><icon texture='GUI/Bullet'/>Brutal serfdom: +10% <icon texture='Resources/Production'/> production from workers<br/><icon texture='GUI/Bullet'/>Little political freedom: -20% <icon texture='Resources/Credits'/> credits from taxes"/>
+	<entry name="HiveProperties" value="<icon texture='GUI/Bullet'/>Rapid population growth: +10% <icon texture='Resources/PositiveGrowth'/> growth<br/><icon texture='GUI/Bullet'/>Brutal serfdom: +10% <icon texture='Resources/Production'/> production from workers<br/><icon texture='GUI/Bullet'/>Little political freedom: -20% <icon texture='Resources/Credits'/> credits from taxes"/>
 	<entry name="HiveQuote" value="<style name='Italic'/>&quot;Learn to overcome the crass demands of flesh and bone, for they warp the matrix through which we perceive the world. Extend your awareness outwards, beyond the self of body, to embrace the self of group and the self of humanity. The goals of the group and the greater race are transcendent, and to embrace them is to achieve enlightenment.&quot;<style name='Default'/><br/>   -- %1%,<style name='Italic'/> Essays on Mind and Matter<style name='Default'/>"/>
 	<entry name="HiveTheme" value="Hive"/>
 	<entry name="HiveWelcome" value="You are %1% of the industrious %2%. Your followers are large in numbers and you control them with absolute authority by suppression and censorship. It is your doctrine that planetary sovereignty is achieved on the back of a strong industry, and if the populace or the planet have to suffer for the greater good, so be it."/>
@@ -71,5 +71,14 @@
 	<entry name="UnivQuote" value="<style name='Italic'/>&quot;The substructure of the universe regresses infinitely towards smaller and smaller components. Behind atoms we find electrons, and behind electrons quarks. Each layer unraveled reveals new secrets, but also new mysteries.&quot;<style name='Default'/><br/>   -- %1%,<style name='Italic'/> For I Have Tasted The Fruit<style name='Default'/>"/>
 	<entry name="UnivTheme" value="Univ"/>
 	<entry name="UnivWelcome" value="You are %1% of the scientific %2%. Your faction values the human intellect, personal freedom and the academic virtues above all else. While this freedom might result in a lack of discipline or motivation at times, your scientists show unrivaled creativity in their research."/>
+	<entry name="Cyborg" value="The Cybernetic Consciousness"/>
+	<entry name="CyborgDescription" value="placeholder"/>
+	<entry name="CyborgLeaderPrename" value="Aki"/>
+	<entry name="CyborgLeaderSurname" value="Zeta-5"/>
+	<entry name="CyborgLeaderTitle" value="Prime Function"/>
+	<entry name="CyborgProperties" value="<icon texture='GUI/Bullet'/>Human research abilities enhanced by algorithmic control: +20% <icon texture='Resources/Research'/> research from scientists<br/><icon texture='GUI/Bullet'/>Cybernetic biologicals extremely efficient: +20% <icon texture='Resources/Credits'/> credits from taxes<br/><icon texture='GUI/Bullet'/>Humans 'possessed by an algorithm' find reproduction awkward: -10% <icon texture='Resources/PositiveGrowth'/> growth"/>
+	<entry name="CyborgQuote" value="<style name='Italic'/>&quot;Those who join us need give up only half of their humanity--the illogical, ill-tempered, and disordered half, commonly thought of as 'right-brain' functioning. In exchange, the 'left-brain' capacities are increased to undreamed potential. The tendency of Biologicals to cling instead to their individual personalities can only be attributed to archaic evolutionary tendencies.&quot;<style name='Default'/><br/>   -- %1%,<style name='Italic'/> Convergence<style name='Default'/>"/>
+	<entry name="CyborgTheme" value="Cyborg"/>
+	<entry name="CyborgWelcome" value="You are %1% of the scientific %2%. Your faction values the human intellect, personal freedom and the academic virtues above all else. While this freedom might result in a lack of discipline or motivation at times, your scientists show unrivaled creativity in their research."/>
 	<entry name="Sharks" value="Sharks"/>
 </language>

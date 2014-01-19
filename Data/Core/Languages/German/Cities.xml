@@ -709,4 +709,28 @@
 	<entry name="Peace21" value="UN-Katastrophenschutz"/>
 	<entry name="Peace22" value="UN-Strafgericht"/>
 	<entry name="PeaceCount" value="23"/>
+	<entry name="Cyborg0" value="Alpha-Primus"/>
+	<entry name="Cyborg1" value="Betadorf"/>
+	<entry name="Cyborg2" value="Gamma-Flachland"/>
+	<entry name="Cyborg3" value="Delta-Marschland"/>
+	<entry name="Cyborg4" value="Epsilonzentrum"/>
+	<entry name="Cyborg5" value="Eta-Kreuzung"/>
+	<entry name="Cyborg6" value="Theta-Ufer"/>
+	<entry name="Cyborg7" value="Iota-Station"/>
+	<entry name="Cyborg8" value="Kappaberge"/>
+	<entry name="Cyborg9" value="Lambdahof"/>
+	<entry name="Cyborg10" value="Mu-Gipfel"/>
+	<entry name="Cyborg11" value="Nu-Platz"/>
+	<entry name="Cyborg12" value="Xi-Ellipse"/>
+	<entry name="Cyborg13" value="Omicron-Quadrat"/>
+	<entry name="Cyborg14" value="Pi-Komplex"/>
+	<entry name="Cyborg15" value="Rho-Garten"/>
+	<entry name="Cyborg16" value="Sigma-Komplex"/>
+	<entry name="Cyborg17" value="Tau-Kollektiv"/>
+	<entry name="Cyborg18" value="Ypsilon-Depot"/>
+	<entry name="Cyborg19" value="Psi-Einigung"/>
+	<entry name="Cyborg20" value="Chi-Walde"/>
+	<entry name="Cyborg21" value="Phi-Berg"/>
+	<entry name="Cyborg22" value="Omega-Terminus"/>
+	<entry name="CyborgCount" value="23"/>
 </language>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<faction aggressiveness="0.45" color="rgba(0.171875 0.5 0.40625 1)" sex="Female"
+		icon="Factions/UnivIcon">
+	<modifiers>
+		<modifier>
+			<conditions>
+				<faction name="Economic"/>
+			</conditions>
+			<effects>
+				<standing add="0.1"/>
+			</effects>
+		</modifier>
+		<modifier>
+			<conditions>
+				<faction name="Fanatic"/>
+			</conditions>
+			<effects>
+				<standing sub="0.1"/>
+			</effects>
+		</modifier>
+		<modifier>
+			<conditions>
+				<faction name="Industrious"/>
+			</conditions>
+			<effects>
+				<standing add="0.1"/>
+			</effects>
+		</modifier>
+		<modifier>
+			<effects>
+				<researchPerTurnMultiplier add="0.2"/>
+				<creditsPerTurnMultiplier add="0.2"/>
+				<growthPerTurnMultiplier sub="0.1"/>
+				<!--<technologies name="ATV0"/>-->
+				<units type="Trooper0" weaponType="Automatic0" deviceType="None" armorType="None"/>
+				<units type="Colonizer" weaponType="None" deviceType="None" armorType="None"/>
+			</effects>
+		</modifier>
+	</modifiers>
+</faction>
