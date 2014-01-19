@@ -758,4 +758,30 @@
 	<entry name="Pirates22" value="Plunder Cache"/>
 	<entry name="Pirates23" value="Cannon's Thunder"/>
 	<entry name="PiratesCount" value="24"/>
+	<entry name="Drone0" value="Free Drone Central"/>
+	<entry name="Drone1" value="Hall of Industry"/>
+	<entry name="Drone2" value="Smokestack Hill"/>
+	<entry name="Drone3" value="Steelfount"/>
+	<entry name="Drone4" value="Freedman's Park"/>
+	<entry name="Drone5" value="Common Ground"/>
+	<entry name="Drone6" value="Labor Trust"/>
+	<entry name="Drone7" value="Liberty Plant"/>
+	<entry name="Drone8" value="Freedom's Foundry"/>
+	<entry name="Drone9" value="Assembly Hall"/>
+	<entry name="Drone10" value="Worker's Paradise"/>
+	<entry name="Drone11" value="Miner's Freehold"/>
+	<entry name="Drone12" value="Digger's Descent"/>
+	<entry name="Drone13" value="Domai Dome"/>
+	<entry name="Drone14" value="Living Standard"/>
+	<entry name="Drone15" value="Spanner Works"/>
+	<entry name="Drone16" value="Staples of Life"/>
+	<entry name="Drone17" value="Hammer and Tongs"/>
+	<entry name="Drone18" value="Anvil of Man"/>
+	<entry name="Drone19" value="Whipsaw Base"/>
+	<entry name="Drone20" value="Drilling Grounds"/>
+	<entry name="Drone21" value="Guild House"/>
+	<entry name="Drone22" value="Craftsman Keep"/>
+	<entry name="Drone23" value="Future's Fulcrum"/>
+	<entry name="Drone24" value="Power Grid"/>
+	<entry name="DroneCount" value="25"/>
 </language>

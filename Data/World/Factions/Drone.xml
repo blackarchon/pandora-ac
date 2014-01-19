@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<faction aggressiveness="0.55" color="rgba(0.53125 0.046875 0.046875 1)" sex="Male"
+		icon="Factions/DroneIcon">
+	<modifiers>
+		<modifier>
+			<effects>
+				<productionPerTurnMultiplier add="0.20"/>
+				<researchPerTurnMultiplier sub="0.2"/>
+				<morale add="1"/>
+				<units type="Trooper0" weaponType="Automatic0" deviceType="None" armorType="None"/>
+				<units type="Colonizer" weaponType="None" deviceType="None" armorType="None"/>
+			</effects>
+		</modifier>
+	</modifiers>
+</faction>

@@ -89,5 +89,14 @@
 	<entry name="PiratesQuote" value="<style name='Italic'/>&quot;Das Meer ... gewaltig, geheimnisvoll ... und eine Quelle des Reichtums! Und die Nationen auf dem Planeten treiben darauf ihren Handel, ohne einen Gedanken darüber zu verschwenden. Nun gut, das Meer kümmert es nicht, deshalb will ich es noch einmal durchgehen lassen. Wir können dem Meer jedoch eine kleine Hilfestellung geben, indem wir diesen Landratten eine Lektion in Demut erteilen.&quot;<style name='Default'/><br/>   -- %1%,<style name='Italic'/> Die Welle und die Woge<style name='Default'/>"/>
 	<entry name="PiratesTheme" value="Pirates"/>
 	<entry name="PiratesWelcome" value="You are %1% of the militaristic %2%. Your specialty is warfare and your crack troops are feared across the solar system. Your society follows a strict military code, with members learning discipline and the chain of command from early on in childhood. When on duty any imperial soldier is expected to excel, but Imperium rewards that quality with a very high rate of pay."/>
+	<entry name="Drone" value="Die freien Drohnen"/>
+	<entry name="DroneDescription" value="placeholder"/>
+	<entry name="DroneLeaderPrename" value="?"/>
+	<entry name="DroneLeaderSurname" value="Domai"/>
+	<entry name="DroneLeaderTitle" value="Meister"/>
+	<entry name="DroneProperties" value="<icon texture='GUI/Bullet'/>Hervorragende Handwerker und ausgebildete Arbeiter: +20% <icon texture='Resources/Production'/> Produktion durch Arbeiter<br/><icon texture='GUI/Bullet'/>Betonung auf Produktivität statt Forschung 'ins Blaue': -20% <icon texture='Resources/Research'/> Forschung durch Wissenschaftler<br/><icon texture='GUI/Bullet'/>Reduzierung der Unzufriedenheit durch Arbeit für das Wohl der Allgemeinheit: +1 <icon texture='Resources/Morale'/> Moral"/>
+	<entry name="DroneQuote" value="<style name='Italic'/>&quot;Die Ketten rasseln Tag für Tag, wie Sklaven treibt man uns hinab<br/>Mit Stöcken und mit Peitschenschlag - als Lohn erwartet uns das Grab<br/>Doch eines Nachts, wenn dieser Ort in Stille liegt, bin ich bereit<br/>Und räche durch Tyrannenmord der Peitschenschwinger Grausamkeit<br/>Erzittern wird das ganze Land, und voller Reue denkt die Stadt<br/>Dass man in schweren Ketten hat, Jim Jones nach Botany Bay gesandt.&quot;<style name='Default'/><br/>   -- &quot;Jim Jones&quot;,<style name='Italic'/> Volksweise<style name='Default'/>"/>
+	<entry name="DroneTheme" value="Drone"/>
+	<entry name="DroneWelcome" value="You are %1% of the industrious %2%. Your followers are large in numbers and you control them with absolute authority by suppression and censorship. It is your doctrine that planetary sovereignty is achieved on the back of a strong industry, and if the populace or the planet have to suffer for the greater good, so be it."/>
 	<entry name="Sharks" value="Sharks"/>
 </language>

@@ -758,4 +758,30 @@
 	<entry name="Pirates22" value="Plünderers Versteck"/>
 	<entry name="Pirates23" value="Kanonendonner"/>
 	<entry name="PiratesCount" value="24"/>
+	<entry name="Drone0" value="Freie Drohnenzentrale"/>
+	<entry name="Drone1" value="Ruhmeshalle der Industrie"/>
+	<entry name="Drone2" value="Schornsteinanhöhe"/>
+	<entry name="Drone3" value="Stahlbrunn"/>
+	<entry name="Drone4" value="Park der Befreiten"/>
+	<entry name="Drone5" value="Gemeinsamkeitswiese"/>
+	<entry name="Drone6" value="Arbeiter-Trust"/>
+	<entry name="Drone7" value="Freiheitsfabrik"/>
+	<entry name="Drone8" value="Freiheitsgießerei"/>
+	<entry name="Drone9" value="Versammlungssaal"/>
+	<entry name="Drone10" value="Paradiese der Arbeiter"/>
+	<entry name="Drone11" value="Bergmanns Besitztum"/>
+	<entry name="Drone12" value="Abstieg für Wühlmäuse"/>
+	<entry name="Drone13" value="Domai-Kuppel"/>
+	<entry name="Drone14" value="Lebensstandard"/>
+	<entry name="Drone15" value="Werkzeugwerk"/>
+	<entry name="Drone16" value="Lebenskrampe"/>
+	<entry name="Drone17" value="Hammer und Zange"/>
+	<entry name="Drone18" value="Amboss des Menschen"/>
+	<entry name="Drone19" value="Sägebasis"/>
+	<entry name="Drone20" value="Bohrwiese"/>
+	<entry name="Drone21" value="Zunfthaus"/>
+	<entry name="Drone22" value="Zum Handwerker"/>
+	<entry name="Drone23" value="Stützpunkt der Zukunft"/>
+	<entry name="Drone24" value="Kraftraster"/>
+	<entry name="DroneCount" value="25"/>
 </language>

@@ -89,5 +89,14 @@
 	<entry name="PiratesQuote" value="<style name='Italic'/>&quot;The sea ... vast, mysterious ... and full of wealth! And the nations of Planet send their trade across it without a thought. Well, the sea doesn't care about  them, so it lets them pass. But we can give the sea a little hand in teaching the landlubbers a lesson in humility.&quot;<style name='Default'/><br/>   -- %1%,<style name='Italic'/> The Ripple and the Wave<style name='Default'/>"/>
 	<entry name="PiratesTheme" value="Pirates"/>
 	<entry name="PiratesWelcome" value="You are %1% of the militaristic %2%. Your specialty is warfare and your crack troops are feared across the solar system. Your society follows a strict military code, with members learning discipline and the chain of command from early on in childhood. When on duty any imperial soldier is expected to excel, but Imperium rewards that quality with a very high rate of pay."/>
+	<entry name="Drone" value="The Free Drones"/>
+	<entry name="DroneDescription" value="placeholder"/>
+	<entry name="DroneLeaderPrename" value="?"/>
+	<entry name="DroneLeaderSurname" value="Domai"/>
+	<entry name="DroneLeaderTitle" value="Foreman"/>
+	<entry name="DroneProperties" value="<icon texture='GUI/Bullet'/>Excellent craftsmen and skilled workers: +20% <icon texture='Resources/Production'/> production from workers<br/><icon texture='GUI/Bullet'/>Emphasis on productivity instead of 'blue-sky' research: -20% <icon texture='Resources/Research'/> research from scientists<br/><icon texture='GUI/Bullet'/>Working for common good reduces discontent: +1 <icon texture='Resources/Morale'/> morale"/>
+	<entry name="DroneQuote" value="<style name='Italic'/>&quot;Now it's day and night the irons clang, and like poor galley slaves<br/>We toil and toil, and when we die, must fill dishonored graves<br/>But some dark night, when everything is silent in the town<br/>I'll shoot those tyrants one and all, I'll gun the flogger down<br/>I'll give the land a little shock, remember what I say,<br/>And they'll yet regret they've sent Jim Jones in chains to Botany Bay.&quot;<style name='Default'/><br/>   -- &quot;Jim Jones&quot;,<style name='Italic'/> Traditional<style name='Default'/>"/>
+	<entry name="DroneTheme" value="Drone"/>
+	<entry name="DroneWelcome" value="You are %1% of the industrious %2%. Your followers are large in numbers and you control them with absolute authority by suppression and censorship. It is your doctrine that planetary sovereignty is achieved on the back of a strong industry, and if the populace or the planet have to suffer for the greater good, so be it."/>
 	<entry name="Sharks" value="Sharks"/>
 </language>
