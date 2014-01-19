@@ -858,4 +858,32 @@
 	<entry name="Caretake24" value="Des Schützers Mantel"/>
 	<entry name="Caretake25" value="Harmonieschüler"/>
 	<entry name="CaretakeCount" value="26"/>
+	<entry name="Usurper0" value="Courage: Hinterfragen"/>
+	<entry name="Usurper1" value="Dimension: Himmel"/>
+	<entry name="Usurper2" value="Bombenallee"/>
+	<entry name="Usurper3" value="Spitzen: Aufsteiger"/>
+	<entry name="Usurper4" value="Ehre: Vorfahr"/>
+	<entry name="Usurper5" value="Sieg über die Schwachen"/>
+	<entry name="Usurper6" value="Genesis: Schicksal"/>
+	<entry name="Usurper7" value="Stoßzahn und Kralle"/>
+	<entry name="Usurper8" value="Basis der Himmelsherren"/>
+	<entry name="Usurper9" value="Roter Stock"/>
+	<entry name="Usurper10" value="Furchtlied"/>
+	<entry name="Usurper11" value="Böser Blick"/>
+	<entry name="Usurper12" value="Klangfragment"/>
+	<entry name="Usurper13" value="Platz der Einheit"/>
+	<entry name="Usurper14" value="Harmonie der Krieger"/>
+	<entry name="Usurper15" value="Maars Auflösung"/>
+	<entry name="Usurper16" value="Rasierklingenstadt"/>
+	<entry name="Usurper17" value="Blutära"/>
+	<entry name="Usurper18" value="Feste des Gottseins"/>
+	<entry name="Usurper19" value="Übersättigung"/>
+	<entry name="Usurper20" value="Tau Ceti-Mantel"/>
+	<entry name="Usurper21" value="Resonanz der Schwerter"/>
+	<entry name="Usurper22" value="Verhängnis-Manifest"/>
+	<entry name="Usurper23" value="Martialische Luft"/>
+	<entry name="Usurper24" value="Erinnerungen: Schmerz"/>
+	<entry name="Usurper25" value="Risiko des Erblühens"/>
+	<entry name="Usurper26" value="Letzte Ehre"/>
+	<entry name="UsurperCount" value="26"/>
 </language>

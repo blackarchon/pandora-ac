@@ -125,5 +125,14 @@
 	<entry name="CaretakeQuote" value="<style name='Italic'/>&quot;Tau Ceti erblüht: Der Horror, der die Nachbarsysteme heimgesucht hat, darf sich niemals wiederholen. Daher: Wenn es das Ende unserer Entwicklung als Rasse bedeutet, ist das nicht zu ändern.&quot;<style name='Default'/><br/>   -- %1%,<style name='Italic'/> Opfer: Leben<style name='Default'/>"/>
 	<entry name="CaretakeTheme" value="Caretake"/>
 	<entry name="CaretakeWelcome" value="You are %1%, leader of the ecologic %2%. Reckless industries and the war for natural resources bled old Earth white. Our once rich and abundant home world is nothing but a shadow of its former self. While other factions might be on a path to repeat those mistakes, you and your followers have respect for the environment and humanity, treating the planet and its children with the respect they deserve."/>
+	<entry name="Usurper" value="Manifold-Usurpatoren"/>
+	<entry name="UsurperDescription" value="placeholder"/>
+	<entry name="UsurperLeaderPrename" value="Judaa"/>
+	<entry name="UsurperLeaderSurname" value="Marr"/>
+	<entry name="UsurperLeaderTitle" value="Usurpator"/>
+	<entry name="UsurperProperties" value="<icon texture='GUI/Bullet'/>Für ihren eigenen Vorteil Raubbau mit den Ressourcen des Planeten treiben: +10% <icon texture='Resources/PositiveGrowth'/> Wachstum<br/><icon texture='GUI/Bullet'/>Kriegsähnliche Kultur: +10% <icon texture='Attributes/Power'/> Einheitenstärke<br/><icon texture='GUI/Bullet'/>Der Planet spürt die finsteren Absichten der Usurpatoren: +10% <icon texture='Resources/Pollution'/> Umweltverschmutzung und +10% <icon texture='Factions/NativeIcon' width='16'/> Alien-Aggression<br/><icon texture='GUI/Bullet'/>+25% Offensivkampf: &quot;Resonanz&quot;-Felder können aufgespürt und manipuliert werden<br/><icon texture='GUI/Bullet'/>Spielbeginn mit einem Mk I-Schlachtoger und einer zusätzlichen Koloniekapsel<br/><icon texture='GUI/Bullet'/>Alle Kampfeinheiten haben einen Sichtradius von 2 Felden (&quot;Resonanz&quot;-Bewusstsein)"/>
+	<entry name="UsurperQuote" value="<style name='Italic'/>&quot;Das Risiko des Erblühens: erheblich. Doch der Lohn der Existenz als Gott: wer kann ihn ermessen?&quot;<style name='Default'/><br/>   -- %1%,<style name='Italic'/> Courage: In Frage stellen<style name='Default'/>"/>
+	<entry name="UsurperTheme" value="Usurper"/>
+	<entry name="UsurperWelcome" value="You are %1%, leader of the ecologic %2%. Reckless industries and the war for natural resources bled old Earth white. Our once rich and abundant home world is nothing but a shadow of its former self. While other factions might be on a path to repeat those mistakes, you and your followers have respect for the environment and humanity, treating the planet and its children with the respect they deserve."/>
 	<entry name="Sharks" value="Sharks"/>
 </language>

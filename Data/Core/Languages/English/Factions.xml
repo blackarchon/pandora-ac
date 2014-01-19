@@ -125,5 +125,14 @@
 	<entry name="CaretakeQuote" value="<style name='Italic'/>&quot;Tau Ceti Flowering: Horrors visited upon neighboring systems must never be repeated. Therefore: if it means the end of our evolution as a species, so be it.&quot;<style name='Default'/><br/>   -- %1%,<style name='Italic'/> Sacrifice : Life<style name='Default'/>"/>
 	<entry name="CaretakeTheme" value="Caretake"/>
 	<entry name="CaretakeWelcome" value="You are %1%, leader of the ecologic %2%. Reckless industries and the war for natural resources bled old Earth white. Our once rich and abundant home world is nothing but a shadow of its former self. While other factions might be on a path to repeat those mistakes, you and your followers have respect for the environment and humanity, treating the planet and its children with the respect they deserve."/>
+	<entry name="Usurper" value="Manifold Usurpers"/>
+	<entry name="UsurperDescription" value="placeholder"/>
+	<entry name="UsurperLeaderPrename" value="Judaa"/>
+	<entry name="UsurperLeaderSurname" value="Marr"/>
+	<entry name="UsurperLeaderTitle" value="Usurper"/>
+	<entry name="UsurperProperties" value="<icon texture='GUI/Bullet'/>Abuse Planet's resources for their own gain: +10% <icon texture='Resources/PositiveGrowth'/> growth<br/><icon texture='GUI/Bullet'/>Warlike culture: +10% <icon texture='Attributes/Power'/> power<br/><icon texture='GUI/Bullet'/>Planet senses Usurper's dark intent: +10% <icon texture='Resources/Pollution'/> pollution and +10% <icon texture='Factions/NativeIcon' width='16'/> alien aggression<br/><icon texture='GUI/Bullet'/>+25% Offensive combat: Can sense &amp; manipulate &quot;Resonance&quot; fields<br/><icon texture='GUI/Bullet'/>Begin game with a Mk I Battle Ogre and extra Colony Pod<br/><icon texture='GUI/Bullet'/>All combat units have 2-square sighting radius (&quot;Resonance&quot sensitivity)"/>
+	<entry name="UsurperQuote" value="<style name='Italic'/>&quot;Risks of Flowering: considerable. But rewards of godhood: who can measure?&quot;<style name='Default'/><br/>   -- %1%,<style name='Italic'/> Courage : To Question<style name='Default'/>"/>
+	<entry name="UsurperTheme" value="Usurper"/>
+	<entry name="UsurperWelcome" value="You are %1%, leader of the ecologic %2%. Reckless industries and the war for natural resources bled old Earth white. Our once rich and abundant home world is nothing but a shadow of its former self. While other factions might be on a path to repeat those mistakes, you and your followers have respect for the environment and humanity, treating the planet and its children with the respect they deserve."/>
 	<entry name="Sharks" value="Sharks"/>
 </language>

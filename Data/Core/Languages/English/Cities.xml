@@ -858,4 +858,32 @@
 	<entry name="Caretake24" value="Conservator's Mantle"/>
 	<entry name="Caretake25" value="Harmonic Acolyte"/>
 	<entry name="CaretakeCount" value="26"/>
+	<entry name="Usurper0" value="Courage : To Question"/>
+	<entry name="Usurper1" value="Dimension : Sky"/>
+	<entry name="Usurper2" value="Strafing Run"/>
+	<entry name="Usurper3" value="Spires : Ascendant"/>
+	<entry name="Usurper4" value="Honor : Progenitor"/>
+	<entry name="Usurper5" value="Conquest of the Weak"/>
+	<entry name="Usurper6" value="Genesis : Destiny"/>
+	<entry name="Usurper7" value="Tusk and Claw"/>
+	<entry name="Usurper8" value="Skymaster Base"/>
+	<entry name="Usurper9" value="Red Stick"/>
+	<entry name="Usurper10" value="Fear Song"/>
+	<entry name="Usurper11" value="Evil Eye"/>
+	<entry name="Usurper12" value="Fragment of Sound"/>
+	<entry name="Usurper13" value="Union Place"/>
+	<entry name="Usurper14" value="Warrior's Harmony"/>
+	<entry name="Usurper15" value="Maar's Dissolution"/>
+	<entry name="Usurper16" value="Razorwing City"/>
+	<entry name="Usurper17" value="Era of Blood"/>
+	<entry name="Usurper18" value="Godhood's Grasp"/>
+	<entry name="Usurper19" value="Satiation"/>
+	<entry name="Usurper20" value="Tau Ceti Mantle"/>
+	<entry name="Usurper21" value="Resonance of Swords"/>
+	<entry name="Usurper22" value="Manifest Doom"/>
+	<entry name="Usurper23" value="Martial Air"/>
+	<entry name="Usurper24" value="Memories : Pain"/>
+	<entry name="Usurper25" value="Risks of Flowering"/>
+	<entry name="Usurper26" value="Final Honor"/>
+	<entry name="UsurperCount" value="26"/>
 </language>

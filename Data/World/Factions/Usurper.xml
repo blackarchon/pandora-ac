@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<faction aggressiveness="0.65" color="rgba(0.828125 0.8125 0.453125 1)" sex="Male"
+		icon="Factions/UsurperIcon">
+	<modifiers>
+		<modifier>
+			<conditions>
+				<unit>
+					<self>
+						<attacker/>
+					</self>
+				</unit>
+			</conditions>
+			<effects>
+				<powerMultiplier add="0.25"/>
+			</effects>
+		</modifier>
+		<modifier>
+			<effects>
+				<growthPerTurnMultiplier add="0.1"/>
+				<powerMultiplier add="0.1"/>
+				<pollutionMultiplier add="0.1"/>
+				<alienAggression add="0.1"/>
+				<sight add="1"/>
+				<!--Mk I Battle Ogre--><units type="Trooper0" weaponType="Automatic1" deviceType="None" armorType="Armor1"/>
+				<units type="Colonizer" weaponType="None" deviceType="None" armorType="None"/>
+				<units type="Colonizer" weaponType="None" deviceType="None" armorType="None"/>
+			</effects>
+		</modifier>
+	</modifiers>
+</faction>
