@@ -784,4 +784,27 @@
 	<entry name="Drone23" value="Future's Fulcrum"/>
 	<entry name="Drone24" value="Power Grid"/>
 	<entry name="DroneCount" value="25"/>
+	<entry name="Angels0" value="Data DeCentral"/>
+	<entry name="Angels1" value="Gargoyle Garden"/>
+	<entry name="Angels2" value="Ergonomia"/>
+	<entry name="Angels3" value="Safe House City"/>
+	<entry name="Angels4" value="The Sprawl"/>
+	<entry name="Angels5" value="Newer Ciba City"/>
+	<entry name="Angels6" value="Gibson Base"/>
+	<entry name="Angels7" value="Trojan Source"/>
+	<entry name="Angels8" value="Googleplex"/>
+	<entry name="Angels9" value="Tinker Junction"/>
+	<entry name="Angels10" value="Keypad Grid"/>
+	<entry name="Angels11" value="Opticommons"/>
+	<entry name="Angels12" value="Coder's Pit"/>
+	<entry name="Angels13" value="Shadow Sprawl"/>
+	<entry name="Angels14" value="Nettap Complex"/>
+	<entry name="Angels15" value="Stack Heap"/>
+	<entry name="Angels16" value="Roze Function"/>
+	<entry name="Angels17" value="Secret Hollow"/>
+	<entry name="Angels18" value="Ferrett's Lair"/>
+	<entry name="Angels19" value="Moonshadow"/>
+	<entry name="Angels20" value="Alphaville"/>
+	<entry name="Angels21" value="Applet Way"/>
+	<entry name="AngelsCount" value="22"/>
 </language>

@@ -98,5 +98,14 @@
 	<entry name="DroneQuote" value="<style name='Italic'/>&quot;Die Ketten rasseln Tag für Tag, wie Sklaven treibt man uns hinab<br/>Mit Stöcken und mit Peitschenschlag - als Lohn erwartet uns das Grab<br/>Doch eines Nachts, wenn dieser Ort in Stille liegt, bin ich bereit<br/>Und räche durch Tyrannenmord der Peitschenschwinger Grausamkeit<br/>Erzittern wird das ganze Land, und voller Reue denkt die Stadt<br/>Dass man in schweren Ketten hat, Jim Jones nach Botany Bay gesandt.&quot;<style name='Default'/><br/>   -- &quot;Jim Jones&quot;,<style name='Italic'/> Volksweise<style name='Default'/>"/>
 	<entry name="DroneTheme" value="Drone"/>
 	<entry name="DroneWelcome" value="You are %1% of the industrious %2%. Your followers are large in numbers and you control them with absolute authority by suppression and censorship. It is your doctrine that planetary sovereignty is achieved on the back of a strong industry, and if the populace or the planet have to suffer for the greater good, so be it."/>
+	<entry name="Angels" value="Die Datenengel"/>
+	<entry name="AngelsDescription" value="placeholder"/>
+	<entry name="AngelsLeaderPrename" value="Sinder"/>
+	<entry name="AngelsLeaderSurname" value="Roze"/>
+	<entry name="AngelsLeaderTitle" value="Datenexpertin"/>
+	<entry name="AngelsProperties" value="<icon texture='GUI/Bullet'/>Dezentralisiert, schwer überwachbar: -10% <icon texture='Resources/Morale'/> Moral"/>
+	<entry name="AngelsQuote" value="<style name='Italic'/>&quot;Was ist wichtiger, die Daten oder der Stil? Klar, sicher. 'Informationen sollten allen zur Verfügung stehen' und all so was - doch jeder kann Informationen verfügbar machen. Stil ist, wie man es macht, was man damit macht, um fast dabei erwischt zu werden, ohne dabei wirklich erwischt zu werden. Die Daten sind Einsen und Nullen.  Das Leben ist der reinste Stil.&quot;<style name='Default'/><br/>   -- %1%,<style name='Italic'/> Info mit Stil<style name='Default'/>"/>
+	<entry name="AngelsTheme" value="Angels"/>
+	<entry name="AngelsWelcome" value="You are %1% of the industrious %2%. Your followers are large in numbers and you control them with absolute authority by suppression and censorship. It is your doctrine that planetary sovereignty is achieved on the back of a strong industry, and if the populace or the planet have to suffer for the greater good, so be it."/>
 	<entry name="Sharks" value="Sharks"/>
 </language>

@@ -784,4 +784,27 @@
 	<entry name="Drone23" value="Stützpunkt der Zukunft"/>
 	<entry name="Drone24" value="Kraftraster"/>
 	<entry name="DroneCount" value="25"/>
+	<entry name="Angels0" value="Daten DeZentral"/>
+	<entry name="Angels1" value="Gargoylegarten"/>
+	<entry name="Angels2" value="Ergonomia"/>
+	<entry name="Angels3" value="Zufluchtsstadt"/>
+	<entry name="Angels4" value="Die Ausbreitung"/>
+	<entry name="Angels5" value="Neuere Ciba-Stadt"/>
+	<entry name="Angels6" value="Gibson-Basis"/>
+	<entry name="Angels7" value="Trojanische Quelle"/>
+	<entry name="Angels8" value="Gugelplex"/>
+	<entry name="Angels9" value="Pfuscherdorf"/>
+	<entry name="Angels10" value="Tastengitter"/>
+	<entry name="Angels11" value="Optiheim"/>
+	<entry name="Angels12" value="Codierers Höhle"/>
+	<entry name="Angels13" value="Schattenausbreitung"/>
+	<entry name="Angels14" value="Netzzapfstation"/>
+	<entry name="Angels15" value="Stapelhaufen"/>
+	<entry name="Angels16" value="Roze-Funktion"/>
+	<entry name="Angels17" value="Geheimer Hohlgang"/>
+	<entry name="Angels18" value="Frettchenbau"/>
+	<entry name="Angels19" value="Mondschatten"/>
+	<entry name="Angels20" value="Alphaburg"/>
+	<entry name="Angels21" value="Appletgasse"/>
+	<entry name="AngelsCount" value="22"/>
 </language>

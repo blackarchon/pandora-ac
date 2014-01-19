@@ -98,5 +98,14 @@
 	<entry name="DroneQuote" value="<style name='Italic'/>&quot;Now it's day and night the irons clang, and like poor galley slaves<br/>We toil and toil, and when we die, must fill dishonored graves<br/>But some dark night, when everything is silent in the town<br/>I'll shoot those tyrants one and all, I'll gun the flogger down<br/>I'll give the land a little shock, remember what I say,<br/>And they'll yet regret they've sent Jim Jones in chains to Botany Bay.&quot;<style name='Default'/><br/>   -- &quot;Jim Jones&quot;,<style name='Italic'/> Traditional<style name='Default'/>"/>
 	<entry name="DroneTheme" value="Drone"/>
 	<entry name="DroneWelcome" value="You are %1% of the industrious %2%. Your followers are large in numbers and you control them with absolute authority by suppression and censorship. It is your doctrine that planetary sovereignty is achieved on the back of a strong industry, and if the populace or the planet have to suffer for the greater good, so be it."/>
+	<entry name="Angels" value="The Data Angels"/>
+	<entry name="AngelsDescription" value="placeholder"/>
+	<entry name="AngelsLeaderPrename" value="Sinder"/>
+	<entry name="AngelsLeaderSurname" value="Roze"/>
+	<entry name="AngelsLeaderTitle" value="Datajack"/>
+	<entry name="AngelsProperties" value="<icon texture='GUI/Bullet'/>Decentralized, difficult to control: -10% <icon texture='Resources/Morale'/> morale"/>
+	<entry name="AngelsQuote" value="<style name='Italic'/>&quot;What's more important, the data or the jazz? Sure, sure, 'Information should be free' and all that--but anyone can set information free. The jazz is in how you do it, what you do it to, and in almost getting caught without getting caught. The data is 1's and 0's. Life is the jazz.&quot;<style name='Default'/><br/>   -- %1%,<style name='Italic'/> Infobop<style name='Default'/>"/>
+	<entry name="AngelsTheme" value="Angels"/>
+	<entry name="AngelsWelcome" value="You are %1% of the industrious %2%. Your followers are large in numbers and you control them with absolute authority by suppression and censorship. It is your doctrine that planetary sovereignty is achieved on the back of a strong industry, and if the populace or the planet have to suffer for the greater good, so be it."/>
 	<entry name="Sharks" value="Sharks"/>
 </language>
