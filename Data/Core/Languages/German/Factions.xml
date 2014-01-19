@@ -80,5 +80,14 @@
 	<entry name="CyborgQuote" value="<style name='Italic'/>&quot;Wer uns beitreten will, muss nur die Hälfte seiner Menschlichkeit aufgeben - die unlogische, launische und unordentliche Hälfte, die im allgemeinen als Funktionen der rechten Gehirnhälfte gelten. Im Austausch dafür werden die Funktionen der linken Gehirnhälfte auf eine unglaubliche Weise gesteigert. Die Tendenz der biologischen Wesen, statt dessen an ihrer individuellen Persönlichkeit festzuhalten, kann nur archaischen Evolutionstendenzen zugeschrieben werden.&quot;<style name='Default'/><br/>   -- %1%,<style name='Italic'/> Konvergenz<style name='Default'/>"/>
 	<entry name="CyborgTheme" value="Cyborg"/>
 	<entry name="CyborgWelcome" value="You are %1% of the scientific %2%. Your faction values the human intellect, personal freedom and the academic virtues above all else. While this freedom might result in a lack of discipline or motivation at times, your scientists show unrivaled creativity in their research."/>
+	<entry name="Pirates" value="Nautilus-Piraten"/>
+	<entry name="PiratesDescription" value="placeholder"/>
+	<entry name="PiratesLeaderPrename" value="Ulrik"/>  
+	<entry name="PiratesLeaderSurname" value="Svensgaard"/>
+	<entry name="PiratesLeaderTitle" value="Captain"/>
+	<entry name="PiratesProperties" value="<icon texture='GUI/Bullet'/>Individualistische Mentalität im Gegensatz zu einer zentralen Organisation: -10% <icon texture='Resources/Credits'/> Credits durch Steuern<br/><icon texture='GUI/Bullet'/>Familie ist für diese Kultur nicht von großer Bedeutung: -10% <icon texture='Resources/PositiveGrowth'/> Wachstum<br/><icon texture='GUI/Bullet'/>Kultur und Technologie auf den Ozean zugeschnitten: +1 <icon texture='Resources/Minerals'/> Mineralien von Küsten- und Meeresfeldern"/>
+	<entry name="PiratesQuote" value="<style name='Italic'/>&quot;Das Meer ... gewaltig, geheimnisvoll ... und eine Quelle des Reichtums! Und die Nationen auf dem Planeten treiben darauf ihren Handel, ohne einen Gedanken darüber zu verschwenden. Nun gut, das Meer kümmert es nicht, deshalb will ich es noch einmal durchgehen lassen. Wir können dem Meer jedoch eine kleine Hilfestellung geben, indem wir diesen Landratten eine Lektion in Demut erteilen.&quot;<style name='Default'/><br/>   -- %1%,<style name='Italic'/> Die Welle und die Woge<style name='Default'/>"/>
+	<entry name="PiratesTheme" value="Pirates"/>
+	<entry name="PiratesWelcome" value="You are %1% of the militaristic %2%. Your specialty is warfare and your crack troops are feared across the solar system. Your society follows a strict military code, with members learning discipline and the chain of command from early on in childhood. When on duty any imperial soldier is expected to excel, but Imperium rewards that quality with a very high rate of pay."/>
 	<entry name="Sharks" value="Sharks"/>
 </language>

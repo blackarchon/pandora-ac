@@ -733,4 +733,29 @@
 	<entry name="Cyborg21" value="Phi-Berg"/>
 	<entry name="Cyborg22" value="Omega-Terminus"/>
 	<entry name="CyborgCount" value="23"/>
+	<entry name="Pirates0" value="Des Toten Taverne"/>
+	<entry name="Pirates1" value="Zur Landratte"/>
+	<entry name="Pirates2" value="Vergrabener Schatz"/>
+	<entry name="Pirates3" value="Sonnige Oase"/>
+	<entry name="Pirates4" value="Des Seglers Ruhestätte"/>
+	<entry name="Pirates5" value="Süßwasserquelle"/>
+	<entry name="Pirates6" value="Vergeltungsstadt"/>
+	<entry name="Pirates7" value="Binnenland"/>
+	<entry name="Pirates8" value="Ferne Horizonte"/>
+	<entry name="Pirates9" value="Piratenweg"/>
+	<entry name="Pirates10" value="Des Seglers Warnung"/>
+	<entry name="Pirates11" value="Roter Himmel"/>
+	<entry name="Pirates12" value="Roberts Schrecken"/>
+	<entry name="Pirates13" value="Ulriks Versteck"/>
+	<entry name="Pirates14" value="Piraten-Belagerung"/>
+	<entry name="Pirates15" value="Grasheim"/>
+	<entry name="Pirates16" value="Säuferstadt"/>
+	<entry name="Pirates17" value="Handelsschiffansturm"/>
+	<entry name="Pirates18" value="Shanty Town"/>
+	<entry name="Pirates19" value="Penzance"/>
+	<entry name="Pirates20" value="Totenkopfkreuzung"/>
+	<entry name="Pirates21" value="Seglers Vergnügen"/>
+	<entry name="Pirates22" value="Plünderers Versteck"/>
+	<entry name="Pirates23" value="Kanonendonner"/>
+	<entry name="PiratesCount" value="24"/>
 </language>

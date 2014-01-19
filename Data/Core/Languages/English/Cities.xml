@@ -733,4 +733,29 @@
 	<entry name="Cyborg21" value="Phi Lumiere"/>
 	<entry name="Cyborg22" value="Omega Terminus"/>
 	<entry name="CyborgCount" value="23"/>
+	<entry name="Pirates0" value="Deadman Tavern"/>
+	<entry name="Pirates1" value="Landlubber Inn"/>
+	<entry name="Pirates2" value="Buried Treasure"/>
+	<entry name="Pirates3" value="Sunny Oasis"/>
+	<entry name="Pirates4" value="Sailor's Rest"/>
+	<entry name="Pirates5" value="Freshwater Springs"/>
+	<entry name="Pirates6" value="Marque City"/>
+	<entry name="Pirates7" value="Land Lock"/>
+	<entry name="Pirates8" value="Far Horizons"/>
+	<entry name="Pirates9" value="Crossbone Way"/>
+	<entry name="Pirates10" value="Sailor's Warning"/>
+	<entry name="Pirates11" value="Red Sky"/>
+	<entry name="Pirates12" value="Roberts' Dread"/>
+	<entry name="Pirates13" value="Ulrik's Hideaway"/>
+	<entry name="Pirates14" value="Pirate's Siege"/>
+	<entry name="Pirates15" value="Grasshome"/>
+	<entry name="Pirates16" value="Drunktown"/>
+	<entry name="Pirates17" value="Merchantman Run"/>
+	<entry name="Pirates18" value="Shanty Town"/>
+	<entry name="Pirates19" value="Penzance"/>
+	<entry name="Pirates20" value="Skull Crossroads"/>
+	<entry name="Pirates21" value="Sailor's Delight"/>
+	<entry name="Pirates22" value="Plunder Cache"/>
+	<entry name="Pirates23" value="Cannon's Thunder"/>
+	<entry name="PiratesCount" value="24"/>
 </language>

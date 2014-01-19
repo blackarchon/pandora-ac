@@ -80,5 +80,14 @@
 	<entry name="CyborgQuote" value="<style name='Italic'/>&quot;Those who join us need give up only half of their humanity--the illogical, ill-tempered, and disordered half, commonly thought of as 'right-brain' functioning. In exchange, the 'left-brain' capacities are increased to undreamed potential. The tendency of Biologicals to cling instead to their individual personalities can only be attributed to archaic evolutionary tendencies.&quot;<style name='Default'/><br/>   -- %1%,<style name='Italic'/> Convergence<style name='Default'/>"/>
 	<entry name="CyborgTheme" value="Cyborg"/>
 	<entry name="CyborgWelcome" value="You are %1% of the scientific %2%. Your faction values the human intellect, personal freedom and the academic virtues above all else. While this freedom might result in a lack of discipline or motivation at times, your scientists show unrivaled creativity in their research."/>
+	<entry name="Pirates" value="Nautilus Pirates"/>
+	<entry name="PiratesDescription" value="placeholder"/>
+	<entry name="PiratesLeaderPrename" value="Ulrik"/>  
+	<entry name="PiratesLeaderSurname" value="Svensgaard"/>
+	<entry name="PiratesLeaderTitle" value="Captain"/>
+	<entry name="PiratesProperties" value="<icon texture='GUI/Bullet'/>Individualistic mentality opposed to central organization: -10% <icon texture='Resources/Credits'/> credits from taxes<br/><icon texture='GUI/Bullet'/>Culture does not place high emphasis on family: -10% <icon texture='Resources/PositiveGrowth'/> growth<br/><icon texture='GUI/Bullet'/>Culture and technology adapted for the ocean: +1 <icon texture='Resources/Minerals'/> minerals from coast and ocean tiles"/>
+	<entry name="PiratesQuote" value="<style name='Italic'/>&quot;The sea ... vast, mysterious ... and full of wealth! And the nations of Planet send their trade across it without a thought. Well, the sea doesn't care about  them, so it lets them pass. But we can give the sea a little hand in teaching the landlubbers a lesson in humility.&quot;<style name='Default'/><br/>   -- %1%,<style name='Italic'/> The Ripple and the Wave<style name='Default'/>"/>
+	<entry name="PiratesTheme" value="Pirates"/>
+	<entry name="PiratesWelcome" value="You are %1% of the militaristic %2%. Your specialty is warfare and your crack troops are feared across the solar system. Your society follows a strict military code, with members learning discipline and the chain of command from early on in childhood. When on duty any imperial soldier is expected to excel, but Imperium rewards that quality with a very high rate of pay."/>
 	<entry name="Sharks" value="Sharks"/>
 </language>

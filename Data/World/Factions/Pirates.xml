@@ -1,35 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<faction aggressiveness="0.45" color="rgba(0.171875 0.5 0.40625 1)" sex="Female"
-		icon="Factions/CyborgIcon">
+<faction aggressiveness="0.45" color="rgba(0 1 1 1)" sex="Male"
+		icon="Factions/PiratesIcon">
 	<modifiers>
 		<modifier>
 			<conditions>
-				<faction name="Economic"/>
+				<territory>
+					<features>
+						<feature name="Coast"/>
+					</features>
+				</territory>
 			</conditions>
 			<effects>
-				<standing add="0.1"/>
+				<mineralsPerTurn add="1"/>
 			</effects>
 		</modifier>
 		<modifier>
 			<conditions>
-				<faction name="Fanatic"/>
+				<territory>
+					<features>
+						<feature name="Ocean"/>
+					</features>
+				</territory>
 			</conditions>
 			<effects>
-				<standing sub="0.1"/>
-			</effects>
-		</modifier>
-		<modifier>
-			<conditions>
-				<faction name="Industrious"/>
-			</conditions>
-			<effects>
-				<standing add="0.1"/>
+				<mineralsPerTurn add="1"/>
 			</effects>
 		</modifier>
 		<modifier>
 			<effects>
-				<researchPerTurnMultiplier add="0.2"/>
-				<creditsPerTurnMultiplier add="0.2"/>
+				<creditsPerTurnMultiplier sub="0.1"/>
 				<growthPerTurnMultiplier sub="0.1"/>
 				<!--<technologies name="ATV0"/>-->
 				<units type="Trooper0" weaponType="Automatic0" deviceType="None" armorType="None"/>
