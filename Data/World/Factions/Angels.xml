@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<faction aggressiveness="0.25" color="rgba(0.40234375 0.35546875 0.70703125 1)" sex="Female"
+<faction aggressiveness="0.40" color="rgba(0.40234375 0.35546875 0.70703125 1)" sex="Female"
 		icon="Factions/AngelsIcon">
 	<modifiers>
 		<modifier>

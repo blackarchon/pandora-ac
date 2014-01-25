@@ -1,4 +1,4 @@
 pandora-ac
 ==========
 
-Alpha Centauri mdification for Pandora: First Contact
+Alpha Centauri modification for Pandora: First Contact

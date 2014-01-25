@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<faction aggressiveness="0.25" color="rgba(0.90625 0.328125 0.328125 1)" sex="Male"
+<faction aggressiveness="0.70" color="rgba(0.90625 0.328125 0.328125 1)" sex="Male"
 		icon="Factions/FungboyIcon">
 	<modifiers>
 		<modifier>

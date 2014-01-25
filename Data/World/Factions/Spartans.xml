@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<faction aggressiveness="0.65" color="DarkGray" sex="Female"
+<faction aggressiveness="0.60" color="DarkGray" sex="Female"
 		icon="Factions/SpartansIcon">
 	<modifiers>
 		<modifier>

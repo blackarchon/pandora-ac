@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<faction aggressiveness="0.25" color="rgba(0.640625 0.6875 0.90625 1)" sex="Male"
+<faction aggressiveness="0.35" color="rgba(0.640625 0.6875 0.90625 1)" sex="Male"
 		icon="Factions/PeaceIcon">
 	<modifiers>
 		<modifier>
