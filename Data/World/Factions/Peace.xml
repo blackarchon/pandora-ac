@@ -3,24 +3,8 @@
 		icon="Factions/PeaceIcon">
 	<modifiers>
 		<modifier>
-			<conditions>
-				<faction name="Industrious"/>
-			</conditions>
 			<effects>
-				<standing sub="0.2"/>
-			</effects>
-		</modifier>
-		<modifier>
-			<conditions>
-				<faction name="Militaristic"/>
-			</conditions>
-			<effects>
-				<standing sub="0.2"/>
-			</effects>
-		</modifier>
-		<modifier>
-			<effects>
-				<creditsPerTurnMultiplier sub="0.1"/>
+				<creditsPerTurnMultiplier sub="0.2"/>
 				<habitat add="2"/>
 				<units type="Trooper0" weaponType="Automatic0" deviceType="None" armorType="None"/>
 				<units type="Colonizer" weaponType="None" deviceType="None" armorType="None"/>

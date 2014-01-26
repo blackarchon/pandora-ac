@@ -3,29 +3,12 @@
 		icon="Factions/MorganIcon">
 	<modifiers>
 		<modifier>
-			<conditions>
-				<faction name="Industrious"/>
-			</conditions>
-			<effects>
-				<standing add="0.1"/>
-			</effects>
-		</modifier>
-		<modifier>
-			<conditions>
-				<faction name="Scientific"/>
-			</conditions>
-			<effects>
-				<standing add="0.1"/>
-			</effects>
-		</modifier>
-		<modifier>
 			<effects>
 				<credits add="100"/>
-				<unitUpkeepMultiplier add="0.1"/>
-				<creditsPerTurnMultiplier add="0.25"/>
+				<unitUpkeepMultiplier add="0.2"/>
 				<habitat sub="2"/>
-				<purchaseCostMultiplier sub="0.1"/>
-				<sellPriceFactor add="0.1"/>
+				<purchaseCostMultiplier sub="0.2"/>
+				<sellPriceFactor add="0.2"/>
 				<units type="Trooper0" weaponType="Automatic0" deviceType="None" armorType="None"/>
 				<units type="Colonizer" weaponType="None" deviceType="None" armorType="None"/>
 			</effects>

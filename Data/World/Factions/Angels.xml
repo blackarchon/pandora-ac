@@ -4,7 +4,7 @@
 	<modifiers>
 		<modifier>
 			<effects>
-				<moraleMultiplier sub="0.1"/>
+				<morale sub="1"/>
 				<standing add="0.3"/>
 				<units type="Trooper0" weaponType="Automatic0" deviceType="None" armorType="None"/>
 				<units type="Colonizer" weaponType="None" deviceType="None" armorType="None"/>

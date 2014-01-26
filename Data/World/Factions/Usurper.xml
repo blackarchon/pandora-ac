@@ -16,10 +16,10 @@
 		</modifier>
 		<modifier>
 			<effects>
-				<growthPerTurnMultiplier add="0.1"/>
+				<growthPerTurnMultiplier add="0.2"/>
 				<powerMultiplier add="0.1"/>
-				<pollutionMultiplier add="0.1"/>
-				<alienAggression add="0.1"/>
+				<pollutionMultiplier add="0.2"/>
+				<alienAggression add="0.2"/>
 				<sight add="1"/>
 				<!--Mk I Battle Ogre--><units type="Trooper0" weaponType="Automatic1" deviceType="None" armorType="Armor1"/>
 				<units type="Colonizer" weaponType="None" deviceType="None" armorType="None"/>

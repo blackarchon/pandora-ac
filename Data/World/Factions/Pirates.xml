@@ -28,9 +28,10 @@
 		</modifier>
 		<modifier>
 			<effects>
-				<creditsPerTurnMultiplier sub="0.1"/>
-				<growthPerTurnMultiplier sub="0.1"/>
-				<!--<technologies name="ATV0"/>-->
+				<creditsPerTurnMultiplier sub="0.2"/>
+				<growthPerTurnMultiplier sub="0.2"/>
+				<technologies name="Transport"/>
+				<!--<advancements name="Transport"/>-->
 				<units type="Trooper0" weaponType="Automatic0" deviceType="None" armorType="None"/>
 				<units type="Colonizer" weaponType="None" deviceType="None" armorType="None"/>
 			</effects>

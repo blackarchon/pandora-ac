@@ -16,8 +16,8 @@
 		</modifier>
 		<modifier>
 			<effects>
-				<pollutionMultiplier sub="0.1"/>
-				<alienAggression sub="0.1"/>
+				<pollutionMultiplier sub="0.2"/>
+				<alienAggression sub="0.2"/>
 				<sight add="1"/>
 				<!--Mk I Battle Ogre--><units type="Trooper0" weaponType="Automatic1" deviceType="None" armorType="Armor1"/>
 				<units type="Colonizer" weaponType="None" deviceType="None" armorType="None"/>

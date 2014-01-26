@@ -16,10 +16,10 @@
 		</modifier>
 		<modifier>
 			<effects>
-				<unitUpkeepMultiplier sub="0.2"/>
-				<researchPerTurnMultiplier sub="0.2"/>
-				<pollutionMultiplier add="0.1"/>
-				<alienAggression add="0.1"/>
+				<unitUpkeepMultiplier sub="0.4"/>
+				<researchPerTurnMultiplier sub="0.4"/>
+				<pollutionMultiplier add="0.2"/>
+				<alienAggression add="0.2"/>
 				<units type="Trooper0" weaponType="Automatic0" deviceType="None" armorType="None"/>
 				<units type="Colonizer" weaponType="None" deviceType="None" armorType="None"/>
 			</effects>

@@ -3,32 +3,8 @@
 		icon="Factions/UnivIcon">
 	<modifiers>
 		<modifier>
-			<conditions>
-				<faction name="Economic"/>
-			</conditions>
 			<effects>
-				<standing add="0.1"/>
-			</effects>
-		</modifier>
-		<modifier>
-			<conditions>
-				<faction name="Fanatic"/>
-			</conditions>
-			<effects>
-				<standing sub="0.1"/>
-			</effects>
-		</modifier>
-		<modifier>
-			<conditions>
-				<faction name="Industrious"/>
-			</conditions>
-			<effects>
-				<standing add="0.1"/>
-			</effects>
-		</modifier>
-		<modifier>
-			<effects>
-				<researchPerTurnMultiplier add="0.2"/>
+				<researchPerTurnMultiplier add="0.4"/>
 				<morale sub="2"/>
 				<!--<technologies name="ATV0"/>-->
 				<units type="Trooper0" weaponType="Automatic0" deviceType="None" armorType="None"/>

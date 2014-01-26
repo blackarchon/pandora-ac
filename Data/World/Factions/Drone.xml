@@ -4,8 +4,8 @@
 	<modifiers>
 		<modifier>
 			<effects>
-				<productionPerTurnMultiplier add="0.20"/>
-				<researchPerTurnMultiplier sub="0.2"/>
+				<productionPerTurnMultiplier add="0.4"/>
+				<researchPerTurnMultiplier sub="0.4"/>
 				<morale add="1"/>
 				<units type="Trooper0" weaponType="Automatic0" deviceType="None" armorType="None"/>
 				<units type="Colonizer" weaponType="None" deviceType="None" armorType="None"/>
