@@ -9,6 +9,8 @@
 				<productionPerTurnMultiplier sub="0.20"/>
 				<purchaseCostMultiplier add="0.2"/>
 				<sellPriceFactor sub="0.2"/>
+				<!-- start tech from AC: social Psychology (Recreation Area)-->
+				<technologies name="Morale0"/>
 				<units type="Trooper0" weaponType="Automatic0" deviceType="None" armorType="None"/>
 				<units type="Colonizer" weaponType="None" deviceType="None" armorType="None"/>
 			</effects>

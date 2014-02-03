@@ -8,6 +8,8 @@
 				<productionPerTurnMultiplier add="0.20"/>
 				<sellPriceFactor sub="0.4"/>
 				<purchaseCostMultiplier add="0.4"/>
+				<!-- start tech from AC: Doctrin: Loyalty (Defense Perimeter, Command network)-->
+				<technologies name="Defense0"/>
 				<units type="Trooper0" weaponType="Automatic0" deviceType="None" armorType="None"/>
 				<units type="Colonizer" weaponType="None" deviceType="None" armorType="None"/>
 			</effects>

@@ -7,6 +7,8 @@
 				<powerMultiplier add="0.2"/>
 				<productionPerTurnMultiplier sub="0.2"/>
 				<morale add="1"/>
+				<!-- start tech from AC: Doctrin: Mobility (Speeder, command central)-->
+				<technologies name="ATV0"/>
 				<units type="ATV0" weaponType="Automatic0" deviceType="None" armorType="None"/>
 				<units type="Colonizer" weaponType="None" deviceType="None" armorType="None"/>
 			</effects>

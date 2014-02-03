@@ -6,7 +6,8 @@
 			<effects>
 				<researchPerTurnMultiplier add="0.4"/>
 				<morale sub="2"/>
-				<!--<technologies name="ATV0"/>-->
+				<!-- start tech from AC: Information networks (Network Node)-->
+				<technologies name="Research0"/>
 				<units type="Trooper0" weaponType="Automatic0" deviceType="None" armorType="None"/>
 				<units type="Colonizer" weaponType="None" deviceType="None" armorType="None"/>
 			</effects>

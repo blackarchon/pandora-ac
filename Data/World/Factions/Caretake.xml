@@ -20,8 +20,10 @@
 				<alienAggression sub="0.2"/>
 				<sight add="1"/>
 				<!--Mk I Battle Ogre--><units type="Trooper0" weaponType="Automatic1" deviceType="None" armorType="Armor1"/>
+				<!-- start tech from AC: Centauri Ecology (Terraformer, Weather Paradigm)-->
 				<units type="Colonizer" weaponType="None" deviceType="None" armorType="None"/>
 				<units type="Colonizer" weaponType="None" deviceType="None" armorType="None"/>
+				<units type="Former" weaponType="None" deviceType="None" armorType="None"/>
 			</effects>
 		</modifier>
 	</modifiers>

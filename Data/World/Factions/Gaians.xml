@@ -21,8 +21,10 @@
 				<alienAggression sub="0.2"/>
 				<creditsPerTurnMultiplier add="0.4"/>
 				<morale sub="1"/>
+				<!-- start tech from AC: Centauri Ecology (Terraformer, Weather Paradigm)-->
 				<units type="Trooper0" weaponType="Automatic0" deviceType="None" armorType="None"/>
 				<units type="Colonizer" weaponType="None" deviceType="None" armorType="None"/>
+				<units type="Former" weaponType="None" deviceType="None" armorType="None"/>
 			</effects>
 		</modifier>
 	</modifiers>

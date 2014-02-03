@@ -9,6 +9,8 @@
 				<habitat sub="2"/>
 				<purchaseCostMultiplier sub="0.2"/>
 				<sellPriceFactor add="0.2"/>
+				<!-- start tech from AC: Industrial Base (Synthmetal armor, Handelsbörse)-->
+				<technologies name="Armor0"/>
 				<units type="Trooper0" weaponType="Automatic0" deviceType="None" armorType="None"/>
 				<units type="Colonizer" weaponType="None" deviceType="None" armorType="None"/>
 			</effects>

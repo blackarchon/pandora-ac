@@ -7,6 +7,8 @@
 				<researchPerTurnMultiplier add="0.4"/>
 				<creditsPerTurnMultiplier add="0.4"/>
 				<growthPerTurnMultiplier sub="0.2"/>
+				<!-- start tech from AC: Information Networks (Network Node)-->
+				<technologies name="Research0"/>
 				<units type="Trooper0" weaponType="Automatic0" deviceType="None" armorType="None"/>
 				<units type="Colonizer" weaponType="None" deviceType="None" armorType="None"/>
 			</effects>

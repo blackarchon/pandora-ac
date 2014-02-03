@@ -6,6 +6,8 @@
 			<effects>
 				<morale sub="1"/>
 				<standing add="0.3"/>
+				<!-- start tech from AC: Information networks (Network Node)-->
+				<technologies name="Research0"/>
 				<units type="Trooper0" weaponType="Automatic0" deviceType="None" armorType="None"/>
 				<units type="Colonizer" weaponType="None" deviceType="None" armorType="None"/>
 			</effects>

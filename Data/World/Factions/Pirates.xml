@@ -31,7 +31,10 @@
 				<creditsPerTurnMultiplier sub="0.2"/>
 				<growthPerTurnMultiplier sub="0.2"/>
 				<technologies name="Transport"/>
-				<!--<advancements name="Transport"/>-->
+				<!-- there must be a way to let the player begin with an advancement...
+				<advancements name="Transport"/>-->
+				<!-- start tech from AC: Doctrin: Mobility (Speeder, Command central)-->
+				<technologies name="ATV0"/>
 				<units type="Trooper0" weaponType="Automatic0" deviceType="None" armorType="None"/>
 				<units type="Colonizer" weaponType="None" deviceType="None" armorType="None"/>
 			</effects>
