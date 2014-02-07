@@ -23,6 +23,7 @@
 				<sight add="1"/>
 				<!--Mk I Battle Ogre--><units type="Trooper0" weaponType="Automatic1" deviceType="None" armorType="Armor1"/>
 				<!-- start tech from AC: Biogenetics (Recycling Tanks, Human Genom Project)-->
+				<technologies name="Biogenetics"/>
 				<units type="Colonizer" weaponType="None" deviceType="None" armorType="None"/>
 				<units type="Colonizer" weaponType="None" deviceType="None" armorType="None"/>
 			</effects>

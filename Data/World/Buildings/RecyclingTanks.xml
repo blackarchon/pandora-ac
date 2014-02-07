@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<building cost="32" icon="Buildings/RecyclingTanks" tier="0" upkeep="0">
+	<modifiers>
+		<modifier>
+			<effects>
+				<foodPerTurn add="1"/>
+				<mineralsPerTurn add="1"/>
+				<creditsPerTurn add="1"/>
+				<score strategy="Build" add="0.5"/>
+				<score strategy="ImproveFood" add="0.5"/>
+				<score strategy="ImproveMinerals" add="0.5"/>
+			</effects>
+		</modifier>
+	</modifiers>
+	<requirements>
+		<group>
+			<player>
+				<technology name="Biogenetics"/>
+			</player>
+		</group>
+	</requirements>
+</building>

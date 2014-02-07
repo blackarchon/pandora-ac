@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="RecyclingTanks" value="Recyclingtanks"/>
+	<entry name="RecyclingTanksDescription" value="<style name='Default'/>Steigert die Nahrungs-, Mineralien-, und Credit-Produktion."/>
+	<entry name="RecyclingTanksProperties" value="<icon texture='GUI/Bullet'/>Gebäude<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/Food'/> Nahrung<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/Minerals'/> Mineralien<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/Credits'/> Credits"/>
+</language>

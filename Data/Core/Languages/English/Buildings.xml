@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="RecyclingTanks" value="Recycling Tanks"/>
+	<entry name="RecyclingTanksDescription" value="<style name='Default'/>Increases food, minerals, and credits output."/>
+	<entry name="RecyclingTanksProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/Food'/> food<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/Minerals'/> minerals<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/Credits'/> credits"/>
+</language>
