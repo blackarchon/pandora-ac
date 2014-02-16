@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<building cost="40" icon="Buildings/RecreationCommons" tier="0" upkeep="1">
+	<modifiers>
+		<modifier>
+			<effects>
+				<morale add="2"/>
+				<score strategy="Build" add="0.5"/>
+				<score strategy="ImproveMorale" add="0.5"/>
+			</effects>
+		</modifier>
+	</modifiers>
+	<requirements>
+		<group>
+			<player>
+				<technology name="SocialPsych"/>
+			</player>
+		</group>
+	</requirements>
+</building>

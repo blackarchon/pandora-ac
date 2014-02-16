@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Speeder" value="Speeder"/>
+	<entry name="SpeederDescription" value="Domain:  Land<br/>Speed: 102km\hr<br/>Modality: Wheeled<br/>Dimensions: 7.7x3.6x2.9m<br/>Modifiers: +25% in open"/>
+	<entry name="SpeederProperties" value="<icon texture='GUI/Bullet'/>Light mechanical unit"/>
+</language>

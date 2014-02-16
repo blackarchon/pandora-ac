@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
+	<!-- Description is from blurbsx.txt -->
 	<entry name="Biogenetics" value="Biogenetics"/>
 	<entry name="BiogeneticsDescription" value="We hold life to be sacred, but we also know the foundation of life consists in a stream of codes not so different from the successive frames of a watchvid. Why then cannot we cut one code short here, and start another there? Is life so fragile that it can withstand no tampering? Does the sacred brook no improvement?<br/>   -- Chairman Sheng-ji Yang,<style name='Italic'/> Dynamics of Mind<style name='Default'/>"/>
+	<entry name="SocialPsych" value="Social Psych"/>
+	<entry name="SocialPsychDescription" value="If you can discover a better way of life than office-holding for your future rulers, a well-governed city becomes a possibility. For only in such a state will those rule who are truly rich, not in gold, but in the wealth that makes happiness--a good and wise life.<br/>   -- Plato,<style name='Italic'/> The Republic<style name='Default'/>"/>
+	<entry name="InformationNetworks" value="Information Networks"/>
+	<entry name="InformationNetworksDescription" value="The righteous need not cower before the drumbeat of human progress. Though the song of yesterday fades into the challenge of tomorrow, God still watches and judges us. Evil lurks in the datalinks as it lurked in the streets of yesteryear. But it was never the streets that were evil.<br/>   -- Sister Miriam Godwinson,<style name='Italic'/> The Blessed Struggle<style name='Default'/>"/>
+	<entry name="IndustrialBase" value="Industrial Base"/>
+	<entry name="IndustrialBaseDescription" value="Resources exist to be consumed. And consumed they will be, if not by this generation then by some future. By what right does this forgotten future seek to deny us our birthright? None I say! Let us take what is ours, chew and eat our fill.<br/>   -- CEO Nwabudike Morgan,<style name='Italic'/> The Ethics of Greed<style name='Default'/>"/>
+	<entry name="DoctrineMobility" value="Doctrine: Mobility"/>
+	<entry name="DoctrineMobilityDescription" value="Once a man has changed the relationship between himself and his environment, he cannot return to the blissful ignorance he left. Motion, of necessity, involves a change in perspective.<br/>   -- Commissioner Pravin Lal,<style name='Italic'/> A Social History of Planet<style name='Default'/>"/>
+	<entry name="AppliedPhysics" value="Applied Physics"/>
+	<entry name="AppliedPhysicsDescription" value="Scientific theories are judged by the coherence they lend to our natural experience and the simplicity with which they do so. The grand principle of the heavens balances on the razor's edge of truth.<br/>   -- Commissioner Pravin Lal,<style name='Italic'/> A History of Science<style name='Default'/>"/>
+	<entry name="CentauriEcology" value="Centauri Ecology"/>
+	<entry name="CentauriEcologyDescription" value="Planet's atmosphere, though a gasping death to humans and most animals, is paradise for Earth plants. The high nitrate content of the soil and the rich yellow sunlight bring an abundant harvest wherever adjustments can be made for the unusual soil conditions.<br/>   -- Lady Deirdre Skye,<style name='Italic'/> A Comparative Biology of Planet<style name='Default'/>"/>
+	<entry name="ProgenitorPsych" value="Progenitor Psych"/>
+	<entry name="ProgenitorPsychDescription" value="And I stood before him, and I sang unto her, and it appeared to listen. His very countenance rippled like the sea, and the sound of my own voice came back to me, distorted. For a moment I thought she was mocking me, or it was nonsapient and mimicking me. Then I understood: the sounds were not important; it was how I affected his sounds and how she affected mine that transmitted the message.<br/>   -- Prime Function Aki Zeta-Five,<style name='Italic'/> One Future<style name='Default'/>"/>
+	<entry name="PolymorphicSoftware" value="Polymorphic Software"/>
+	<entry name="PolymorphicSoftwareDescription" value="Technological advance is an inherently iterative process. One does not simply take sand from the beach and produce a Dataprobe. We use crude tools to fashion better tools, and then our better tools to fashion more precise tools, and so on. Each minor refinement is a step in the process, and all of the steps must be taken.<br/>   -- Chairman Sheng-ji Yang,<style name='Italic'/> Looking God in the Eye<style name='Default'/>"/>
 </language>

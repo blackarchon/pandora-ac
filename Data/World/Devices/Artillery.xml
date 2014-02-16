@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<device icon="Weapons/ArtilleryIcon" tier="2" rangeMax="2">
+	<attributes>
+		<attribute name="NoEnemyRetaliation"/>
+		<attribute name="SplashAttack"/>
+	</attributes>
+	<modifiers>
+		<modifier>
+			<effects>
+				<score strategy="Fight" add="1.0"/>
+				<basePowerMultiplier sub="0.75"/>
+				<unitCostMultiplier add="0.25"/>
+			</effects>
+		</modifier>
+	</modifiers>
+	<requirements>
+		<group>
+			<player>
+				<technology name="PolymorphicSoftware"/>
+			</player>
+		</group>
+	</requirements>
+</device>

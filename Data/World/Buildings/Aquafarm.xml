@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<building cost="80" icon="Buildings/RecyclingTanks" tier="0" upkeep="1">
+	<modifiers>
+		<modifier>
+			<effects>
+				<foodPerTurnMultiplier add="0.2"/>
+				<score strategy="ImproveFood" add="0.5"/>
+			</effects>
+		</modifier>
+	</modifiers>
+	<requirements>
+		<group>
+			<player>
+				<technology name="ProgenitorPsych"/>
+			</player>
+		</group>
+	</requirements>
+</building>

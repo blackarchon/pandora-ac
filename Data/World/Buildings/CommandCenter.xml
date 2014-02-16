@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<building cost="40" icon="Buildings/RecyclingTanks" tier="0" upkeep="1">
+	<modifiers>
+		<modifier>
+			<effects>
+				<score strategy="Build" add="0.5"/>
+				<score strategy="Fight" add="0.5"/>
+				<unitRank add="2"/>
+			</effects>
+		</modifier>
+	</modifiers>
+	<requirements>
+		<group>
+			<player>
+				<technology name="DoctrineMobility"/>
+			</player>
+		</group>
+	</requirements>
+</building>

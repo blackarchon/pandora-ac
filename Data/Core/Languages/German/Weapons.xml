@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- description from flavor.txt -->
+	<entry name="Laser2" value="Laser"/>
+	<entry name="Laser2Description" value="Aktives Medium: Diode<br/>Typ: Faser-Koppelung<br/>Pulsdauer: 5 nsek.<br/>Wellenlänge: 193 nm<br/>Spitzenleistung: 0,84 gw<br/>Durchschlag (1 m Stahl): 0,76 Sek."/>
+	<entry name="Laser2Properties" value="<icon texture='GUI/Bullet'/>Strahlenwaffe<br/><icon texture='GUI/Bullet'/>Kann von Flugzeugen, Geländewagen, Mechs, Panzern und Wasserfahrzeugen verwendet werden<br/><icon texture='GUI/Bullet'/>+1 Angriffsstärke"/>  
+</language>

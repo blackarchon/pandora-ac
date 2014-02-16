@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<unit category="Former" cost="32" field="Land" icon="Units/FormerIcon"
+		movement="2" power="1" showYieldOverlay="1" sight="2" tier="0"
+		upkeep="1">
+	<model type="Former" material="Units/Former" mesh="Units/Former"/>
+	<attributes>
+		<attribute name="Civilian"/>
+		<attribute name="Heavy"/>
+		<attribute name="Mechanical"/>
+		<attribute name="Worker"/>
+	</attributes>
+	<modifiers>
+		<modifier>
+			<effects>
+				<score strategy="Landscape" add="4.0"/>
+			</effects>
+		</modifier>
+	</modifiers>
+	<orders>
+		<order name="Move" hidden="1">
+			<actions>
+				<move/>
+			</actions>
+		</order>
+		<order name="HoldPosition">
+			<actions>
+				<holdPosition/>
+			</actions>
+		</order>
+		<order name="Guard">
+			<actions>
+				<guard/>
+			</actions>
+		</order>
+		<order name="Heal">
+			<actions>
+				<holdPositionUntilHealed/>
+			</actions>
+		</order>
+		<order name="Skip">
+			<actions>
+				<skip/>
+			</actions>
+		</order>
+		<order name="Disband">
+			<actions>
+				<disband/>
+			</actions>
+		</order>
+		<order name="DestroyImprovement">
+			<actions>
+				<destroyFeatureWithType featureType="Modification"/>
+			</actions>
+		</order>
+		<order name="DestroyRoad">
+			<actions>
+				<destroyFeatureWithType featureType="Road"/>
+			</actions>
+		</order>
+		<order name="Refit">
+			<actions>
+				<checkForMovement/>
+				<checkForCity/>
+			</actions>
+		</order>
+		<order name="Automatize">
+			<actions>
+				<automatize/>
+			</actions>
+		</order>
+		<order name="ImproveClosestCity">
+			<actions>
+				<automatize restrictToClosestCity="true"/>
+			</actions>
+		</order>
+		<order name="Drop">
+			<actions>
+				<drop/>
+			</actions>
+		</order>
+		<order name="BuildRoad" duration="4" durationState="Work" additional="1">
+			<actions>
+				<addFeature feature="Road"/>
+			</actions>
+		</order>
+		<order name="BuildFarm" duration="4" durationState="Work" additional="1">
+			<actions>
+				<addFeature feature="Farm"/>
+			</actions>
+		</order>
+		<order name="BuildMine" duration="4" durationState="Work" additional="1">
+			<actions>
+				<addFeature feature="Mine"/>
+			</actions>
+		</order>
+		<order name="BuildFort" duration="4" durationState="Work" additional="1">
+			<actions>
+				<addFeature feature="Fort"/>
+			</actions>
+		</order>
+		<order name="GrowForest" duration="4" durationState="Work" additional="1">
+			<actions>
+				<addFeature feature="Forest"/>
+			</actions>
+		</order>
+		<order name="ClearForest" duration="4" durationState="Work" additional="1">
+			<actions>
+				<removeFeature feature="Forest"/>
+			</actions>
+		</order>
+		<order name="ClearPollution" duration="4" durationState="Work" additional="1">
+			<actions>
+				<removeFeature feature="Pollution"/>
+			</actions>
+		</order>		
+		<order name="GrowFungus" duration="4" durationState="Work" additional="1">
+			<actions>
+				<hasAttribute attribute="FungusCultivation"/>
+				<addFeature feature="Fungus"/>
+			</actions>
+		</order>
+		<order name="ClearFungus" duration="4" durationState="Work" additional="1">
+			<actions>
+				<hasAttribute attribute="FungusCultivation"/>
+				<removeFeature feature="Fungus"/>
+			</actions>
+		</order>
+		<order name="ImproveEcoregion" duration="4" durationState="Work" additional="1">
+			<actions>
+				<hasAttribute attribute="Terraform"/>
+				<improveEcoregion/>
+			</actions>
+		</order>
+		<order name="WorsenEcoregion" duration="4" durationState="Work" additional="1">
+			<actions>
+				<hasAttribute attribute="Terraform"/>
+				<worsenEcoregion/>
+			</actions>
+		</order>
+	</orders>
+	<requirements>
+		<group>
+			<player>
+				<technology name="CentauriEcology"/>
+			</player>
+		</group>
+	</requirements>
+	<states>
+		<state name="Die" sound="Explosions/Ground0"/>
+		<state name="Move" sound="Units/Former/Move"/>
+		<state name="Work" animation="Units/Former/Landscape"
+				sound="Units/Former/Landscape"/>
+	</states>
+</unit>

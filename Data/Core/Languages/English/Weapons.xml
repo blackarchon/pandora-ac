@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- description from flavor.txt -->
+	<entry name="Laser2" value="Laser"/>
+	<entry name="Laser2Description" value="Active medium: Diode<br/>Type: Fiber-coupled<br/>Pulse duration: 5 nsec<br/>Wavelength: 193 nm<br/>Peak power: .84 gw<br/>Burn rate (1m steel): .76 sec"/>
+	<entry name="Laser2Properties" value="<icon texture='GUI/Bullet'/>Beam weapon<br/><icon texture='GUI/Bullet'/>Usable by aircrafts, ATVs, mechs, tanks and watercrafts<br/><icon texture='GUI/Bullet'/>+1 attack strength"/>  
+</language>

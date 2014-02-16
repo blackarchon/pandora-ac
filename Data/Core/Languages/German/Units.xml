@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Speeder" value="Speeder"/>
+	<entry name="SpeederDescription" value="Bereich: Land<br/>Tempo: 102 km/h<br/>Verfahren: Radfahrzeug<br/>Abmessungen: 7,7 x 3,6 x 2,9 m<br/>Faktor: +25% in offenem Terrain"/>
+	<entry name="SpeederProperties" value="<icon texture='GUI/Bullet'/>Leichte mechanische Einheit"/>
+</language>

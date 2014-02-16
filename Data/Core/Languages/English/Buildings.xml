@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
+	<!-- Description is from blurbsx.txt (#FAC...) -->
 	<entry name="RecyclingTanks" value="Recycling Tanks"/>
-	<entry name="RecyclingTanksDescription" value="<style name='Default'/>Increases food, minerals, and credits output."/>
-	<entry name="RecyclingTanksProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/Food'/> food<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/Minerals'/> minerals<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/Credits'/> credits"/>
+	<entry name="RecyclingTanksDescription" value="<style name='Default'/>It is every citizen's final duty to go into the tanks and become one with all the people.<br/>   -- Chairman Sheng-ji Yang,<style name='Italic'/> Ethics for Tomorrow<style name='Default'/>"/>
+	<entry name="RecyclingTanksProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/Food'/> food<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/Minerals'/> mineral<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/Credits'/> credit"/>
+	<entry name="RecreationCommons" value="Recreation Commons"/>
+	<entry name="RecreationCommonsDescription" value="<style name='Default'/>The entire character of a base and its inhabitants can be absorbed in a quick trip to the Rec Commons. The sweaty arenas of Fort Legion, the glittering gambling halls of Morgan Bank, the sunny lovers' trysts in Gaia's High Garden, or the somber reading rooms of U.N. Headquarters. Even the feeding bay at the Hive gives stark insight into the sleeping demons of Yang's communal utopia.<br/>   -- Commissioner Pravin Lal,<style name='Italic'/> A Social History of Planet<style name='Default'/>"/>
+	<entry name="RecreationCommonsProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Morale'/> morale"/>
+	<entry name="NetworkNode" value="Network Node"/>
+	<entry name="NetworkNodeDescription" value="<style name='Default'/>I don't know but I've been told,<br/>  Deirdre's got a Network Node.<br/>Likes to press the on-off switch,<br/>  Dig that crazy Gaian witch!<br/>   -- Spartan Barracks March"/>
+	<entry name="NetworkNodeProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Resources/Research'/> research"/>
+	<entry name="CommandCenter" value="Command Center"/>
+	<entry name="CommandCenterDescription" value="<style name='Default'/>Superior training and superior weaponry have, when taken together, a geometric effect on overall military strength. Well-trained, well-equipped troops can stand up to many more times their lesser brethren than linear arithmetic would seem to indicate.<br/>   -- Spartan Battle Manual"/>
+	<entry name="CommandCenterProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Attributes/Rank'/> ranks for new units"/>
+	<entry name="Aquafarm" value="Aquafarm"/>
+	<!--<entry name="AquafarmDescription" value="<style name='Default'/>Superior training and superior weaponry have, when taken together, a geometric effect on overall military strength. Well-trained, well-equipped troops can stand up to many more times their lesser brethren than linear arithmetic would seem to indicate.<br/>   -- Spartan Battle Manual"/>-->
+	<entry name="AquafarmProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+20% <icon texture='Resources/Food'/> food"/>
 </language>

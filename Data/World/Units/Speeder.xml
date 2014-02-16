@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<unit category="ATV" cost="32" field="Land" icon="Units/ATVIcon"
+		movement="3" power="1" sight="2" tier="0" upkeep="1.5">
+	<model type="ATV" material="Units/ATV0" mesh="Units/ATV0"
+			scale="1.25 1.25 1.25"/>
+	<group size="3" rowSize="3" rowArc="35"
+			memberDeltaX="0" memberDeltaY="75"/>
+	<attributes>
+		<attribute name="Light"/>
+		<attribute name="Mechanical"/>
+	</attributes>
+	<modifiers>
+		<modifier>
+			<effects>
+				<score strategy="Explore" add="0.2"/>
+				<score strategy="Fight" add="0.4"/>
+				<score strategy="Mechanical" add="0.4"/>
+			</effects>
+		</modifier>
+	</modifiers>
+	<orders>
+		<order name="Move" hidden="1">
+			<actions>
+				<move/>
+			</actions>
+		</order>
+		<order name="HoldPosition">
+			<actions>
+				<holdPosition/>
+			</actions>
+		</order>
+		<order name="Guard">
+			<actions>
+				<guard/>
+			</actions>
+		</order>
+		<order name="Heal">
+			<actions>
+				<holdPositionUntilHealed/>
+			</actions>
+		</order>
+		<order name="Skip">
+			<actions>
+				<skip/>
+			</actions>
+		</order>
+		<order name="Disband">
+			<actions>
+				<disband/>
+			</actions>
+		</order>
+		<order name="Attack" hidden="1">
+			<actions>
+				<attack/>
+			</actions>
+		</order>
+		<order name="DestroyImprovement">
+			<actions>
+				<destroyFeatureWithType featureType="Modification"/>
+			</actions>
+		</order>
+		<order name="DestroyRoad">
+			<actions>
+				<destroyFeatureWithType featureType="Road"/>
+			</actions>
+		</order>
+		<order name="Refit">
+			<actions>
+				<checkForMovement/>
+				<checkForCity/>
+			</actions>
+		</order>
+		<order name="Drop">
+			<actions>
+				<drop/>
+			</actions>
+		</order>	
+	</orders>
+	<requirements>
+		<group>
+			<player>
+				<technology name="DoctrineMobility"/>
+			</player>
+		</group>
+	</requirements>
+	<states>
+		<state name="Die" animation="Units/ATV0/Die"
+				sound="Explosions/Ground0"/>
+		<state name="Move" sound="Units/ATV/Move"/>		
+	</states>
+</unit>

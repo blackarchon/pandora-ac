@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Artillery" value="Artillerie"/>
+	<entry name="ArtilleryDescription" value="Für indirektes Feuern wird eine externe Zielbestimmung benötigt, für gewöhnlich in Form eines vorgerückten Beobachters. Allerdings ist das Feuern über große Distanzen aufgrund der unvorhersehbaren Gravitationsinterferenzen auf Pandora eher ein Glücksspiel und weit davon entfernt, eine verlässliche Option zu sein.<br/><br/>Gelenktes indirektes Feuern macht den menschlichen Beobachter obsolet und nutzt stattdessen eine Drohne, die selbst im Flug der schweren Geschosse noch korrigierend eingreifen kann und damit eine akkurate Zielfindung gewährleistet."/>
+	<entry name="ArtilleryProperties" value="<icon texture='GUI/Bullet'/>Artilleriewaffe<br/><icon texture='GUI/Bullet'/>Flächenangriff mit doppelter Reichweite<br/><icon texture='GUI/Bullet'/>Kein Gegenschlag beim Angriff<br/><icon texture='GUI/Bullet'/>Kein Bonus durch Panzerung beim Angriff<br/><icon texture='GUI/Bullet'/>Je niedriger die gegnerische Gesundheit ist, desto geringer fällt der Angriffsschaden aus"/>
+</language>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<building cost="80" icon="Buildings/NetworkNode" tier="0" upkeep="1">
+	<modifiers>
+		<modifier>
+			<effects>
+				<researchPerTurnMultiplier add="0.5"/>
+				<score strategy="Build" add="1"/>
+			</effects>
+		</modifier>
+	</modifiers>
+	<requirements>
+		<group>
+			<player>
+				<technology name="InformationNetworks"/>
+			</player>
+		</group>
+	</requirements>
+</building>

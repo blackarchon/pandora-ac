@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- description from flavor.txt -->
+	<entry name="Armor2" value="Synthmetall-Panzer"/>
+	<entry name="Armor2Description" value="Typ: Chobham (modifiziert)<br/>Zugfestigkeit: Basis<br/>Dichte: 2,3 kg/l<br/>Dicke: 250 mm"/>
+	<entry name="Armor2Properties" value="<icon texture='GUI/Bullet'/>Panzerung<br/><icon texture='GUI/Bullet'/>+1 Defensivstärke"/>
+</language>

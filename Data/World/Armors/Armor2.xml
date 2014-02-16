@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<armor icon="Armors/Armor0Icon" tier="0">
+	<modifiers>
+		<modifier>
+			<effects>
+				<score strategy="Fight" add="1.0"/>
+				<unitCostMultiplier add="0.25"/>
+			</effects>
+		</modifier>
+		<modifier>
+			<conditions>
+				<unit>
+					<self>
+						<defender/>
+					</self>
+				</unit>
+			</conditions>
+			<effects>
+				<power add="1"/>
+			</effects>
+		</modifier>
+	</modifiers>
+	<requirements>
+		<group>
+			<player>
+				<technology name="IndustrialBase"/>
+			</player>
+		</group>
+	</requirements>
+</armor>

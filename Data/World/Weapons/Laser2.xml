@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<weapon category="Laser" tier="0">
+	<branches>
+		<branch unitCategory="Aircraft" icon="Weapons/LaserIcon" 
+				mesh="Weapons/Turrets/Light/Laser0" 
+				material="Weapons/Turrets/Light/Laser0">
+			<states>
+				<state name="Windup" duration="500"/>
+				<state name="Fire" duration="1000" sound="Weapons/Laser0"/>
+				<state name="Winddown" duration="500"/>
+			</states>
+		</branch>
+		<branch unitCategory="ATV" icon="Weapons/LaserIcon" 
+				mesh="Weapons/Turrets/Light/Laser0" 
+				material="Weapons/Turrets/Light/Laser0">
+			<states>
+				<state name="Windup" duration="500"/>
+				<state name="Fire" duration="1000" sound="Weapons/Laser0"/>
+				<state name="Winddown" duration="500"/>
+			</states>
+		</branch>
+		<branch unitCategory="Mech" icon="Weapons/LaserIcon" 
+				mesh="Weapons/Turrets/Light/Laser0" 
+				material="Weapons/Turrets/Light/Laser0">
+			<states>
+				<state name="Windup" duration="500"/>
+				<state name="Fire" duration="1000" sound="Weapons/Laser0"/>
+				<state name="Winddown" duration="500"/>
+			</states>
+		</branch>
+		<branch unitCategory="Tank" icon="Weapons/LaserIcon" 
+				mesh="Weapons/Turrets/Heavy/Laser0" 
+				material="Weapons/Turrets/Heavy/Laser0">
+			<states>
+				<state name="Windup" duration="500"/>
+				<state name="Fire" duration="1000" sound="Weapons/Laser0"/>
+				<state name="Winddown" duration="500"/>
+			</states>
+		</branch>		
+		<branch unitCategory="Watercraft" icon="Weapons/LaserIcon" 
+				mesh="Weapons/Turrets/Heavy/Laser0" 
+				material="Weapons/Turrets/Heavy/Laser0">
+			<states>
+				<state name="Windup" duration="500"/>
+				<state name="Fire" duration="1000" sound="Weapons/Laser0"/>
+				<state name="Winddown" duration="500"/>
+			</states>
+		</branch>		
+	</branches>
+	<modifiers>
+		<modifier>
+			<effects>
+				<unitCostMultiplier add="0.5"/>
+			</effects>
+		</modifier>
+		<modifier>
+			<conditions>
+				<unit>
+					<self>
+						<attacker/>
+					</self>
+				</unit>
+			</conditions>
+			<effects>
+				<power add="1"/>
+			</effects>
+		</modifier>
+	</modifiers>
+	<requirements>
+		<group>
+			<player>
+				<technology name="AppliedPhysics"/>
+			</player>
+		</group>
+	</requirements>
+</weapon>

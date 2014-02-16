@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
+	<!-- Description is from blurbsx.txt (#FAC...) -->
 	<entry name="RecyclingTanks" value="Recyclingtanks"/>
-	<entry name="RecyclingTanksDescription" value="<style name='Default'/>Steigert die Nahrungs-, Mineralien-, und Credit-Produktion."/>
-	<entry name="RecyclingTanksProperties" value="<icon texture='GUI/Bullet'/>Gebäude<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/Food'/> Nahrung<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/Minerals'/> Mineralien<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/Credits'/> Credits"/>
+	<entry name="RecyclingTanksDescription" value="<style name='Default'/>Die letzte Pflicht jedes Bürgers ist es, in die Tanks zu steigen und eins zu werden mit dem ganzen Volke.<br/>   -- Vorsitzender Sheng-ji Yang,<style name='Italic'/> Ethik der Zukunft<style name='Default'/>"/>
+	<entry name="RecyclingTanksProperties" value="<icon texture='GUI/Bullet'/>Gebäude<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/Food'/> Nahrung<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/Minerals'/> Mineral<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/Credits'/> Credit"/>
+	<entry name="RecreationCommons" value="Erholungsgebiet"/>
+	<entry name="RecreationCommonsDescription" value="<style name='Default'/>Der gesamte Charakter einer Basis und seiner Bewohner kann durch einen kurzen Abstecher in die Erholungsgebiete erfahren werden. Die schweißgebadeten Kampfstätten in Fort Legion, die glitzernden Spielhallen in Morgan Bank, die sonnigen Liebeshaine in Gaias Hohen Gärten oder die nüchternen Leseräume im UN-Hauptquartier. Sogar der Speisesaal der Kolonie gewährt einen tiefen Einblick in die schlafenden Dämonen von Yangs Gesellschaftsutopie.<br/>   -- Abgesandter Pravin Lal,<style name='Italic'/> Sozialgeschichte des Planeten<style name='Default'/>"/>
+	<entry name="RecreationCommonsProperties" value="<icon texture='GUI/Bullet'/>Gebäude<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Morale'/> Moral"/>
+	<entry name="NetworkNode" value="Netzwerkknoten"/>
+	<entry name="NetworkNodeDescription" value="<style name='Default'/>Hört ihr Leut, was ich Euch sag!<br/>  Deirdre hat einen Netzwerkknoten.<br/>Drückt den Knopf tausendmal am Tag,<br/>  Diese Gaiahexe hätt ich gern in meinen Pfoten!<br/>   -- Spartanischer Kasernenmarsch"/>
+	<entry name="NetworkNodeProperties" value="<icon texture='GUI/Bullet'/>Gebäude<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Resources/Research'/> Forschung"/>
+	<entry name="CommandCenter" value="Kommandozentrale"/>
+	<entry name="CommandCenterDescription" value="<style name='Default'/>Herausragendes Training und moderne Waffen haben, zusammengesehen, einen geometrischen Effekt auf die Gesamtstärke des Militärs. Gut trainierte und ausgestattete Truppen können sich wesentlich häufiger gegenüber ihren schwächeren Brüdern behaupten, als es die lineare Arithmetik erahnen lässt.<br/>   -- Handbuch spartanischer Kriegskunst"/>
+	<entry name="CommandCenterProperties" value="<icon texture='GUI/Bullet'/>Gebäude<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Attributes/Rank'/> Ränge für neue Einheiten"/>
+	<entry name="Aquafarm" value="Wasserfarm"/>
+	<!--<entry name="AquafarmDescription" value="..."/>-->
+	<entry name="AquafarmProperties" value="<icon texture='GUI/Bullet'/>Gebäude<br/><icon texture='GUI/Bullet'/>+20% <icon texture='Resources/Food'/> Nahrung"/>
 </language>
