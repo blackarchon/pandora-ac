@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<technology hidden="1" category="Mathematics" reward="Building" tier="1" subTier="1">
+	<requirements>
+		<group min="1">
+			<player>
+				<technology name="Production1"/>
+				<technology name="Research1"/>
+			</player>
+		</group>
+	</requirements>
+</technology>

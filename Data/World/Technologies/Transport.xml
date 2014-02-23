@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<technology hidden="1" category="Strategy" reward="Advancement" tier="0" subTier="0">
+	<requirements>
+		<group min="1">
+			<player>
+				<technology name="FoodMinerals"/>
+				<technology name="Flame0"/>
+			</player>
+		</group>
+	</requirements>
+</technology>

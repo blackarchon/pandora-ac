@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<technology hidden="1" category="Physics" reward="Armor" tier="2" subTier="1">
+	<requirements>
+		<group min="1">
+			<player>
+				<technology name="EMPBeam"/>
+				<technology name="Tank2"/>
+			</player>
+		</group>
+	</requirements>
+</technology>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<technology hidden="1" category="Mathematics" reward="Weapon" tier="1" subTier="0">
+	<requirements>
+		<group min="1">
+			<player>
+				<technology name="Laser0"/>
+				<technology name="Mech0"/>
+			</player>
+		</group>
+	</requirements>
+</technology>

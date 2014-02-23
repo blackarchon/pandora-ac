@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<technology hidden="1" category="Sociology" reward="Operation" tier="0" subTier="0"/>
+<technology hidden="1" category="Sociology" reward="Operation" tier="0" subTier="0">
+	<requirements>
+		<group min="1">
+			<player>
+				<technology name="Colonization"/>
+				<technology name="Research0"/>
+			</player>
+		</group>
+	</requirements>
+</technology>

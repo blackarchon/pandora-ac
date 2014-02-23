@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<technology hidden="1" category="Engineering" reward="Advancement" tier="0" subTier="2">
+	<requirements>
+		<group min="1">
+			<player>
+				<technology name="Credits0"/>
+				<technology name="Guerrilla"/>
+			</player>
+		</group>
+	</requirements>
+</technology>

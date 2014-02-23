@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<technology hidden="1" category="Sociology" reward="Building" tier="1" subTier="0">
+	<requirements>
+		<group min="1">
+			<player>
+				<technology name="Armor3"/>
+				<technology name="Defense1"/>
+			</player>
+		</group>
+	</requirements>
+</technology>

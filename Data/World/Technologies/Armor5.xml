@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<technology hidden="1" category="Chemistry" reward="Armor" tier="1" subTier="2">
+	<requirements>
+		<group min="1">
+			<player>
+				<technology name="Aircraft1"/>
+				<technology name="Artillery1"/>
+			</player>
+		</group>
+	</requirements>
+</technology>

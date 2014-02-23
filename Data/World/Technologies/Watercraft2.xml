@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<technology hidden="1" category="Engineering" reward="Unit" tier="2" subTier="1">
+	<requirements>
+		<group min="1">
+			<player>
+				<technology name="Cannon2"/>
+				<technology name="Population2"/>
+			</player>
+		</group>
+	</requirements>
+</technology>
