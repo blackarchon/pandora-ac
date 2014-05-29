@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="ForestFood1" value="Nahrungsanreicherung im Wald"/>
+	<entry name="ForestFood1Properties" value="<icon texture='GUI/Bullet'/>Fortschritt<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/Food'/> Nahrung in Gebieten mit Wald"/>
+	<entry name="ForestFood2" value="Nahrungsanreicherung im Wald, Stufe 2"/>
+	<entry name="ForestFood2Properties" value="<icon texture='GUI/Bullet'/>Fortschritt<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/Food'/> Nahrung in Gebieten mit Wald"/>
+</language>

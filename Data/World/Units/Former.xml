@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <unit category="Former" cost="32" field="Land" icon="Units/FormerIcon"
 		movement="2" power="1" showYieldOverlay="1" sight="2" tier="0"
-		upkeep="1">
+		upkeep="1" technology="CentauriEcology">
 	<model type="Former" material="Units/Former" mesh="Units/Former"/>
 	<attributes>
 		<attribute name="Civilian"/>
@@ -138,13 +138,6 @@
 			</actions>
 		</order>
 	</orders>
-	<requirements>
-		<group>
-			<player>
-				<technology name="CentauriEcology"/>
-			</player>
-		</group>
-	</requirements>
 	<states>
 		<state name="Die" sound="Explosions/Ground0"/>
 		<state name="Move" sound="Units/Former/Move"/>

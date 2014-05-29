@@ -1,11 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<technology hidden="1" category="Strategy" reward="Device" tier="0" subTier="1">
-	<requirements>
-		<group min="1">
-			<player>
-				<technology name="Promotion"/>
-				<technology name="Population0"/>
-			</player>
-		</group>
-	</requirements>
+<technology hidden="1" category="Strategy" tier="0" subTier="1">
 </technology>

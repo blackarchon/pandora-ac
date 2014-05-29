@@ -1,11 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<technology hidden="1" category="Chemistry" reward="Weapon" tier="1" subTier="0">
-	<requirements>
-		<group min="1">
-			<player>
-				<technology name="Automatic1"/>
-				<technology name="Trooper1"/>
-			</player>
-		</group>
-	</requirements>
+<technology hidden="1" category="Chemistry" tier="1" subTier="0">
 </technology>

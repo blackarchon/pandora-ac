@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<building cost="100" icon="Buildings/NetworkNode" tier="0" upkeep="2" technology="AdvancedMilitaryAlgorithms">
+	<modifiers>
+		<modifier>
+			<effects>
+				<researchPerTurnMultiplier sub="0.5"/>
+			</effects>
+		</modifier>
+	</modifiers>
+</building>

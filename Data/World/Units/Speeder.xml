@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <unit category="ATV" cost="32" field="Land" icon="Units/ATVIcon"
-		movement="3" power="0" sight="2" tier="0" upkeep="1.5">
+		movement="3" power="0" sight="2" tier="0" upkeep="1.5" technology="DoctrineMobility">
 	<model type="ATV" material="Units/ATV0" mesh="Units/ATV0"
 			scale="1.25 1.25 1.25"/>
 	<group size="3" rowSize="3" rowArc="35"
@@ -76,13 +76,6 @@
 			</actions>
 		</order>	
 	</orders>
-	<requirements>
-		<group>
-			<player>
-				<technology name="DoctrineMobility"/>
-			</player>
-		</group>
-	</requirements>
 	<states>
 		<state name="Die" animation="Units/ATV0/Die"
 				sound="Explosions/Ground0"/>

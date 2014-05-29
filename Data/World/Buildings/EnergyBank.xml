@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<building cost="80" icon="Buildings/CreditsIcon" tier="0" upkeep="1" technology="IndustrialEconomics">
+	<modifiers>
+		<modifier>
+			<effects>
+				<creditsPerTurnMultiplier add="0.5"/>
+				<score strategy="Build" add="1.0"/>
+			</effects>
+		</modifier>
+	</modifiers>
+</building>

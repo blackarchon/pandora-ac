@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<building cost="100" icon="Buildings/ProductionIcon" tier="0" upkeep="2" technology="RetroviralEngineering">
+	<modifiers>
+		<modifier>
+			<effects>
+				<productionPerTurnMultiplier add="0.5"/>
+				<morale sub="1"/>
+				<score strategy="Build" add="1.0"/>
+			</effects>
+		</modifier>
+	</modifiers>
+</building>

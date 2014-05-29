@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Aspidochs" value="Aspidochs"/>
+	<entry name="Bugs" value="Bugs"/>
+	<entry name="Gaians" value="Gaia's Stepdaughters"/>
+	<entry name="GaiansLeaderPrename" value="Deidre"/>
+	<entry name="GaiansLeaderSurname" value="Skye"/>
+	<entry name="GaiansLeaderTitle" value="Lady"/>
+	<entry name="GaiansProperties" value="<icon texture='GUI/Bullet'/>Environmental safeguards: -20% <icon texture='Resources/Pollution'/> pollution and -20% <icon texture='Factions/NativeIcon' width='16'/> alien aggression<br/><icon texture='GUI/Bullet'/>Experience with life systems &amp; recycling: +40% <icon texture='Resources/Credits'/> credits from taxes<br/><icon texture='GUI/Bullet'/>Pacifist tendencies: -10% <icon texture='Attributes/Power'/> power<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/Food'/> Nutrients in fungus squares<br/><icon texture='GUI/Bullet'/>Freedom loving: -1 <icon texture='Resources/Morale'/> morale<br/><icon texture='GUI/Bullet'/>Begins with a Former"/>
+	<entry name="GaiansQuote" value="<style name='Italic'/>&quot;In the great commons at Gaia's Landing we have a tall and particularly beautiful stand of white pine, planted at the time of the first colonies. It represents our promise to the people, and to Planet itself, never to repeat the tragedy of Earth.&quot;<style name='Default'/><br/>   -- Lady Deirdre Skye,<style name='Italic'/> Planet Dreams<style name='Default'/>"/>
+	<entry name="GaiansTheme" value="Gaians"/>
+	<entry name="GaiansWelcome" value="<style name='Italic'/>&quot;In the great commons at Gaia's Landing we have a tall and particularly beautiful stand of white pine, planted at the time of the first colonies. It represents our promise to the people, and to Planet itself, never to repeat the tragedy of Earth.&quot;<style name='Default'/><br/>   -- Lady Deirdre Skye,<style name='Italic'/> Planet Dreams<style name='Default'/>"/>
+	<entry name="Hive" value="The Hive"/>
+	<entry name="HiveLeaderPrename" value="Sheng-Ji"/>
+	<entry name="HiveLeaderSurname" value="Yang"/>
+	<entry name="HiveLeaderTitle" value="Chairman"/>
+	<entry name="HiveProperties" value="<icon texture='GUI/Bullet'/>Rapid population growth: +20% <icon texture='Resources/PositiveGrowth'/> growth<br/><icon texture='GUI/Bullet'/>Brutal serfdom: +20% <icon texture='Resources/Production'/> production from workers<br/><icon texture='GUI/Bullet'/>Little political freedom: 40% <icon texture='Resources/Credits'/> worse prices<br/><icon texture='GUI/Bullet'/>Begins with Adaptive Fortifications"/>
+	<entry name="HiveQuote" value="<style name='Italic'/>&quot;Learn to overcome the crass demands of flesh and bone, for they warp the matrix through which we perceive the world. Extend your awareness outwards, beyond the self of body, to embrace the self of group and the self of humanity. The goals of the group and the greater race are transcendent, and to embrace them is to achieve enlightenment.&quot;<style name='Default'/><br/>   -- Chairman Sheng-ji Yang,<style name='Italic'/> Essays on Mind and Matter<style name='Default'/>"/>
+	<entry name="HiveTheme" value="Hive"/>
+	<entry name="HiveWelcome" value="<style name='Italic'/>&quot;Learn to overcome the crass demands of flesh and bone, for they warp the matrix through which we perceive the world. Extend your awareness outwards, beyond the self of body, to embrace the self of group and the self of humanity. The goals of the group and the greater race are transcendent, and to embrace them is to achieve enlightenment.&quot;<style name='Default'/><br/>   -- Chairman Sheng-ji Yang,<style name='Italic'/> Essays on Mind and Matter<style name='Default'/>"/>
+	<entry name="Morgan" value="Morgan Industries"/>
+	<entry name="MorganLeaderPrename" value="Nwabudike"/>
+	<entry name="MorganLeaderSurname" value="Morgan"/>
+	<entry name="MorganLeaderTitle" value="CEO"/>
+	<entry name="MorganProperties" value="<icon texture='GUI/Bullet'/>Wealthy: +100 <icon texture='Resources/Credits'/> starting credits<br/><icon texture='GUI/Bullet'/>Followers have expensive tastes: +20% <icon texture='Attributes/Upkeep'/> unit upkeep<br/><icon texture='GUI/Bullet'/>Industrial conglomerate: 20% <icon texture='Resources/Credits'/> better prices<br/><icon texture='GUI/Bullet'/>Creature comforts at a premium: -2 <icon texture='Resources/Habitat'/> habitat<br/><icon texture='GUI/Bullet'/>Begins with Reinforced Steel Plates"/>
+	<entry name="MorganQuote" value="<style name='Italic'/>&quot;Human behavior is economic behavior. The particulars may vary, but competition for limited resources remains a constant. Need as well as greed have followed us to the stars, and the rewards of wealth still await those wise enough to recognize this deep thrumming of our common pulse.&quot;<style name='Default'/><br/>   -- CEO Nwabudike Morgan,<style name='Italic'/> The Centauri Monopoly<style name='Default'/>"/>
+	<entry name="MorganTheme" value="Morgan"/>
+	<entry name="MorganWelcome" value="<style name='Italic'/>&quot;Human behavior is economic behavior. The particulars may vary, but competition for limited resources remains a constant. Need as well as greed have followed us to the stars, and the rewards of wealth still await those wise enough to recognize this deep thrumming of our common pulse.&quot;<style name='Default'/><br/>   -- CEO Nwabudike Morgan,<style name='Italic'/> The Centauri Monopoly<style name='Default'/>"/>
+	<entry name="Believe" value="Lord's Believers"/>
+	<entry name="BelieveLeaderPrename" value="Miriam"/>
+	<entry name="BelieveLeaderSurname" value="Godwinson"/>
+	<entry name="BelieveLeaderTitle" value="Sister"/>
+	<entry name="BelieveProperties" value="<icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> bonus when attacking enemies, from strength of convictions<br/><icon texture='GUI/Bullet'/>Citizens eager to defend faith: -40% <icon texture='Attributes/Upkeep'/> unit upkeep<br/><icon texture='GUI/Bullet'/>Suspicious of secular science: -40% <icon texture='Resources/Research'/> research from scientists<br/><icon texture='GUI/Bullet'/>Believe Planet is their promised land: +20% <icon texture='Resources/Pollution'/> pollution and +20% <icon texture='Factions/NativeIcon' width='16'/> alien aggression<br/><icon texture='GUI/Bullet'/>Begins with Holographic Projections"/>
+	<entry name="BelieveQuote" value="<style name='Italic'/>&quot;The righteous need not cower before the drumbeat of human progress. Though the song of yesterday fades into the challenge of tomorrow, God still watches and judges us. Evil lurks in the datalinks as it lurked in the streets of yesteryear. But it was never the streets that were evil.&quot;<style name='Default'/><br/>   -- Sister Miriam Godwinson,<style name='Italic'/> The Blessed Struggle<style name='Default'/>"/>
+	<entry name="BelieveTheme" value="Believe"/>
+	<entry name="BelieveWelcome" value="<style name='Italic'/>&quot;The righteous need not cower before the drumbeat of human progress. Though the song of yesterday fades into the challenge of tomorrow, God still watches and judges us. Evil lurks in the datalinks as it lurked in the streets of yesteryear. But it was never the streets that were evil.&quot;<style name='Default'/><br/>   -- Sister Miriam Godwinson,<style name='Italic'/> The Blessed Struggle<style name='Default'/>"/>
+	<entry name="Flyers" value="Flyers"/>
+	<entry name="Giants" value="Giants"/>
+	<entry name="Peace" value="Peacekeeping Forces"/>
+	<entry name="PeaceLeaderPrename" value="Pravin"/>
+	<entry name="PeaceLeaderSurname" value="Lal"/>
+	<entry name="PeaceLeaderTitle" value="Brother"/>
+	<entry name="PeaceProperties" value="<icon texture='GUI/Bullet'/>U.N. style bureaucracy: -20% <icon texture='Resources/Credits'/> credits from taxes<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Habitat'/> habitat<br/><icon texture='GUI/Bullet'/>Begins with Biogenetics"/>
+	<entry name="PeaceQuote" value="<style name='Italic'/>&quot;As the Americans learned so painfully in Earth's final century, free flow of information is the only safeguard against tyranny. The once-chained people whose leaders at last lose their grip on information flow will soon burst with freedom and vitality, but the free nation gradually constricting its grip on public discourse has begun its rapid slide into despotism. Beware of he who would deny you access to information, for in his heart he dreams himself your master.&quot;<style name='Default'/><br/>   -- Commissioner Pravin Lal,<style name='Italic'/> U.N. Declaration of Rights<style name='Default'/>"/>
+	<entry name="PeaceTheme" value="Peace"/>
+	<entry name="PeaceWelcome" value="<style name='Italic'/>&quot;As the Americans learned so painfully in Earth's final century, free flow of information is the only safeguard against tyranny. The once-chained people whose leaders at last lose their grip on information flow will soon burst with freedom and vitality, but the free nation gradually constricting its grip on public discourse has begun its rapid slide into despotism. Beware of he who would deny you access to information, for in his heart he dreams himself your master.&quot;<style name='Default'/><br/>   -- Commissioner Pravin Lal,<style name='Italic'/> U.N. Declaration of Rights<style name='Default'/>"/>
+	<entry name="Invaders" value="Harbingers"/>
+	<entry name="Leviathans" value="Leviathans"/>
+	<entry name="Spartans" value="Spartan Federation"/>
+	<entry name="SpartansLeaderPrename" value="Corazon"/>
+	<entry name="SpartansLeaderSurname" value="Santiago"/>
+	<entry name="SpartansLeaderTitle" value="Colonel"/>
+	<entry name="SpartansProperties" value="<icon texture='GUI/Bullet'/>Well-armed survivalist movement: +20% <icon texture='Attributes/Power'/> power<br/><icon texture='GUI/Bullet'/>Highly disciplined followers: +1 <icon texture='Resources/Morale'/> morale<br/><icon texture='GUI/Bullet'/>Extravagant weapons are costly: -20% <icon texture='Resources/Production'/> production from workers<br/><icon texture='GUI/Bullet'/>Begins with Analytical Dynamics"/>
+	<entry name="SpartansQuote" value="<style name='Italic'/>&quot;Superior training and superior weaponry have, when taken together, a geometric effect on overall military strength. Well-trained, well-equipped troops can stand up to many more times their lesser brethren than linear arithmetic would seem to indicate.&quot;<style name='Default'/><br/>   -- Spartan Battle Manual<style name='Default'/>"/>
+	<entry name="SpartansTheme" value="Spartans"/>
+	<entry name="SpartansWelcome" value="<style name='Italic'/>&quot;Superior training and superior weaponry have, when taken together, a geometric effect on overall military strength. Well-trained, well-equipped troops can stand up to many more times their lesser brethren than linear arithmetic would seem to indicate.&quot;<style name='Default'/><br/>   -- Spartan Battle Manual<style name='Default'/>"/>
+	<entry name="QueenFlyers" value="Comminuotors"/>
+	<entry name="Random" value="Random"/>
+	<entry name="Univ" value="University of Planet"/>
+	<entry name="UnivLeaderPrename" value="Prokhor"/>
+	<entry name="UnivLeaderSurname" value="Zakharov"/>
+	<entry name="UnivLeaderTitle" value="Provost"/>
+	<entry name="UnivProperties" value="<icon texture='GUI/Bullet'/>Brilliant research: +40% <icon texture='Resources/Research'/> research from scientists<br/><icon texture='GUI/Bullet'/>Lack of ethics: -2 <icon texture='Resources/Morale'/> morale<br/><icon texture='GUI/Bullet'/>Begins with Quantization"/>
+	<entry name="UnivQuote" value="<style name='Italic'/>&quot;The substructure of the universe regresses infinitely towards smaller and smaller components. Behind atoms we find electrons, and behind electrons quarks. Each layer unraveled reveals new secrets, but also new mysteries.&quot;<style name='Default'/><br/>   -- Academician Prokhor Zakharov,<style name='Italic'/> For I Have Tasted The Fruit<style name='Default'/>"/>
+	<entry name="UnivTheme" value="Univ"/>
+	<entry name="UnivWelcome" value="<style name='Italic'/>&quot;The substructure of the universe regresses infinitely towards smaller and smaller components. Behind atoms we find electrons, and behind electrons quarks. Each layer unraveled reveals new secrets, but also new mysteries.&quot;<style name='Default'/><br/>   -- Academician Prokhor Zakharov,<style name='Italic'/> For I Have Tasted The Fruit<style name='Default'/>"/>
+	<entry name="Cyborg" value="The Cybernetic Consciousness"/>
+	<entry name="CyborgLeaderPrename" value="Aki"/>
+	<entry name="CyborgLeaderSurname" value="Zeta-5"/>
+	<entry name="CyborgLeaderTitle" value="Prime Function"/>
+	<entry name="CyborgProperties" value="<icon texture='GUI/Bullet'/>Human research abilities enhanced by algorithmic control: +40% <icon texture='Resources/Research'/> research from scientists<br/><icon texture='GUI/Bullet'/>Cybernetic biologicals extremely efficient: +40% <icon texture='Resources/Credits'/> credits from taxes<br/><icon texture='GUI/Bullet'/>Humans 'possessed by an algorithm' find reproduction awkward: -20% <icon texture='Resources/PositiveGrowth'/> growth<br/><icon texture='GUI/Bullet'/>Begins with Quantization"/>
+	<entry name="CyborgQuote" value="<style name='Italic'/>&quot;Those who join us need give up only half of their humanity--the illogical, ill-tempered, and disordered half, commonly thought of as 'right-brain' functioning. In exchange, the 'left-brain' capacities are increased to undreamed potential. The tendency of Biologicals to cling instead to their individual personalities can only be attributed to archaic evolutionary tendencies.&quot;<style name='Default'/><br/>   -- Prime Function Aki Zeta-Five,<style name='Italic'/> Convergence<style name='Default'/>"/>
+	<entry name="CyborgTheme" value="Cyborg"/>
+	<entry name="CyborgWelcome" value="<style name='Italic'/>&quot;Those who join us need give up only half of their humanity--the illogical, ill-tempered, and disordered half, commonly thought of as 'right-brain' functioning. In exchange, the 'left-brain' capacities are increased to undreamed potential. The tendency of Biologicals to cling instead to their individual personalities can only be attributed to archaic evolutionary tendencies.&quot;<style name='Default'/><br/>   -- Prime Function Aki Zeta-Five,<style name='Italic'/> Convergence<style name='Default'/>"/>
+	<entry name="Pirates" value="Nautilus Pirates"/>
+	<entry name="PiratesLeaderPrename" value="Ulrik"/>
+	<entry name="PiratesLeaderSurname" value="Svensgaard"/>
+	<entry name="PiratesLeaderTitle" value="Captain"/>
+	<entry name="PiratesProperties" value="<icon texture='GUI/Bullet'/>Individualistic mentality opposed to central organization: -20% <icon texture='Resources/Credits'/> credits from taxes<br/><icon texture='GUI/Bullet'/>Culture does not place high emphasis on family: -20% <icon texture='Resources/PositiveGrowth'/> growth<br/><icon texture='GUI/Bullet'/>Culture and technology adapted for the ocean: +1 <icon texture='Resources/Minerals'/> minerals from coast and ocean tiles<br/><icon texture='GUI/Bullet'/>Begins with Analytical Dynamics and Naval Transportation Logistics"/>
+	<entry name="PiratesQuote" value="<style name='Italic'/>&quot;The sea ... vast, mysterious ... and full of wealth! And the nations of Planet send their trade across it without a thought. Well, the sea doesn't care about  them, so it lets them pass. But we can give the sea a little hand in teaching the landlubbers a lesson in humility.&quot;<style name='Default'/><br/>   -- Captain Ulrik Svensgaard,<style name='Italic'/> The Ripple and the Wave<style name='Default'/>"/>
+	<entry name="PiratesTheme" value="Pirates"/>
+	<entry name="PiratesWelcome" value="<style name='Italic'/>&quot;The sea ... vast, mysterious ... and full of wealth! And the nations of Planet send their trade across it without a thought. Well, the sea doesn't care about  them, so it lets them pass. But we can give the sea a little hand in teaching the landlubbers a lesson in humility.&quot;<style name='Default'/><br/>   -- Captain Ulrik Svensgaard,<style name='Italic'/> The Ripple and the Wave<style name='Default'/>"/>
+	<entry name="Drone" value="The Free Drones"/>
+	<entry name="DroneLeaderPrename" value="?"/>
+	<entry name="DroneLeaderSurname" value="Domai"/>
+	<entry name="DroneLeaderTitle" value="Foreman"/>
+	<entry name="DroneProperties" value="<icon texture='GUI/Bullet'/>Excellent craftsmen and skilled workers: +40% <icon texture='Resources/Production'/> production from workers<br/><icon texture='GUI/Bullet'/>Emphasis on productivity instead of 'blue-sky' research: -40% <icon texture='Resources/Research'/> research from scientists<br/><icon texture='GUI/Bullet'/>Working for common good reduces discontent: +1 <icon texture='Resources/Morale'/> morale<br/><icon texture='GUI/Bullet'/>Begins with Reinforced Steel Plates"/>
+	<entry name="DroneQuote" value="<style name='Italic'/>&quot;Now it's day and night the irons clang, and like poor galley slaves<br/>We toil and toil, and when we die, must fill dishonored graves<br/>But some dark night, when everything is silent in the town<br/>I'll shoot those tyrants one and all, I'll gun the flogger down<br/>I'll give the land a little shock, remember what I say,<br/>And they'll yet regret they've sent Jim Jones in chains to Botany Bay.&quot;<style name='Default'/><br/>   -- &quot;Jim Jones&quot;,<style name='Italic'/> Traditional<style name='Default'/>"/>
+	<entry name="DroneTheme" value="Drone"/>
+	<entry name="DroneWelcome" value="<style name='Italic'/>&quot;Now it's day and night the irons clang, and like poor galley slaves<br/>We toil and toil, and when we die, must fill dishonored graves<br/>But some dark night, when everything is silent in the town<br/>I'll shoot those tyrants one and all, I'll gun the flogger down<br/>I'll give the land a little shock, remember what I say,<br/>And they'll yet regret they've sent Jim Jones in chains to Botany Bay.&quot;<style name='Default'/><br/>   -- &quot;Jim Jones&quot;,<style name='Italic'/> Traditional<style name='Default'/>"/>
+	<entry name="Angels" value="The Data Angels"/>
+	<entry name="AngelsLeaderPrename" value="Sinder"/>
+	<entry name="AngelsLeaderSurname" value="Roze"/>
+	<entry name="AngelsLeaderTitle" value="Datajack"/>
+	<entry name="AngelsProperties" value="<icon texture='GUI/Bullet'/>Decentralized, difficult to control: -1 <icon texture='Resources/Morale'/> morale<br/><icon texture='GUI/Bullet'/>Begins with Quantization"/>
+	<entry name="AngelsQuote" value="<style name='Italic'/>&quot;What's more important, the data or the jazz? Sure, sure, 'Information should be free' and all that--but anyone can set information free. The jazz is in how you do it, what you do it to, and in almost getting caught without getting caught. The data is 1's and 0's. Life is the jazz.&quot;<style name='Default'/><br/>   -- Datatech Sinder Roze,<style name='Italic'/> Infobop<style name='Default'/>"/>
+	<entry name="AngelsTheme" value="Angels"/>
+	<entry name="AngelsWelcome" value="<style name='Italic'/>&quot;What's more important, the data or the jazz? Sure, sure, 'Information should be free' and all that--but anyone can set information free. The jazz is in how you do it, what you do it to, and in almost getting caught without getting caught. The data is 1's and 0's. Life is the jazz.&quot;<style name='Default'/><br/>   -- Datatech Sinder Roze,<style name='Italic'/> Infobop<style name='Default'/>"/>
+	<entry name="Fungboy" value="The Cult of Planet"/>
+	<entry name="FungboyLeaderPrename" value="Cha"/>
+	<entry name="FungboyLeaderSurname" value="Dawn"/>
+	<entry name="FungboyLeaderTitle" value="Prophet"/>
+	<entry name="FungboyProperties" value="<icon texture='GUI/Bullet'/>Devoted to promoting native growth: -40% <icon texture='Resources/Pollution'/> pollution and -40% <icon texture='Factions/NativeIcon' width='16'/> alien aggression<br/><icon texture='GUI/Bullet'/>Reluctant to pollute environment: -20% <icon texture='Resources/Production'/> production from workers<br/><icon texture='GUI/Bullet'/>Disinterested in wealth and its trappings: 20% <icon texture='Resources/Credits'/> worse prices<br/><icon texture='GUI/Bullet'/>Begins with Holographic Projections"/>
+	<entry name="FungboyQuote" value="<style name='Italic'/>&quot;Mankind has been blind for thousands of years-for all of its history. We have come to a place whose wonders are a hundred-fold more amazing than anything on Earth. Around us is clear evidence of the will of a higher power. I bring the Vision to the blind eyes of men. I bring the Word to the deaf ears of men. I will make them see it. I will make them hear it.&quot;<style name='Default'/><br/>   -- Prophet Cha Dawn,<style name='Italic'/> Planet Rising<style name='Default'/>"/>
+	<entry name="FungboyTheme" value="Fungboy"/>
+	<entry name="FungboyWelcome" value="<style name='Italic'/>&quot;Mankind has been blind for thousands of years-for all of its history. We have come to a place whose wonders are a hundred-fold more amazing than anything on Earth. Around us is clear evidence of the will of a higher power. I bring the Vision to the blind eyes of men. I bring the Word to the deaf ears of men. I will make them see it. I will make them hear it.&quot;<style name='Default'/><br/>   -- Prophet Cha Dawn,<style name='Italic'/> Planet Rising<style name='Default'/>"/>
+	<entry name="Caretake" value="Manifold Caretakers"/>
+	<entry name="CaretakeLeaderPrename" value="Lular"/>
+	<entry name="CaretakeLeaderSurname" value="H'minee"/>
+	<entry name="CaretakeLeaderTitle" value="Caretaker"/>
+	<entry name="CaretakeProperties" value="<icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> Defensive combat: Can sense and manipulate &quot;Resonance&quot; fields<br/><icon texture='GUI/Bullet'/>Understand workings of Planet, the Sixth Manifold: -20% <icon texture='Resources/Pollution'/> pollution and -20% <icon texture='Factions/NativeIcon' width='16'/> alien aggression<br/><icon texture='GUI/Bullet'/>Make Planetfall with a Mk I Battle Ogre and extra Colony Pod<br/><icon texture='GUI/Bullet'/>All units have 1 additional <icon texture='Attributes/Sight'/> sight range (&quot;Resonance&quot; sensitivity)<br/><icon texture='GUI/Bullet'/>Begins with a Former"/>
+	<entry name="CaretakeQuote" value="<style name='Italic'/>&quot;Tau Ceti Flowering: Horrors visited upon neighboring systems must never be repeated. Therefore: if it means the end of our evolution as a species, so be it.&quot;<style name='Default'/><br/>   -- Caretaker Lular H'minee,<style name='Italic'/> Sacrifice: Life<style name='Default'/>"/>
+	<entry name="CaretakeTheme" value="Caretake"/>
+	<entry name="CaretakeWelcome" value="<style name='Italic'/>&quot;Tau Ceti Flowering: Horrors visited upon neighboring systems must never be repeated. Therefore: if it means the end of our evolution as a species, so be it.&quot;<style name='Default'/><br/>   -- Caretaker Lular H'minee,<style name='Italic'/> Sacrifice: Life<style name='Default'/>"/>
+	<entry name="Usurper" value="Manifold Usurpers"/>
+	<entry name="UsurperLeaderPrename" value="Judaa"/>
+	<entry name="UsurperLeaderSurname" value="Marr"/>
+	<entry name="UsurperLeaderTitle" value="Usurper"/>
+	<entry name="UsurperProperties" value="<icon texture='GUI/Bullet'/>Abuse Planet's resources for their own gain: +20% <icon texture='Resources/PositiveGrowth'/> growth<br/><icon texture='GUI/Bullet'/>Warlike culture: +10% <icon texture='Attributes/Power'/> power<br/><icon texture='GUI/Bullet'/>Planet senses Usurper's dark intent: +20% <icon texture='Resources/Pollution'/> pollution and +20% <icon texture='Factions/NativeIcon' width='16'/> alien aggression<br/><icon texture='GUI/Bullet'/>+25% Offensive combat: Can sense &amp; manipulate &quot;Resonance&quot; fields<br/><icon texture='GUI/Bullet'/>Begin game with a Mk I Battle Ogre and extra Colony Pod<br/><icon texture='GUI/Bullet'/>All units have 1 additional <icon texture='Attributes/Sight'/> sight range (&quot;Resonance&quot; sensitivity)<br/><icon texture='GUI/Bullet'/>Begins with Biogenetics"/>
+	<entry name="UsurperQuote" value="<style name='Italic'/>&quot;Risks of Flowering: considerable. But rewards of godhood: who can measure?&quot;<style name='Default'/><br/>   -- Usurper Judaa Marr,<style name='Italic'/> Courage: To Question<style name='Default'/>"/>
+	<entry name="UsurperTheme" value="Usurper"/>
+	<entry name="UsurperWelcome" value="<style name='Italic'/>&quot;Risks of Flowering: considerable. But rewards of godhood: who can measure?&quot;<style name='Default'/><br/>   -- Usurper Judaa Marr,<style name='Italic'/> Courage: To Question<style name='Default'/>"/>
+	<entry name="Sharks" value="Sharks"/>
+</language>

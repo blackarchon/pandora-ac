@@ -1,11 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<technology hidden="1" category="Electronics" reward="Weapon" tier="0" subTier="0">
-	<requirements>
-		<group min="1">
-			<player>
-				<technology name="Armor0"/>
-				<technology name="Flame0"/>
-			</player>
-		</group>
-	</requirements>
+<technology hidden="1" category="Electronics" tier="0" subTier="0">
 </technology>

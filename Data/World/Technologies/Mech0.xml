@@ -1,11 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<technology hidden="1" category="Engineering" reward="Unit" tier="0" subTier="2">
-	<requirements>
-		<group min="1">
-			<player>
-				<technology name="Armor2"/>
-				<technology name="Flak0"/>
-			</player>
-		</group>
-	</requirements>
+<technology hidden="1" category="Engineering" tier="0" subTier="2">
 </technology>

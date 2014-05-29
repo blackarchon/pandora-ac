@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<building cost="50" icon="Buildings/RecyclingTanks" tier="0" upkeep="1" technology="EthicalCalculus">
+	<modifiers>
+		<modifier>
+			<effects>
+				<growthPerTurnMultiplier add="0.2"/>
+				<creditsPerTurnMultiplier add="0.1"/>
+				<!-- additional: +1 unitRank for stationed units in this city-->
+				<powerMultiplier add="0.1"/>
+				<score strategy="Build" add="0.5"/>
+			</effects>
+		</modifier>
+	</modifiers>
+</building>

@@ -1,18 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<technology hidden="1" category="Sociology" reward="Advancement" tier="0" subTier="1">
-	<requirements>
-		<group min="1">
-			<player>
-				<technology name="Defense0"/>
-			</player>
-		</group>
-	</requirements>
-	<requirements>
-		<group min="1">
-			<player>
-				<technology name="ATV0"/>
-				<technology name="Transport"/>
-			</player>
-		</group>
-	</requirements>
+<technology hidden="1" category="Sociology" tier="0" subTier="1">
 </technology>

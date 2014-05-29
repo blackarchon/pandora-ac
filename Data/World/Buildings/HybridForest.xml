@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<building cost="240" icon="Buildings/PollutionIcon" tier="0" upkeep="4" technology="PlanetaryEconomics">
+	<modifiers>
+		<modifier>
+			<effects>
+				<pollutionMultiplier sub="0.25"/>
+				<creditsPerTurnMultiplier add="0.5"/>
+				<morale add="4"/>
+				<score strategy="Build" add="0.5"/>
+				<score strategy="ImprovePollution" add="0.5"/>
+			</effects>
+		</modifier>
+	</modifiers>
+</building>

@@ -1,11 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<technology hidden="1" category="Strategy" reward="Advancement" tier="1" subTier="1">
-	<requirements>
-		<group min="1">
-			<player>
-				<technology name="DropPod"/>
-				<technology name="Research1"/>
-			</player>
-		</group>
-	</requirements>
+<technology hidden="1" category="Strategy" tier="1" subTier="1">
 </technology>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="ForestFood1" value="Forest Food Enhancer"/>
+	<entry name="ForestFood1Properties" value="<icon texture='GUI/Bullet'/>Advancement<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/Food'/> food from territories with forest in all cities"/>
+	<entry name="ForestFood2" value="Forest Food Enhancer Mk2"/>
+	<entry name="ForestFood2Properties" value="<icon texture='GUI/Bullet'/>Advancement<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/Food'/> food from territories with forest in all cities"/>
+</language>

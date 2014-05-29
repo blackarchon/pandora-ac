@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- description from flavor.txt -->
+	<entry name="Armor2" value="Synthmetal Armor"/>
+	<entry name="Armor2Description" value="Type: Chobham (modified)<br/>Tensile strength: Base<br/>Density: 2.3 kg\l<br/>Thickness: 250mm"/>
+	<entry name="Armor2Properties" value="<icon texture='GUI/Bullet'/>Armor<br/><icon texture='GUI/Bullet'/>+1 defensive strength"/>
+</language>

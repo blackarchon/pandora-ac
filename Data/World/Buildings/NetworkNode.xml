@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<building cost="80" icon="Buildings/NetworkNode" tier="0" upkeep="1">
+<building cost="80" icon="Buildings/NetworkNode" tier="0" upkeep="1" technology="InformationNetworks">
 	<modifiers>
 		<modifier>
 			<effects>
@@ -8,11 +8,4 @@
 			</effects>
 		</modifier>
 	</modifiers>
-	<requirements>
-		<group>
-			<player>
-				<technology name="InformationNetworks"/>
-			</player>
-		</group>
-	</requirements>
 </building>

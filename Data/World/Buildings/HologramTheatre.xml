@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<building cost="60" icon="Buildings/RecreationCommons" tier="0" upkeep="3" technology="PlanetaryNetworks">
+	<modifiers>
+		<modifier>
+			<effects>
+				<morale add="4"/>
+				<score strategy="Build" add="0.5"/>
+				<score strategy="ImproveMorale" add="0.5"/>
+			</effects>
+		</modifier>
+	</modifiers>
+</building>

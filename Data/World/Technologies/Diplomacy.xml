@@ -1,11 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<technology hidden="1" category="Sociology" reward="Advancement" tier="1" subTier="0">
-	<requirements>
-		<group min="1">
-			<player>
-				<technology name="Population0"/>
-				<technology name="Promotion"/>
-			</player>
-		</group>
-	</requirements>
+<technology hidden="1" category="Sociology" tier="1" subTier="0">
 </technology>

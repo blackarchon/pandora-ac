@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<building cost="60" icon="Buildings/NetworkNode" tier="0" upkeep="1" technology="CentauriEmpathy">
+	<modifiers>
+		<modifier>
+			<effects>
+				<researchPerTurn add="2"/>
+				<!-- +1 rank for native lifeforms -->
+				<score strategy="Build" add="1"/>
+			</effects>
+		</modifier>
+	</modifiers>
+</building>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<advancement cost="720" icon="Icons/Advancements/Default" tier="1" technology="PlanetaryEconomics">
+	<modifiers>
+		<modifier>
+			<effects>
+				<score strategy="Build" add="1.0"/>
+			</effects>
+		</modifier>
+		<modifier>
+			<conditions>
+				<territory>
+					<features>
+						<feature name="Forest"/>
+					</features>
+				</territory>
+			</conditions>
+			<effects>
+				<foodPerTurn add="1"/>
+			</effects>
+		</modifier>
+	</modifiers>
+</advancement>

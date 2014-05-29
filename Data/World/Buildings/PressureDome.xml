@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<building cost="80" icon="Buildings/PollutionIcon" tier="0" upkeep="0" technology="DoctrineFlexibility">
+	<modifiers>
+		<modifier>
+			<effects>
+				<!--<habitat add="15"/>
+				<score strategy="Build" add="0.5"/>
+				<score strategy="ImproveHabitat" add="0.5"/>-->
+			</effects>
+		</modifier>
+	</modifiers>
+</building>

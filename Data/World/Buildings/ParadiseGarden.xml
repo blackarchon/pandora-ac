@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<building cost="120" icon="Buildings/RecreationCommons" tier="0" upkeep="4" technology="SentientEconometrics">
+	<modifiers>
+		<modifier>
+			<effects>
+				<morale add="8"/>
+				<score strategy="Build" add="0.5"/>
+				<score strategy="ImproveMorale" add="0.5"/>
+			</effects>
+		</modifier>
+	</modifiers>
+</building>

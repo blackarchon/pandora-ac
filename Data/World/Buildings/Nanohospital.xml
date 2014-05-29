@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<building cost="240" icon="Buildings/NetworkNode" tier="0" upkeep="4" technology="HomoSuperior">
+	<modifiers>
+		<modifier>
+			<effects>
+				<researchPerTurnMultiplier add="0.5"/>
+				<morale add="4"/>
+				<score strategy="Build" add="1"/>
+			</effects>
+		</modifier>
+	</modifiers>
+</building>

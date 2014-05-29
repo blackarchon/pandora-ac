@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<building cost="320" icon="Buildings/ProductionIcon" tier="0" upkeep="6" technology="MatterEditation">
+	<modifiers>
+		<modifier>
+			<effects>
+				<productionPerTurnMultiplier add="0.5"/>
+				<score strategy="Build" add="1.0"/>
+			</effects>
+		</modifier>
+	</modifiers>
+</building>

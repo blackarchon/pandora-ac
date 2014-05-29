@@ -1,11 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<technology hidden="1" category="Engineering" reward="Building" tier="0" subTier="1">
-	<requirements>
-		<group min="1">
-			<player>
-				<technology name="Production0"/>
-				<technology name="Research0"/>
-			</player>
-		</group>
-	</requirements>
+<technology hidden="1" category="Engineering" tier="0" subTier="1">
 </technology>

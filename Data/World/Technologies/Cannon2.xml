@@ -1,21 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<technology hidden="1" category="Physics" reward="Weapon" tier="2" subTier="1">
-	<requirements>
-		<group min="1">
-			<player>
-				<technology name="Tank0"/>
-				<technology name="Tank1"/>
-				<technology name="Tank2"/>
-				<technology name="Watercraft0"/>
-				<technology name="Watercraft1"/>
-				<technology name="Watercraft2"/>
-			</player>
-		</group>
-		<group min="1">
-			<player>
-				<technology name="Production2"/>
-				<technology name="Tank2"/>
-			</player>
-		</group>
-	</requirements>
+<technology hidden="1" category="Physics" tier="2" subTier="1">
 </technology>

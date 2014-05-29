@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Artillery" value="Artillery"/>
+	<entry name="ArtilleryDescription" value="Indirect fire requires remote target acquisition, usually by a forward observer, but Pandora's unpredictable gravitational interference has made accurate long range artillery wildly unreliable.<br/><br/>Guided indirect artillery disposes of the human component in favor of a drone observer which can provide in-flight corrections to heavy ordnance projectiles for accurate bombardment over extreme ranges."/>
+	<entry name="ArtilleryProperties" value="<icon texture='GUI/Bullet'/>Artillery weapon<br/><icon texture='GUI/Bullet'/>Double range splash attack<br/><icon texture='GUI/Bullet'/>No enemy retaliation<br/><icon texture='GUI/Bullet'/>No gain from armor when attacking<br/><icon texture='GUI/Bullet'/>Damage proportionally lower with enemy missing health when attacking"/>
+</language>

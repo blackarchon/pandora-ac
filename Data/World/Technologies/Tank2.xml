@@ -1,11 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<technology hidden="1" category="Biology" reward="Unit" tier="2" subTier="1">
-	<requirements>
-		<group min="1">
-			<player>
-				<technology name="Academy2"/>
-				<technology name="ATV2"/>
-			</player>
-		</group>
-	</requirements>
+<technology hidden="1" category="Biology" tier="2" subTier="1">
 </technology>

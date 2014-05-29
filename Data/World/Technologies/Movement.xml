@@ -1,11 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<technology hidden="1" category="Physics" reward="Advancement" tier="2" subTier="2">
-	<requirements>
-		<group min="1">
-			<player>
-				<technology name="Credits2"/>
-				<technology name="Sight"/>
-			</player>
-		</group>
-	</requirements>
+<technology hidden="1" category="Physics" tier="2" subTier="2">
 </technology>
