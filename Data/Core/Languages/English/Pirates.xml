@@ -14,7 +14,10 @@
 <language>
 
 	<!-- The text this faction speaks when encountered for the first time, should tell the player a bit about their agenda. -->
-	<entry name="FirstContact" value="&quot;Greetings %3%! You are talking to Admiral James Heid of the Imperium, 1st Div, Expeditionary Force. Under my direct command is the most advanced war machinery known to men, and the beasts inhabiting this world will feel its full wrath. You better make sure not to walk into my line of fire...&quot;"/>
+	<entry name="FirstContact" value="&quot;Greetings %3%! You are talking to Captain Ulrik Svensgaard of the Nautilus Pirates. Under my direct command is the most advanced war machinery known to men, and the beasts inhabiting this world will feel its full wrath. You better make sure not to walk into my line of fire...&quot;"/>
+	
+	<entry name="LetMeThink" value="&quot;Hmm... give me a moment to think about it.&quot;"/> 
+	<entry name="LetMeKnow" value="&quot;Sure, just let me know once you have made your decision.&quot;"/> 
 	
 	<!-- Tells dialogue partner a third faction is doing some crime that affects her negatively. -->
 	<entry name="DenounceThirdParty0" value="&quot;Just thought you oughta know that some bag is flanking you. Just thought you might want to know.&quot;"/>
@@ -130,7 +133,7 @@
 	<entry name="CondemnAccepted" value="&quot;%4% Triggering a couple WMDs over your followers' heads doesn't seem like such a big deal to me...&quot;"/>
 	<entry name="DeclareWar" value="&quot;%4% From here on out it's total war.&quot;"/>
 	<entry name="DemandWithdrawal" value="&quot;Do not think I'm not aware of your troop concentrations at our borders! Order their immediate withdrawal, or you'll be picking the particles of your boys out of the dirt.&quot;"/>
-	<entry name="Eliminated" value="&quot;The mighty Imperium brought to its knees... Unbelieveable that it has come this far. I will now join my comrades in the last stand. Admiral James Heid, signing off.&quot;"/>
+	<entry name="Eliminated" value="&quot;The mighty Imperium brought to its knees... Unbelieveable that it has come this far. I will now join my comrades in the last stand. Captain Ulrik Svensgaard, signing off.&quot;"/>
 	<entry name="Goodbye" value="&quot;James Heid, signing off.&quot;"/>
 	<entry name="Greet0" value="&quot;What do you want, %2%? I have better things to do than talk to the likes of you.&quot;"/>
 	<entry name="Greet1" value="&quot;Greetings, %3%! Though I am busy devising new strategies, there is always some time for you.&quot;"/>

@@ -14,7 +14,10 @@
 <language>
 
 	<!-- The text this faction speaks when encountered for the first time, should tell the player a bit about their agenda. -->
-	<entry name="FirstContact" value="&quot;May I introduce myself? I am Doctor Alpheus Schreiber, nominal head of Togra University. It was our creations, such as the Alcubierre drive, that brought man to Pandora. Given that, I don't think you grudge us a chance to research this fascinating new world and to expand the borders of human thought, would you? I thought not. I can see we're going to get along... famously.&quot;"/>
+	<entry name="FirstContact" value="&quot;May I introduce myself? I am Provost Prokhor Zakharov, nominal head of the University of Planet. It was our creations, such as the Alcubierre drive, that brought man to Pandora. Given that, I don't think you grudge us a chance to research this fascinating new world and to expand the borders of human thought, would you? I thought not. I can see we're going to get along... famously.&quot;"/>
+	
+	<entry name="LetMeThink" value="&quot;Hmm... give me a moment to think about it.&quot;"/> 
+	<entry name="LetMeKnow" value="&quot;Sure, just let me know once you have made your decision.&quot;"/> 
 	
 	<!-- Tells dialogue partner a third faction is doing some crime that affects her negatively. -->
 	<entry name="DenounceThirdParty0" value="&quot;I don't need to tell you how I know but... you're under threat.&quot;"/>

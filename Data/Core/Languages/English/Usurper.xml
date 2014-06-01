@@ -14,7 +14,10 @@
 <language>
 	
 	<!-- The text this faction speaks when encountered for the first time, should tell the player a bit about their agenda. -->
-	<entry name="FirstContact" value="&quot;Greetings, earthborn. I am Advocate Vivian Gardinier of Terra Salvum. We're here to save this new world -- hopefully, you'll help us.&quot;"/>
+	<entry name="FirstContact" value="&quot;Greetings: earthborn. I am Usurper Judaa Marr of the Manifold Usurpers. We're here to conquer this new world.&quot;"/>
+	
+	<entry name="LetMeThink" value="&quot;Hmm... give me a moment to think about it.&quot;"/> 
+	<entry name="LetMeKnow" value="&quot;Sure, just let me know once you have made your decision.&quot;"/> 
 	
 	<!-- Tells dialogue partner a third faction is doing some crime that affects her negatively. -->
 	<entry name="DenounceThirdParty0" value="&quot;Someone's brown fingers have been withering all your best efforts. Want to know who?&quot;"/>
