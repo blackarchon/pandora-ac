@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<building cost="200" icon="Buildings/PollutionIcon" tier="0" upkeep="3" technology="SecretsOfAlphaCentauri">
+	<modifiers>
+		<modifier>
+			<effects>
+				<pollutionMultiplier sub="0.3333333333"/>
+				<score strategy="Build" add="0.5"/>
+				<score strategy="ImprovePollution" add="0.5"/>
+			</effects>
+		</modifier>
+	</modifiers>
+</building>
