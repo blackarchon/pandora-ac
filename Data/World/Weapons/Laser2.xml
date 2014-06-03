@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<weapon category="Laser" tier="0">
+<weapon category="Laser" tier="0" technology="AppliedPhysics">
 	<branches>
 		<branch unitCategory="Aircraft" icon="Weapons/LaserIcon" 
 				mesh="Weapons/Turrets/Light/Laser0" 
@@ -66,11 +66,4 @@
 			</effects>
 		</modifier>
 	</modifiers>
-	<requirements>
-		<group>
-			<player>
-				<technology name="AppliedPhysics"/>
-			</player>
-		</group>
-	</requirements>
 </weapon>

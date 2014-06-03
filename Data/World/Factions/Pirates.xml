@@ -11,7 +11,7 @@
 				</territory>
 			</conditions>
 			<effects>
-				<mineralsPerTurn add="1"/>
+				<mineralsPerTurn add="2"/>
 			</effects>
 		</modifier>
 		<modifier>
