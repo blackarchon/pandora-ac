@@ -11,7 +11,6 @@
 	<entry name="NetworkNodeDescription" value="<style name='Default'/>I don't know but I've been told,<br/>  Deirdre's got a Network Node.<br/>Likes to press the on-off switch,<br/>  Dig that crazy Gaian witch!<br/>   -- Spartan Barracks March"/>
 	<entry name="NetworkNodeProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Resources/Research'/> research"/>
 	<entry name="Aquafarm" value="Aquafarm"/>
-	<!--<entry name="AquafarmDescription" value="<style name='Default'/>Superior training and superior weaponry have, when taken together, a geometric effect on overall military strength. Well-trained, well-equipped troops can stand up to many more times their lesser brethren than linear arithmetic would seem to indicate.<br/>   -- Spartan Battle Manual"/>-->
 	<entry name="AquafarmProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+20% <icon texture='Resources/Food'/> food"/>
 	<entry name="ChildrensCreche" value="Children's Creche"/>
 	<entry name="ChildrensCrecheDescription" value="<style name='Default'/>Proper care and education for our children remains a cornerstone of our entire colonization effort. Children not only shape our future; they determine in many ways our present. Men and women work harder knowing their children are safe and close at hand. And never forget that, with children present, parents will defend their home to the death.<br/>   -- Col. Corazon Santiago,<style name='Italic'/> Planet: A Survivalist's Guide<style name='Default'/>"/>
@@ -69,10 +68,10 @@
 	<entry name="PunishmentSphereProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>-50% <icon texture='Resources/Research'/> research"/>
 	<entry name="HabComplex" value="Hab Complex"/>
 	<entry name="HabComplexDescription" value="<style name='Default'/>The chief aim of their constitution and government is that, whenever public needs permit, all citizens should be free, so far as possible, to withdraw their time and energy from the service of the body, and devote themselves to the freedom and culture of the mind. For that, they think, is the real happiness of life.<br/>   -- Sir Thomas More,<style name='Italic'/> &quot;Utopia&quot;, Datalinks<style name='Default'/>"/>
-	<entry name="HabComplexProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+7 <icon texture='Resources/Research'/> habitat"/>
+	<entry name="HabComplexProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+7 <icon texture='Resources/Habitat'/> habitat"/>
 	<entry name="HabitationDome" value="Habitation Dome"/>
 	<entry name="HabitationDomeDescription" value="<style name='Default'/> I sit in my cubicle, here on the motherworld.<br/> When I die, they will put my body in a box and<br/>   dispose of it in the cold ground.<br/> And in all the million ages to come, I will never<br/>   breathe or laugh or twitch again.<br/> So won't you run and play with me here among the<br/>   teeming mass of humanity?<br/> The universe has spared us this moment.<br/>   -- Anonymous, Datalinks"/>
-	<entry name="HabitationDomeProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+15 <icon texture='Resources/Research'/> habitat"/>
+	<entry name="HabitationDomeProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+15 <icon texture='Resources/Habitat'/> habitat"/>
 	<entry name="PressureDome" value="Pressure Dome"/>
 	<entry name="PressureDomeDescription" value="<style name='Default'/>When beholding the tranquil beauty and brilliancy of the ocean's skin, one forgets the tiger heart that pants beneath it; and would not willingly remember that this velvet paw but conceals a remorseless fang.<br/>   -- Herman Melville,<style name='Italic'/> &quot;Moby Dick&quot;, Datalinks<style name='Default'/>"/>
 	<entry name="PressureDomeProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>no effect yet, don't build"/>
@@ -97,4 +96,16 @@
 	<entry name="PsiGate" value="Psi Gate"/>
 	<entry name="PsiGateDescription" value="<style name='Default'/>Go through, my children! The time of miracles is upon us. Let us cast off sin and walk together to the Garden of the Lord. With God's mercy we shall meet again on the other side.<br/>   -- Sister Miriam Godwinson,<style name='Italic'/> Last Testament<style name='Default'/>"/>
 	<entry name="PsiGateProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>this building doesn't do anything yet"/>
+	<entry name="CovertOpsCenter" value="Covert Ops Center"/>
+	<entry name="CovertOpsCenterProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>this building doesn't do anything yet"/>
+	<entry name="BroodPit" value="Brood Pit"/>
+	<entry name="BroodPitProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Morale'/> morale"/>
+	<entry name="SubseaTrunkline" value="Subsea Trunkline"/>
+	<entry name="SubseaTrunklineProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+20% <icon texture='Resources/Minerals'/> minerals"/>
+	<entry name="ThermoclineTransducer" value="Thermocline Transducer"/>
+	<entry name="ThermoclineTransducerProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+20% <icon texture='Resources/Credits'/> credits"/>
+	<entry name="FlechetteDefenseSystem" value="Flechette Defense System"/>
+	<entry name="FlechetteDefenseSystemProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> power for defending units"/>
+	<entry name="GeosynchronousSurveyPod" value="Geosynchronous Survey Pod"/>
+	<entry name="GeosynchronousSurveyPodProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for defending units<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> sight for all units"/>
 </language>

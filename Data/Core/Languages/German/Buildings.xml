@@ -11,7 +11,6 @@
 	<entry name="NetworkNodeDescription" value="<style name='Default'/>Hört ihr Leut, was ich Euch sag!<br/>  Deirdre hat einen Netzwerkknoten.<br/>Drückt den Knopf tausendmal am Tag,<br/>  Diese Gaiahexe hätt ich gern in meinen Pfoten!<br/>   -- Spartanischer Kasernenmarsch"/>
 	<entry name="NetworkNodeProperties" value="<icon texture='GUI/Bullet'/>Gebäude<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Resources/Research'/> Forschung"/>
 	<entry name="Aquafarm" value="Wasserfarm"/>
-	<!--<entry name="AquafarmDescription" value="..."/>-->
 	<entry name="AquafarmProperties" value="<icon texture='GUI/Bullet'/>Gebäude<br/><icon texture='GUI/Bullet'/>+20% <icon texture='Resources/Food'/> Nahrung"/>
 	<entry name="ChildrensCreche" value="Kinderkrippe"/>
 	<entry name="ChildrensCrecheDescription" value="<style name='Default'/>Die angemessene Versorgung und Ausbildung unserer Kinder stellt auch weiterhin einen Eckpfeiler in unseren Kolonialisierungsbemühungen dar. Unsere Kinder bestimmen nicht nur unsere Zukunft, sie formen auch unsere Gegenwart. Männer und Frauen arbeiten härter, wenn sie ihre Kinder in Sicherheit wissen. Und vergesst niemals, dass Eltern ihr Heim bis in den Tod verteidigen, wenn sie Kinder haben.<br/>   -- Colonel Corazon Santiago,<style name='Italic'/> Planet: Ein Führer für Überlebenskämpfer<style name='Default'/>"/>
@@ -37,7 +36,7 @@
 	<entry name="TreeFarm" value="Baumfarm"/>
 	<entry name="TreeFarmDescription" value="<style name='Default'/>Auf den weiten Angern bei Gaia's Landing steht ein großer und besonders schöner weißer Kiefernhain, gepflanzt zur Zeit der ersten Besiedlung. Er erinnert immer wieder an unser Versprechen an die Menschheit, an den Planeten selbst, niemals mehr die Tragödie der Erde zu wiederholen.<br/>   -- Lady Deirdre Skye,<style name='Italic'/> Planeten-Träume<style name='Default'/>"/>
 	<entry name="TreeFarmProperties" value="<icon texture='GUI/Bullet'/>Gebäude<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Resources/Pollution'/> Umweltverschmutzung<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Resources/Credits'/> Credits durch Steuern<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Morale'/> Moral"/>
-	<entry name="HybridForest" value="Hybrid Forest"/>
+	<entry name="HybridForest" value="Hybrider Wald"/>
 	<entry name="HybridForestDescription" value="<style name='Default'/>In dieser Anlage seht ihr ein Gemisch aus einheimischen Pflanzen und Erdpflanzen. Draußen stehen sie im steten Wettstreit, kämpfen um die lebensnotwendigen Spurenelemente. Oftmals kommt es vor, dass eine Pflanze eine andere zerstört. Hier jedoch werden sie gepflegt und gehegt. Alle Pflanzen gedeihen gemeinsam, und der einheimische Fungus ist seiner furchtbaren Abwehrkräfte beraubt. Wie ihr sehen könnt, Wettstreit ist unnötig, sind genug Ressourcen vorhanden und wird der Wachstumsfaktor überwacht.<br/>   -- Lady Deirdre Skye,<style name='Italic'/> Planeten-Träume<style name='Default'/>"/>
 	<entry name="HybridForestProperties" value="<icon texture='GUI/Bullet'/>Gebäude<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Resources/Pollution'/> Umweltverschmutzung<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Resources/Credits'/> Credits durch Steuern<br/><icon texture='GUI/Bullet'/>+4 <icon texture='Resources/Morale'/> Moral"/>
 	<entry name="FusionLab" value="Fusionslabor"/>
@@ -69,10 +68,10 @@
 	<entry name="PunishmentSphereProperties" value="<icon texture='GUI/Bullet'/>Gebäude<br/><icon texture='GUI/Bullet'/>-50% <icon texture='Resources/Research'/> Forschung"/>
 	<entry name="HabComplex" value="Wohnkomplex"/>
 	<entry name="HabComplexDescription" value="<style name='Default'/>Das Hauptziel ihrer Verfassung und ihres Staates ist es, immer wenn die Ansprüche des Gemeinwesens es erlauben, dass alle Bürger so weit wie möglich frei sein sollen, ihre Zeit und Energie aus dem Dienste des Körpers zu entziehen und sich der Freiheit und der Kultur des Geistes hinzugeben. Denn dies, so denken sie, ist die wahre Freude des Lebens.<br/>   -- Sir Thomas More,<style name='Italic'/> &quot;Utopia&quot;, Datalinks<style name='Default'/>"/>
-	<entry name="HabComplexProperties" value="<icon texture='GUI/Bullet'/>Gebäude<br/><icon texture='GUI/Bullet'/>+7 <icon texture='Resources/Research'/> Wohnraum"/>
+	<entry name="HabComplexProperties" value="<icon texture='GUI/Bullet'/>Gebäude<br/><icon texture='GUI/Bullet'/>+7 <icon texture='Resources/Habitat'/> Wohnraum"/>
 	<entry name="HabitationDome" value="Wohnkuppel"/>
 	<entry name="HabitationDomeDescription" value="<style name='Default'/> Ich sitze in meiner Zelle, hier in der Mutterwelt.<br/> Sterbe ich, so legen sie meinen Körper in eine Kiste und<br/>   verscharren ihn in kalter Erde.<br/> Und in all den kommenden Jahrmillionen werde ich niemals mehr<br/>   atmen oder lachen oder zittern.<br/> So, willst Du nicht mit mir laufen und spielen hier in der<br/>   wimmelnden Masse der Menschheit?<br/> Das Universum ersparte uns diesen Moment.<br/>   -- Anonym, Datalinks"/>
-	<entry name="HabitationDomeProperties" value="<icon texture='GUI/Bullet'/>Gebäude<br/><icon texture='GUI/Bullet'/>+15 <icon texture='Resources/Research'/> Wohnraum"/>
+	<entry name="HabitationDomeProperties" value="<icon texture='GUI/Bullet'/>Gebäude<br/><icon texture='GUI/Bullet'/>+15 <icon texture='Resources/Habitat'/> Wohnraum"/>
 	<entry name="PressureDome" value="Druckkuppel"/>
 	<entry name="PressureDomeDescription" value="<style name='Default'/>Beim Betrachten der friedlichen Schönheit und Brillianz der Meeresoberfläche vergisst man leicht das Tigerherz, das unter derselben schlägt; und sträubt sich zu erinnern, dass sich hinter dieser Seidenpfote eine gnadenlose Pranke verbirgt.<br/>   -- Herman Melville,<style name='Italic'/> &quot;Moby Dick&quot;, Datalinks<style name='Default'/>"/>
 	<entry name="PressureDomeProperties" value="<icon texture='GUI/Bullet'/>Gebäude<br/><icon texture='GUI/Bullet'/>noch keinen Effekt, nicht bauen"/>
@@ -97,4 +96,16 @@
 	<entry name="PsiGate" value="PSI-Tor"/>
 	<entry name="PsiGateDescription" value="<style name='Default'/>Schreitet hindurch, meine Kinder! Die Zeit der Wunder ist gekommen. Lasst uns unsere Sünden abstreifen und gemeinsam zum Garten des Herrn wandeln. Durch Gottes Gnade werden wir uns auf der anderen Seite wiederum begegnen.<br/>   -- Schwester Miriam Godwinson,<style name='Italic'/> Letztes Testament<style name='Default'/>"/>
 	<entry name="PsiGateProperties" value="<icon texture='GUI/Bullet'/>Gebäude<br/><icon texture='GUI/Bullet'/>dieses Gebäude hat noch keinerlei Auswirkungen"/>
+	<entry name="CovertOpsCenter" value="Geheimdienstzentrum"/>
+	<entry name="CovertOpsCenterProperties" value="<icon texture='GUI/Bullet'/>Gebäude<br/><icon texture='GUI/Bullet'/>dieses Gebäude hat noch keinerlei Auswirkungen"/>
+	<entry name="BroodPit" value="Bruthöhle"/>
+	<entry name="BroodPitProperties" value="<icon texture='GUI/Bullet'/>Gebäude<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Morale'/> Moral"/>
+	<entry name="SubseaTrunkline" value="Unterwasser-Hauptleitung"/>
+	<entry name="SubseaTrunklineProperties" value="<icon texture='GUI/Bullet'/>Gebäude<br/><icon texture='GUI/Bullet'/>+20% <icon texture='Resources/Minerals'/> Mineralien"/>
+	<entry name="ThermoclineTransducer" value="Thermokliner Messwandler"/>
+	<entry name="ThermoclineTransducerProperties" value="<icon texture='GUI/Bullet'/>Gebäude<br/><icon texture='GUI/Bullet'/>+20% <icon texture='Resources/Credits'/> Credits"/>
+	<entry name="FlechetteDefenseSystem" value="Flechette-Abwehrsystem"/>
+	<entry name="FlechetteDefenseSystemProperties" value="<icon texture='GUI/Bullet'/>Gebäude<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> Stärke für verteidigende Einheiten"/>
+	<entry name="GeosynchronousSurveyPod" value="Geosynchrone Überwachungskapsel"/>
+	<entry name="GeosynchronousSurveyPodProperties" value="<icon texture='GUI/Bullet'/>Gebäude<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> Stärke für verteidigende Einheiten<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> Sicht für alle Einheiten"/>
 </language>
